@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 100">
+  <rect width="180" height="100" fill="#F7F3E8"/>
+  
+  <!-- Clean Αχ -->
+  <text x="90" y="65" font-family="'EB Garamond', Georgia, serif" font-size="50" fill="#1C1917" text-anchor="middle">Αχ</text>
+  
+  <!-- Stitch line underneath -->
+  <path d="M30 82 L45 82 M55 82 L70 82 M80 82 L95 82 M105 82 L120 82 M130 82 L145 82" 
+        stroke="#1C1917" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

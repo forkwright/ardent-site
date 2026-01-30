@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 110">
+  <rect width="160" height="110" fill="#F7F3E8"/>
+  
+  <!-- Nu (mind/nous) - faded, what forgets -->
+  <path d="M20 25 L20 85 Q20 90, 25 85 L55 30 Q60 25, 60 30 L60 85" stroke="#A8A29E" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Chi (hand) - solid, what remembers -->
+  <path d="M80 18 Q85 26, 100 48 Q115 70, 125 88 Q130 100, 125 108" stroke="#1C1917" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M137 20 Q132 28, 112 53 Q92 78, 78 93" stroke="#1C1917" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+</svg>

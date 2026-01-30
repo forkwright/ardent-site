@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 115">
+  <rect width="170" height="115" fill="#F7F3E8"/>
+  
+  <!-- Mu (memory) -->
+  <path d="M18 90 L18 32 Q18 25, 24 32 L42 68 Q48 80, 54 68 L72 32 Q78 25, 78 32 L78 90" stroke="#1C1917" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Chi (hand) -->
+  <path d="M95 18 Q100 26, 115 48 Q130 70, 140 88 Q145 100, 140 108" stroke="#1C1917" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M152 20 Q147 28, 127 53 Q107 78, 93 93" stroke="#1C1917" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+</svg>

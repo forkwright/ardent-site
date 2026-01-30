@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 100">
+  <rect width="180" height="100" fill="#F7F3E8"/>
+  
+  <!-- Simplified brain/head outline - faded -->
+  <path d="M25 70 Q15 60, 15 45 Q15 25, 35 20 Q50 15, 55 25 Q60 15, 75 20 Q90 25, 90 45 Q90 60, 80 70" 
+        fill="none" stroke="#C5C0B8" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Clean χ - solid (hand remembers) -->
+  <text x="135" y="72" font-family="'EB Garamond', Georgia, serif" font-size="60" fill="#1C1917" text-anchor="middle">χ</text>
+</svg>

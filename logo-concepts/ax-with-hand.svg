@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#F7F3E8"/>
+  
+  <!-- Simplified hand silhouette reaching toward letters -->
+  <path d="M10 70 Q15 65, 20 50 L25 35 L23 50 L30 30 L28 50 L35 25 L33 50 L40 32 L38 55 Q42 65, 50 70" 
+        fill="#1C1917" stroke="none"/>
+  
+  <!-- Clean Greek Αχ -->
+  <text x="130" y="72" font-family="'EB Garamond', Georgia, serif" font-size="60" fill="#1C1917" text-anchor="middle">Αχ</text>
+</svg>

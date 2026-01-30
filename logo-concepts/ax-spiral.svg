@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#F7F3E8"/>
+  
+  <!-- Spiral element -->
+  <path d="M30 50 Q30 30, 50 30 Q70 30, 70 50 Q70 65, 55 65 Q42 65, 42 52 Q42 42, 52 42 Q58 42, 58 50" 
+        fill="none" stroke="#1C1917" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Clean Αχ -->
+  <text x="140" y="70" font-family="'EB Garamond', Georgia, serif" font-size="55" fill="#1C1917" text-anchor="middle">Αχ</text>
+</svg>

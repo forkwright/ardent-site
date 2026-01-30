@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 180">
+  <rect width="160" height="180" fill="#F7F3E8"/>
+  
+  <!-- Hand-drawn A -->
+  <path d="M30 160 Q35 140, 75 30 Q80 20, 85 30 Q125 140, 130 160" 
+        fill="none" stroke="#1C1917" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Spiral as crossbar -->
+  <g fill="none" stroke="#1C1917" stroke-width="4" stroke-linecap="round">
+    <path d="M45 105
+             Q45 95, 55 95
+             Q70 95, 70 108
+             Q70 125, 52 125
+             Q30 125, 30 102
+             Q30 75, 60 75
+             Q95 75, 95 108
+             Q95 145, 55 145"/>
+  </g>
+</svg>

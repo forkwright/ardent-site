@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#F7F3E8"/>
+  
+  <!-- Golden spiral - more detailed fibonacci approximation -->
+  <g fill="none" stroke="#1C1917" stroke-width="3.5" stroke-linecap="round">
+    <!-- Spiral from center outward -->
+    <path d="M150 100 
+             Q150 85, 162 85
+             Q180 85, 180 100
+             Q180 120, 158 120
+             Q130 120, 130 95
+             Q130 62, 165 62
+             Q208 62, 208 105
+             Q208 155, 155 155
+             Q95 155, 95 95
+             Q95 30, 165 30
+             Q240 30, 240 105"/>
+  </g>
+  
+  <!-- Clean Αχ typography positioned with spiral -->
+  <text x="165" y="115" font-family="'EB Garamond', Georgia, serif" font-size="48" fill="#1C1917" text-anchor="middle">Αχ</text>
+</svg>

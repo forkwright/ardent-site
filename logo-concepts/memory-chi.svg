@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#F7F3E8"/>
+  <!-- Faint echo (the memory) -->
+  <path d="M28 24 L72 76" stroke="#D6D3CD" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M72 24 L28 76" stroke="#D6D3CD" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <!-- Present mark -->
+  <path d="M25 20 L75 80" stroke="#1C1917" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M75 20 L25 80" stroke="#1C1917" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>

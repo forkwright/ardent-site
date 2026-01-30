@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#F7F3E8"/>
+  <!-- Rough, burnished strokes -->
+  <path d="M22 18 C28 25, 42 42, 50 50 C58 58, 72 75, 78 82" stroke="#1C1917" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <path d="M78 18 C72 25, 58 42, 50 50 C42 58, 28 75, 22 82" stroke="#1C1917" stroke-width="9" stroke-linecap="round" fill="none"/>
+</svg>

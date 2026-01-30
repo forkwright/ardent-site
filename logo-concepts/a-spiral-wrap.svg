@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#F7F3E8"/>
+  
+  <!-- Large A centered -->
+  <text x="100" y="140" font-family="'EB Garamond', Georgia, serif" font-size="120" font-weight="400" fill="#1C1917" text-anchor="middle">Α</text>
+  
+  <!-- Spiral emerging from/wrapping the A -->
+  <g fill="none" stroke="#1C1917" stroke-width="4" stroke-linecap="round">
+    <path d="M100 90
+             Q100 80, 110 80
+             Q125 80, 125 95
+             Q125 115, 105 115
+             Q80 115, 80 90
+             Q80 60, 110 60
+             Q148 60, 148 100
+             Q148 145, 100 145
+             Q50 145, 50 95
+             Q50 40, 105 40
+             Q168 40, 168 100"/>
+  </g>
+</svg>

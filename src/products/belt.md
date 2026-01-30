@@ -59,15 +59,8 @@ Measure your current belt from the fold at the buckle to the hole you use most.
 Custom sizes available.
 
 <div class="purchase-box">
-  <label for="size">Size</label>
-  <select id="size" name="size">
-    <option value="30">30</option>
-    <option value="32">32</option>
-    <option value="34" selected>34</option>
-    <option value="36">36</option>
-    <option value="38">38</option>
-  </select>
-  <button class="buy-btn" id="buy-btn">Purchase</button>
+  <div class="ec-product-widget" data-id="812721277"></div>
+  <script>xProduct()</script>
 </div>
 
 ## Care

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 115">
+  <rect width="180" height="115" fill="#F7F3E8"/>
+  
+  <!-- Alpha - solid -->
+  <path d="M20 80 Q22 72, 38 27 Q40 22, 44 20" stroke="#1C1917" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <path d="M44 20 Q48 22, 50 27 Q66 72, 68 80" stroke="#1C1917" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M28 57 Q44 55, 60 57" stroke="#1C1917" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Chi shadow/memory - faded -->
+  <path d="M95 27 Q100 35, 115 57 Q130 79, 140 97 Q145 109, 140 115" stroke="#D0CBC3" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M152 29 Q147 37, 127 62 Q107 87, 93 102" stroke="#D0CBC3" stroke-width="5.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- Chi hand - solid -->
+  <path d="M85 20 Q90 28, 105 50 Q120 72, 130 90 Q135 102, 130 108" stroke="#1C1917" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <path d="M142 22 Q137 30, 117 55 Q97 80, 83 95" stroke="#1C1917" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>
