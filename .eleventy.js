@@ -1,7 +1,9 @@
 module.exports = function(eleventyConfig) {
-  // Pass through CSS and images
+  // Pass through static files
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("src/sitemap.xml");
   
   // Ignore the base template from being built as a page
   eleventyConfig.ignores.add("src/_includes/**");
