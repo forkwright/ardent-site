@@ -15,6 +15,17 @@ permalink: /products/belt/
 
 <p class="product-intro">Single layer. Hermann Oak harness. Solid brass.</p>
 
+<div class="product-images">
+  <p class="image-placeholder">Images forthcoming:</p>
+  <ul class="image-placeholder-list">
+    <li>Full belt, laid flat</li>
+    <li>Buckle and keeper detail</li>
+    <li>Edge and stitching close-up</li>
+    <li>Rolled/coiled</li>
+    <li>Patina progression (new vs worn)</li>
+  </ul>
+</div>
+
 ## Construction
 
 Hermann Oak Old World Harness, 11-13oz. The same tannery supplying saddlemakers since 1881. One piece, no layers, no glue.
