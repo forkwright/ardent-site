@@ -16,7 +16,6 @@ bodyClass: home-page
     <a href="/products/" data-greek="ἔργα"><span>products</span></a>
     <a href="/materials/" data-greek="ὕλη"><span>materials</span></a>
     <a href="/dyes/" data-greek="βαφαί"><span>dyes</span></a>
-    <a href="/philosophy/" data-greek="φιλοσοφία"><span>philosophy</span></a>
     <a href="/contact/" data-greek="ἁφή"><span>contact</span></a>
   </nav>
 </div>
