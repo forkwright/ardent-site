@@ -32,7 +32,7 @@ description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-
 
 Hermann Oak Old World Harness, 11-13oz. The same tannery supplying saddlemakers since 1881. One piece, no layers, no glue.
 
-Solid brass heel bar buckle and dome cap chicago screws from Buckle Guy. The screws are replaceable. The keeper is hand-sewn from Wickett & Craig harness leather with Fil au Chinois linen thread.
+Solid brass heel bar buckle and dome cap chicago screws. The screws are replaceable—swap the buckle anytime. The keeper is hand-sewn from Wickett & Craig harness leather with Fil au Chinois linen thread.
 
 Edges burnished. Holes punched and burnished. English tip.
 
