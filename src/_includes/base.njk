@@ -43,15 +43,13 @@
     <p class="footer-address">Austin, Texas</p>
   </footer>
 
-  <!-- Ecwid Store -->
-  <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=code"></script>
+  <!-- Ecwid config (widgets load their own scripts) -->
   <script type="text/javascript">
     window.ec = window.ec || {};
     window.ec.config = window.ec.config || {};
     window.ec.config.storefrontUrls = window.ec.config.storefrontUrls || {};
     window.ec.config.storefrontUrls.cleanUrls = true;
     window.ec.config.baseUrl = '/shop';
-    Ecwid.init();
   </script>
 </body>
 </html>
