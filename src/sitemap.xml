@@ -7,4 +7,6 @@
   <url><loc>https://ardentleatherworks.com/dyes/</loc><priority>0.7</priority></url>
   <url><loc>https://ardentleatherworks.com/philosophy/</loc><priority>0.6</priority></url>
   <url><loc>https://ardentleatherworks.com/contact/</loc><priority>0.5</priority></url>
+  <url><loc>https://ardentleatherworks.com/privacy/</loc><priority>0.3</priority></url>
+  <url><loc>https://ardentleatherworks.com/terms/</loc><priority>0.3</priority></url>
 </urlset>
