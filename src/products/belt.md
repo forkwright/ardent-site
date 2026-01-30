@@ -9,22 +9,11 @@ permalink: /products/belt/
 # Belt
 
 <p class="product-price-large">$110</p>
-<p class="product-shipping">Shipping included. Tax calculated at checkout. Ships within one week.</p>
+<p class="product-shipping">Shipping included · Tax at checkout · Ships within one week</p>
 
 </div>
 
 <p class="product-intro">Single layer. Hermann Oak harness. Solid brass.</p>
-
-<div class="product-images">
-  <p class="image-placeholder">Images forthcoming:</p>
-  <ul class="image-placeholder-list">
-    <li>Full belt, laid flat</li>
-    <li>Buckle and keeper detail</li>
-    <li>Edge and stitching close-up</li>
-    <li>Rolled/coiled</li>
-    <li>Patina progression (new vs worn)</li>
-  </ul>
-</div>
 
 ## Construction
 
@@ -46,27 +35,15 @@ The hide carries the story of the animal that lived. Its scars, its shade. Minim
 
 ## Sizing
 
-Measure your current belt from the fold at the buckle to the hole you use most.
-
-| Size | Fits Waist |
-|------|------------|
-| 30 | 28–30" |
-| 32 | 30–32" |
-| 34 | 32–34" |
-| 36 | 34–36" |
-| 38 | 36–38" |
-
-Custom sizes available.
+Measure your current belt from the fold at the buckle to the hole you use most. Custom sizes available on request.
 
 <div class="purchase-box">
-  <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-812721277" itemtype="http://schema.org/Product" data-single-product-id="812721277"><div class="ecsp-title" itemprop="name" style="display:none;" content="Ardent Belt"></div><div customprop="options"></div><div customprop="qty"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
+  <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-812721277" itemtype="http://schema.org/Product" data-single-product-id="812721277"><div class="ecsp-title" itemprop="name" style="display:none;" content="Ardent Belt"></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
 </div>
 
 ## Care
 
-Wear it. The leather improves with use. No conditioning needed. The hide is already saturated with the oils it needs.
-
-If it gets wet, let it dry slowly away from heat.
+Wear it. The leather improves with use. No conditioning needed—the hide is already saturated with the oils it needs. If it gets wet, let it dry slowly away from heat.
 
 <p class="specs">Width: 1.5" · Thickness: ~5mm</p>
 
