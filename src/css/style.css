@@ -343,10 +343,10 @@ a:hover {
 
 .home-nav a {
   font-family: var(--font-mono);
-  font-size: var(--step--2);
+  font-size: var(--step--1);
   color: var(--text-light);
   text-decoration: none;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
   transition: color 0.2s ease;
   position: relative;
 }
@@ -834,4 +834,28 @@ footer p {
   0%, 5% { opacity: 0; }
   10%, 28% { opacity: 1; }
   33%, 100% { opacity: 0; }
+}
+
+/* === FOOTER IMPROVEMENTS === */
+.footer-brand {
+  margin-bottom: var(--space-xs);
+}
+
+.footer-links {
+  font-size: var(--step--2);
+  margin-bottom: var(--space-xs);
+}
+
+.footer-links a {
+  color: var(--text-light);
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: var(--text);
+}
+
+.footer-address {
+  font-size: var(--step--2);
+  color: var(--text-light);
 }
