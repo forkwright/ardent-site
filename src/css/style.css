@@ -859,3 +859,27 @@ footer p {
   font-size: var(--step--2);
   color: var(--text-light);
 }
+
+/* Ecwid widget overrides */
+.ecsp-SingleProduct-v2 .form-control--select-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ecsp-SingleProduct-v2 .form-control__select-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.ecsp-SingleProduct-v2 .form-control__select-arrow {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.ecsp-SingleProduct-v2 select {
+  padding-right: 2rem;
+}
