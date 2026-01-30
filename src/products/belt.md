@@ -58,9 +58,23 @@ Measure your current belt from the fold at the buckle to the hole you use most.
 
 Custom sizes available.
 
-<div class="purchase-box">
-  <div class="ec-product-widget" data-id="812721277"></div>
-  <script>xProduct()</script>
+<div class="purchase-box" id="product-purchase">
+  <script type="text/javascript">
+    window.ec = window.ec || {};
+    window.ec.config = window.ec.config || {};
+    window.ec.config.enable_canonical_urls = true;
+    
+    window.ecwid_script_defer = true;
+    window.ecwid_dynamic_widgets = true;
+    
+    if (typeof Ecwid != 'undefined') {
+      Ecwid.init();
+    }
+  </script>
+  <div class="ec-store" data-store-id="130265752"></div>
+  <script>
+    xProductBrowser("categoriesPerRow=1","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","style=","responsive=yes","id=product-purchase","productId=812721277");
+  </script>
 </div>
 
 ## Care
