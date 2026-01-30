@@ -61,9 +61,6 @@ Custom sizes available.
 <div class="purchase-box">
   <div class="ec-cart-widget"></div>
   <div class="ec-product-widget" data-ec-product-id="812721277"></div>
-  <script type="text/javascript">
-    Ecwid.init();
-  </script>
 </div>
 
 ## Care

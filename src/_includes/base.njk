@@ -45,12 +45,13 @@
 
   <!-- Ecwid Store -->
   <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=code"></script>
-  <script>
+  <script type="text/javascript">
     window.ec = window.ec || {};
     window.ec.config = window.ec.config || {};
     window.ec.config.storefrontUrls = window.ec.config.storefrontUrls || {};
     window.ec.config.storefrontUrls.cleanUrls = true;
     window.ec.config.baseUrl = '/shop';
+    Ecwid.init();
   </script>
 </body>
 </html>
