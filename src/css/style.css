@@ -279,10 +279,17 @@ a:hover {
   font-size: var(--step-3);
   font-weight: 300;
   font-style: italic;
-  line-height: 1.5;
+  line-height: 1.4;
   max-width: 520px;
   margin: 0;
   color: var(--text);
+  position: relative;
+  min-height: 2.8em;
+}
+
+.home-tagline span {
+  display: block;
+  transition: opacity 0.4s ease;
 }
 
 .home-truth {
@@ -736,10 +743,6 @@ footer p {
 /* === HOME TAGLINE GREEK HOVER === */
 .home-tagline {
   position: relative;
-}
-
-.home-tagline span {
-  transition: opacity 0.4s ease;
 }
 
 .home-tagline::after {
