@@ -919,6 +919,7 @@ footer p {
 .triad-mark.settled .triad-word .english {
   display: block !important;
   position: absolute;
+  top: 0;
   left: 50%;
   transform: translateX(-50%);
   opacity: 0;
