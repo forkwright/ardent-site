@@ -11,10 +11,9 @@ Single-layer harness leather belt. Work/casual positioning. Built to last decade
 | Component | Spec | Source |
 |-----------|------|--------|
 | Strap | Hermann Oak Old World Harness, 11-13oz | Springfield Leather |
-| Buckle | Solid brass heel bar, 1.5" (#10174) | Buckle Guy |
-| Chicago screws | Dome cap, solid brass, LL | Buckle Guy |
+| Buckle | Abbey England Flat Whole Harness, 1.5" solid brass | Abbey England (1832 Walsall foundry) |
 | Keeper leather | Wickett & Craig Traditional Harness | Buckle Guy |
-| Thread | Fil au Chinois Lin Câblé, 332 or 432 | Rocky Mountain Leather |
+| Thread | Fil au Chinois Lin Câblé, 332 Sans | Rocky Mountain Leather |
 | Finish | Ardent wax (beeswax, neatsfoot oil, lanolin) | In-house |
 
 ## Dimensions
@@ -30,13 +29,13 @@ Single-layer harness leather belt. Work/casual positioning. Built to last decade
 ## Construction Details
 
 ### Buckle Attachment
-- Two dome cap chicago screws
+- Hand saddle-stitched with Fil au Chinois Lin Câblé 332 Sans
 - Lightly skived at fold to reduce bulk
-- Screws are replaceable — customer can swap buckle
+- Stitched attachment creates heirloom construction — buckle and leather age together as one piece
 
 ### Keeper
 - Floating keeper (loose loop)
-- Positioned between the two chicago screws
+- Floating keeper positioned between stitched sections
 - Hand saddle-stitched with Fil au Chinois
 - Wickett & Craig harness leather
 
@@ -58,25 +57,25 @@ Single-layer harness leather belt. Work/casual positioning. Built to last decade
 
 ## Hardware Options (Future)
 
-All from Buckle Guy, solid brass base:
+Primary source: Abbey England (1832 Walsall foundry)
+Backup source: Buckle Guy
 
-| Option | Part # | Price (ea) | Notes |
-|--------|--------|------------|-------|
-| **Current:** Natural brass | #10174 | $4.34 | Default |
-| Nickel plate | #10174 NP | ~$4-5 | Silver look, wardrobe versatility |
-| Nickel matte | #10174 NMR2 | ~$5 | Brushed silver, less shiny |
-| PVD Black matte | #10174 PVD | ~$5.75 | Black hardware option |
-| Antique brass | #10174 AB | ~$4 | Aged/patina look |
-| Roller buckle (brass) | #B1187 | ~$8.95 | Easier threading |
-| Roller buckle (nickel) | #B1187 NP | ~$9.77 | Easier threading, silver |
+| Option | Notes |
+|--------|-------|
+| **Current:** Abbey England brass | Default, heirloom quality |
+| Buckle Guy natural brass | Backup option if Abbey unavailable |
+| Buckle Guy nickel plate | Silver look, wardrobe versatility |
+| Buckle Guy nickel matte | Brushed silver, less shiny |
+| Buckle Guy PVD Black matte | Black hardware option |
+| Buckle Guy antique brass | Aged/patina look |
 
-Note: Buckle Guy doesn't carry true stainless steel in this style. Nickel plate on solid brass is the closest for silver/corrosion resistance.
+Note: All hardware is permanently attached via saddle stitching for heirloom construction.
 
 ## Quality Checklist (Pre-Ship)
 
 - [ ] Stitch tension consistent
 - [ ] Edges fully burnished, no rough spots
-- [ ] Hardware secure, screws flush
+- [ ] Stitches flat, thread tension consistent
 - [ ] Holes clean, no tear-out
 - [ ] Date stamp legible
 - [ ] No surface defects on grain side
@@ -92,7 +91,7 @@ Note: Buckle Guy doesn't carry true stainless steel in this style. Nickel plate 
 6. Edge bevel (strap)
 7. Edge bevel (keeper)
 8. Stitch keeper
-9. Attach buckle with chicago screws
+9. Saddle stitch buckle attachment
 10. Edge crease ← TO ADD
 11. Sand edges
 12. Burnish edges

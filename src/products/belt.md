@@ -3,14 +3,14 @@ layout: base.njk
 title: Belt
 permalink: /products/belt/
 seoTitle: Hermann Oak Leather Belt — Handmade in Texas | Ardent
-description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-stitched. The belt will darken as you wear it, recording your years. $110, shipping included.
+description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-stitched. The belt will darken as you wear it, recording your years. $125, shipping included.
 ---
 
 <div class="product-header">
 
 # Belt
 
-<p class="product-price-large">$110</p>
+<p class="product-price-large">$125</p>
 <p class="product-shipping">Shipping included · Tax at checkout · Ships within one week</p>
 
 </div>
@@ -32,13 +32,13 @@ description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-
 
 Hermann Oak Old World Harness, 11-13oz. The same tannery supplying saddlemakers since 1881. One piece, no layers, no glue.
 
-Solid brass heel bar buckle and dome cap chicago screws. The screws are replaceable—swap the buckle anytime. The keeper is hand-sewn from Wickett & Craig harness leather with Fil au Chinois linen thread.
+Abbey England Flat Whole Harness solid brass buckle from their 1832 Walsall foundry—sand-cast using traditional methods. The buckle is hand saddle-stitched to the belt using Fil au Chinois Lin Câblé 332 Sans thread, creating heirloom construction where buckle and leather age together. The keeper is hand-sewn from Wickett & Craig harness leather with the same thread.
 
-Edges burnished. Holes punched and burnished. English tip.
+Edges burnished and hot creased. Holes punched and burnished. English tip.
 
 Finished with Ardent wax: beeswax, neatsfoot oil, lanolin. The leather is tallow-stuffed during tanning. Nothing synthetic.
 
-Every belt is checked for stitch tension, edge finish, and hardware before shipping. Date stamped inside by the keeper.
+Every belt is checked for stitch tension, edge finish, and hardware before shipping. Date stamped YYYYMMDD inside by the keeper.
 
 ## The Leather
 
@@ -68,7 +68,7 @@ Wear it. The leather improves with use. No conditioning needed—the hide is alr
 
 | | |
 |---|---:|
-| Materials | $19 |
-| Labor & Workshop | $81 |
+| Materials | $32 |
+| Labor & Workshop | $83 |
 | Shipping | $10 |
-| **Total** | **$110** |
+| **Total** | **$125** |

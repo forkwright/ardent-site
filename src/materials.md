@@ -26,11 +26,11 @@ The result is firm, structured leather with high water resistance and a patina t
 
 Brass is copper and zinc. It oxidizes slowly to a darker patina that can be polished back or left to age. The same material used in nautical fittings, musical instruments, and ammunition casings. Chosen for durability in all of them.
 
-All Ardent hardware is solid brass from Buckle Guy. Heel bar buckles, dome cap chicago screws. The buckle attaches with screws rather than rivets, making it replaceable without retiring the belt.
+All Ardent hardware is solid brass from Abbey England, a Walsall foundry operating since 1832 and holder of a Royal Warrant. Their sand-cast brass Flat Whole Harness buckles are stitched to the belt using traditional leatherworking methods.
 
 ## Thread
 
-Fil au Chinois Lin Câblé, sizes 332 and 432. French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
+Fil au Chinois Lin Câblé, size 332 Sans for belts. French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
 
 Hand saddle-stitching creates two independent thread paths. If one side wears through, the other holds. Machine stitching uses a single interlocked thread. One break and the whole seam unravels.
 

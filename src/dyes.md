@@ -6,7 +6,7 @@ permalink: /dyes/
 
 # Dyes
 
-The act of dyeing is not decoration. It is an alteration of the skin itself.
+The act of dyeing is not decoration—it's an alteration of the skin itself.
 
 Leather absorbs what you give it. These recipes use historical ingredients: plant matter, mineral mordants, time. The color becomes part of the hide, not a coating on it.
 
@@ -42,7 +42,7 @@ Madder root, logwood, iron mordant. The same pigments that colored Roman boots a
 
 <span class="dye-swatch swatch-thanatochromia"></span><span class="dye-hex">#2C1B3A</span>
 
-Imperial purple from sea-snail dye cost fortunes to make. This version channels that legacy through logwood and indigo, muted into shadow by iron.
+Thanatochromia: What death leaves behind
 
 A coined word. Greek grammar, new meaning.
 
@@ -57,9 +57,9 @@ A coined word. Greek grammar, new meaning.
 
 <span class="dye-swatch swatch-aporia"></span><span class="dye-hex">#5C8E63</span>
 
-Green on leather was historically elusive. Most faded fast or turned brown. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
+Aporia: The philosophical condition of being stuck between unresolvable truths
 
-The philosophical condition a wise mind must pass through to grow.
+Green on leather was historically elusive. Most faded fast or turned brown. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
 
 </div>
 

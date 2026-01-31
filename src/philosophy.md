@@ -70,8 +70,6 @@ Leather is a different kind of system. One where truth is visible in the finishe
 
 All hand tools. French knives, American edgers, brass and oak and thread. No machines between the hand and the work.
 
-Austin, Texas. Since 2024.
-
 <div class="workshop-images">
   <p class="image-placeholder">Workshop images forthcoming:</p>
   <ul class="image-placeholder-list">
