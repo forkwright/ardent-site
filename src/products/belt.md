@@ -32,7 +32,7 @@ description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-
 
 Hermann Oak Old World Harness, 11-13oz. The same tannery supplying saddlemakers since 1881. One piece, no layers, no glue.
 
-Abbey England Flat Whole Harness solid brass buckle from their 1832 Walsall foundry—sand-cast using traditional methods. The buckle is hand saddle-stitched to the belt using Fil au Chinois Lin Câblé 332 Sans thread, creating heirloom construction where buckle and leather age together. The keeper is hand-sewn from Wickett & Craig harness leather with the same thread.
+Abbey England Flat Whole Harness solid brass buckle from their 1832 Walsall foundry. Sand-cast using traditional methods. The buckle is hand saddle-stitched to the belt using Fil au Chinois 332 Sans thread. The keeper is hand-sewn from Wickett & Craig harness leather with the same thread.
 
 Edges burnished and hot creased. Holes punched and burnished. English tip.
 
@@ -60,7 +60,7 @@ Workmanship guaranteed. If it fails, we fix it.
 
 ## Care
 
-Wear it. The leather improves with use. No conditioning needed—the hide is already saturated with the oils it needs. If it gets wet, let it dry slowly away from heat.
+Wear it. The leather improves with use. No conditioning needed. The hide is already saturated with the oils it needs. If it gets wet, let it dry slowly away from heat.
 
 <p class="specs">Width: 1.5" · Thickness: ~5mm</p>
 
