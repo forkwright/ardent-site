@@ -954,21 +954,37 @@ footer p {
 .triad-2 { color: var(--thanatochromia); }
 .triad-3 { color: var(--aporia); }
 
-/* Background color shift on hover (pure CSS, only when settled) */
-body {
-  transition: background 2s ease-in-out;
+/* Background color shift on hover (using pseudo-elements for smooth opacity transition) */
+.home-page {
+  position: relative;
 }
 
-.home-page:has(.triad-mark.settled .triad-1:hover) {
-  background: linear-gradient(180deg, rgba(88, 21, 35, 0.12) 0%, rgba(88, 21, 35, 0.25) 50%, rgba(88, 21, 35, 0.35) 100%);
+.home-page::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+  pointer-events: none;
+  z-index: -1;
 }
 
-.home-page:has(.triad-mark.settled .triad-2:hover) {
-  background: linear-gradient(180deg, rgba(44, 27, 58, 0.15) 0%, rgba(44, 27, 58, 0.3) 50%, rgba(44, 27, 58, 0.4) 100%);
+.home-page:has(.triad-mark.settled .triad-1:hover)::before {
+  background: linear-gradient(180deg, rgba(88, 21, 35, 0.15) 0%, rgba(88, 21, 35, 0.3) 50%, rgba(88, 21, 35, 0.45) 100%);
+  opacity: 1;
 }
 
-.home-page:has(.triad-mark.settled .triad-3:hover) {
-  background: linear-gradient(180deg, rgba(92, 142, 99, 0.12) 0%, rgba(92, 142, 99, 0.25) 50%, rgba(92, 142, 99, 0.35) 100%);
+.home-page:has(.triad-mark.settled .triad-2:hover)::before {
+  background: linear-gradient(180deg, rgba(44, 27, 58, 0.18) 0%, rgba(44, 27, 58, 0.35) 50%, rgba(44, 27, 58, 0.5) 100%);
+  opacity: 1;
+}
+
+.home-page:has(.triad-mark.settled .triad-3:hover)::before {
+  background: linear-gradient(180deg, rgba(92, 142, 99, 0.15) 0%, rgba(92, 142, 99, 0.3) 50%, rgba(92, 142, 99, 0.45) 100%);
+  opacity: 1;
 }
 
 /* === FOOTER IMPROVEMENTS === */
