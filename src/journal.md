@@ -20,4 +20,4 @@ Notes from the bench. What worked, what didn't, what I'm thinking about.
   </li>
 </ul>
 
-<p class="specs">Newest at top.</p>
+<p class="specs">Newest at top. · <a href="/lexicon/">Lexicon</a></p>
