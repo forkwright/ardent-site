@@ -2,7 +2,7 @@
 layout: base.njk
 title: Valet Tray
 permalink: /products/valet-tray/
-seoTitle: Hermann Oak Leather Valet Tray — Handmade in Texas | Ardent
+seoTitle: Hermann Oak Leather Valet Tray | Ardent Leatherworks
 description: Single-piece Hermann Oak leather, folded and hand saddle-stitched at the corners. A quiet place for your daily carry. $85, shipping included.
 ---
 
@@ -24,29 +24,26 @@ description: Single-piece Hermann Oak leather, folded and hand saddle-stitched a
     <li>Corner stitching detail</li>
     <li>With everyday carry items</li>
     <li>Leather grain close-up</li>
-    <li>Patina progression (new vs worn)</li>
   </ul>
 </div>
 
 ## Construction
 
-One piece of Hermann Oak leather, folded at the corners and hand saddle-stitched with Fil au Chinois Lin Câblé 332 Sans thread. No rivets, no snaps, no glue. The corners are the structure.
+One piece of Hermann Oak, folded at the corners and saddle-stitched with Fil au Chinois 332 Sans. No rivets. No snaps. No glue.
 
-The fold lines are worked by hand. The edges burnished and sealed. The base sits flat without reinforcement—the leather's own body is enough.
+Fold lines worked with a bone folder. Edges burnished with canvas. 46 stitches total, four corners.
 
-Date stamped YYYYMMDD on the underside.
+Date stamped on the underside.
 
 ## The Leather
 
-Hermann Oak harness leather, the same we use for belts. Vegetable-tanned using methods unchanged since 1881. Tallow-stuffed during tanning, finished with Ardent wax: beeswax, neatsfoot oil, lanolin.
+Hermann Oak from their St. Louis tannery. Same harness leather we use for belts, skived thinner at the fold lines so it bends clean. Vegetable-tanned, tallow-stuffed. Finished with beeswax and neatsfoot oil.
 
-The tray starts firm. Your hands, your objects, the oils they carry—these soften the leather where contact happens most. The base develops a patina. The corners hold their form. The whole thing becomes yours.
+Starts stiff. Softens where you touch it.
 
 ## What Fits
 
-8" × 6" interior. Sized for a phone, wallet, watch, and keys—with room to spare. The 1.75" walls keep things contained without hiding them.
-
-A quiet place for what you carry. Put things down at night. Pick them up in the morning. The ritual is the point.
+8" × 6" interior. 1.75" walls. Phone, wallet, watch, keys.
 
 <div class="purchase-box">
   <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-812937367" itemtype="http://schema.org/Product" data-single-product-id="812937367"><div class="ecsp-title" itemprop="name" style="display:none;" content="Ardent Valet Tray"></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
@@ -54,13 +51,13 @@ A quiet place for what you carry. Put things down at night. Pick them up in the 
 
 ## Warranty
 
-Workmanship guaranteed. If it fails, we fix it.
+If it fails, we fix it.
 
 ## Care
 
-Use it. The leather improves with contact. No conditioning needed—the hide is already saturated with the oils it needs.
+Use it. The hide is already saturated.
 
-<p class="specs">Interior: 8" × 6" · Walls: 1.75" · Leather: ~6-7oz (2.4-2.8mm)</p>
+<p class="specs">Interior: 8" × 6" · Walls: 1.75" · Leather: 6-7oz</p>
 
 ## Cost Breakdown
 

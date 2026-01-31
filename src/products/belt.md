@@ -36,7 +36,7 @@ Abbey England Flat Whole Harness solid brass buckle from their 1832 Walsall foun
 
 Edges burnished and hot creased. Holes punched and burnished. English tip.
 
-Finished with Ardent wax: beeswax, neatsfoot oil, lanolin. The leather is tallow-stuffed during tanning. Nothing synthetic.
+Finished with beeswax, neatsfoot oil, lanolin. The leather is tallow-stuffed during tanning. Nothing synthetic.
 
 Every belt is checked for stitch tension, edge finish, and hardware before shipping. Date stamped YYYYMMDD inside by the keeper.
 
