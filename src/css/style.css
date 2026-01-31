@@ -802,18 +802,38 @@ footer p {
   font-size: var(--step-2);
   text-decoration: none;
   margin: var(--space-m) 0;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: relative;
-  height: 1.5em;
-  text-align: center;
+  min-height: 1.5em;
+}
+
+/* Greek/English toggle */
+.triad-word .english {
+  display: none;
+}
+
+.triad-word .greek {
+  display: inline;
+}
+
+.triad-mark.settled .triad-word:hover .english {
+  display: inline;
+}
+
+.triad-mark.settled .triad-word:hover .greek {
+  display: none;
 }
 
 /* Cycling state (initial) */
 .triad-mark.cycling .triad-word {
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
   opacity: 0;
+}
+
+.triad-mark.cycling .triad-dot {
+  display: none;
 }
 
 .triad-mark.cycling .triad-1 {
@@ -838,15 +858,9 @@ footer p {
 }
 
 /* Settled state (after cycling) */
-.triad-mark.settled {
-  height: auto;
-}
-
 .triad-mark.settled .triad-word {
   position: static;
-  display: inline;
   opacity: 0;
-  transform: none;
   animation: triadSettle 0.8s ease-out forwards;
   cursor: pointer;
   transition: transform 0.2s ease;
@@ -866,16 +880,11 @@ footer p {
 }
 
 .triad-mark.settled .triad-dot {
-  display: inline;
   margin: 0 0.5em;
   color: var(--text-light);
   opacity: 0;
   animation: triadSettle 0.8s ease-out forwards;
   animation-delay: 0.4s;
-}
-
-.triad-mark:not(.settled) .triad-dot {
-  display: none;
 }
 
 /* Colors */
