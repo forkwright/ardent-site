@@ -12,7 +12,16 @@ Replies within one business day.
 
 ## Updates
 
-<a href="mailto:contact@ardentleatherworks.com?subject=Keep%20me%20updated" class="notify-link">Get notified</a> about new products and limited dye batches.
+New products, limited dye batches, workshop notes. No spam.
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/Ardent_Leatherworks"
+  method="post"
+  class="buttondown-form"
+>
+  <input type="email" name="email" placeholder="your@email.com" required />
+  <button type="submit">Subscribe</button>
+</form>
 
 ## Custom Work
 
