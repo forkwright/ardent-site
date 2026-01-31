@@ -13,7 +13,7 @@ Two products. Each one mastered before adding another.
   <li>
     <a href="/products/belt/">
       <span class="product-name">Belt</span>
-      <span class="product-materials">Hermann Oak · brass · linen</span>
+      <span class="product-materials">Hermann Oak · Wickett & Craig · brass · linen</span>
       <span class="product-price">$150</span>
     </a>
   </li>
