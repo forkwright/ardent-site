@@ -743,7 +743,7 @@ footer p {
 }
 
 /* === HOME TAGLINE HOVER === */
-.home-tagline::after {
+.home .home-tagline[data-alt]::after {
   content: attr(data-alt);
   position: absolute;
   left: 50%;
@@ -756,13 +756,14 @@ footer p {
   white-space: nowrap;
   font-style: italic;
   font-size: var(--step-2);
+  color: var(--text);
 }
 
-.home-tagline:hover::after {
+.home .home-tagline[data-alt]:hover::after {
   opacity: 1;
 }
 
-.home-tagline:hover span {
+.home .home-tagline:hover span {
   opacity: 0;
 }
 
