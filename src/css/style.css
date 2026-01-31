@@ -967,7 +967,7 @@ footer p {
   right: 0;
   bottom: 0;
   opacity: 0;
-  transition: opacity 2s ease-in-out;
+  transition: opacity 3s cubic-bezier(0.4, 0, 0.2, 1);
   pointer-events: none;
   z-index: -1;
 }
