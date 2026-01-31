@@ -9,7 +9,7 @@ permalink: /dyes/
 
 Dye soaks into leather. It doesn't coat it. The color becomes part of the hide.
 
-These recipes use historical ingredients: plant matter, mineral mordants, time. Logwood, madder root, nettle, verdigris. The same materials that colored Roman boots and medieval manuscripts.
+These recipes use historical ingredients: plant matter, mineral mordants, time. Madder root, logwood, indigo, iron. The same materials that colored Roman boots and medieval manuscripts.
 
 Each name names a condition, not just a color.
 
@@ -24,7 +24,7 @@ Each name names a condition, not just a color.
 
 The Greek word for blood. In ancient texts, αἷμα appears wherever sacrifice matters. Tied to lineage, to what was given so something else could continue. Blood is the cost of continuity.
 
-Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly fixed. This one holds. Over years it deepens, warming toward brown-burgundy as the iron continues its slow oxidation.
+Madder root, alum mordant, minimal iron afterbath. The traditional oxblood formula used madder with blood albumin to deepen the red. This version follows that chemistry. Over years it deepens, warming toward brown-burgundy as the pigments continue their slow oxidation.
 
 </div>
 
@@ -39,7 +39,7 @@ Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly 
 
 A coined word. θάνατος (death) + χρώμα (color). Neo-Greek, invented but grammatically correct. The concept needed a name.
 
-Tyrian purple was made from crushed murex snails. The dye came from their death. Imperial purple earned through transformation. This version uses logwood and iron. Same chemistry, different source. The color death leaves behind. It shifts over time toward gray-purple or brown-purple depending on light, darkening where hands touch most.
+Madder root with iron mordant. Iron transforms madder from red toward purple, a color shift that depends on the mordant's sacrifice. The same root, different outcome. It shifts over time toward gray-purple or brown-purple depending on light, darkening where hands touch most.
 
 </div>
 
@@ -54,7 +54,7 @@ Tyrian purple was made from crushed murex snails. The dye came from their death.
 
 A philosophical term from Plato and Aristotle. ἀπορία names the impasse when two truths contradict and neither yields. The only way through is abstraction. Recurse. Hold both as true while climbing another rung of Hayakawa's ladder. Of the three, this word is closest to Ardent's core.
 
-Green on leather was historically elusive. Most greens faded fast or turned brown. Caught between color and decay. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood. The color itself is in aporia: copper pulls toward blue-green, logwood toward brown, nettle holds the middle. Which wins depends on time and use.
+Logwood base with iron, overdyed with indigo. The tension between iron (earth, permanence) and indigo (sky, transcendence), mediated by logwood. The color shifts between blue in bright light and purple in shadow. Green that breathes.
 
 </div>
 
@@ -69,13 +69,13 @@ Green on leather was historically elusive. Most greens faded fast or turned brow
 
 Undyed [Hermann Oak](/materials/). The leather as it leaves the tannery, tallow-stuffed and full of potential.
 
-Vegetable tannins darken with light and handling. The oils from your hands accelerate the change. Honey becomes amber becomes deep brown over years. Every mark evidence of the life you've lived together.
+Vegetable tannins darken with light and handling. The oils from your hands accelerate the change. Russet becomes amber becomes deep brown over years. Every mark evidence of the life you've lived together.
 
 </div>
 
 ## Process
 
-Botanical matter simmered for an hour, extracting pigment into water. Strained. Iron mordant added gradually. The mordant fixes color into the leather's structure and prevents fading. Watch the color shift as it oxidizes.
+Botanical matter simmered for an hour, extracting pigment into water. Strained. Mordant applied to fix color into the leather's structure and prevent fading. The mordant determines the final color as much as the dye itself.
 
 Applied in thin coats by sponge or wool dauber. Thin coats penetrate. Thick coats crack. Each layer dried and buffed before the next. The dye soaks into the hide's grain. This is not surface treatment.
 
