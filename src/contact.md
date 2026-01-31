@@ -30,7 +30,7 @@ Non-standard sizes or other requests. Reach out. Lead time depends on the work.
 
 ## Repairs
 
-If our workmanship fails, we make it right. Stitching fails, we repair at no charge. Hardware fails, replacement at cost plus shipping.
+If our workmanship fails, we make it right. Stitching or hardware fails, we repair at no charge.
 
 The leather itself is harness leather. Vegetable-tanned, tallow-stuffed, built for decades of daily stress on working saddles and draft equipment. It doesn't fail. It ages. Natural wear isn't a defect.
 
