@@ -817,23 +817,23 @@ footer p {
 }
 
 .triad-mark.cycling .triad-1 {
-  animation: triadCycle 1s ease-in-out forwards;
+  animation: triadCycle 1.8s ease-in-out forwards;
   animation-delay: 0s;
 }
 
 .triad-mark.cycling .triad-2 {
-  animation: triadCycle 1s ease-in-out forwards;
-  animation-delay: 1s;
+  animation: triadCycle 1.8s ease-in-out forwards;
+  animation-delay: 1.8s;
 }
 
 .triad-mark.cycling .triad-3 {
-  animation: triadCycle 1s ease-in-out forwards;
-  animation-delay: 2s;
+  animation: triadCycle 1.8s ease-in-out forwards;
+  animation-delay: 3.6s;
 }
 
 @keyframes triadCycle {
   0% { opacity: 0; }
-  20%, 80% { opacity: 1; }
+  15%, 85% { opacity: 1; }
   100% { opacity: 0; }
 }
 
@@ -845,14 +845,33 @@ footer p {
 .triad-mark.settled .triad-word {
   position: static;
   display: inline;
-  opacity: 1;
+  opacity: 0;
   transform: none;
+  animation: triadSettle 0.8s ease-out forwards;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.triad-mark.settled .triad-word:hover {
+  transform: scale(1.05);
+}
+
+.triad-mark.settled .triad-1 { animation-delay: 0s; }
+.triad-mark.settled .triad-2 { animation-delay: 0.15s; }
+.triad-mark.settled .triad-3 { animation-delay: 0.3s; }
+
+@keyframes triadSettle {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 .triad-mark.settled .triad-dot {
   display: inline;
   margin: 0 0.5em;
   color: var(--text-light);
+  opacity: 0;
+  animation: triadSettle 0.8s ease-out forwards;
+  animation-delay: 0.4s;
 }
 
 .triad-mark:not(.settled) .triad-dot {
@@ -863,6 +882,23 @@ footer p {
 .triad-1 { color: var(--aima); }
 .triad-2 { color: var(--thanatochromia); }
 .triad-3 { color: var(--aporia); }
+
+/* Background hover effects */
+body {
+  transition: background 0.5s ease;
+}
+
+body.bg-aima {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(88, 21, 35, 0.08) 100%);
+}
+
+body.bg-thanatochromia {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(44, 27, 58, 0.1) 100%);
+}
+
+body.bg-aporia {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(92, 142, 99, 0.08) 100%);
+}
 
 /* === FOOTER IMPROVEMENTS === */
 .footer-brand {
