@@ -954,12 +954,10 @@ footer p {
 .triad-2 { color: var(--thanatochromia); }
 .triad-3 { color: var(--aporia); }
 
-/* Background color shift on hover (three independent overlays) */
-.home-page .triad-mark {
-  position: static;
-}
-
-.home-page .triad-word::before {
+/* Background color shift on hover (only when settled, using :has) */
+.home-page::before,
+.home-page::after,
+.home > .triad-mark::after {
   content: '';
   position: fixed;
   top: 0;
@@ -972,19 +970,27 @@ footer p {
   z-index: -1;
 }
 
-.home-page .triad-mark.settled .triad-1::before {
+.home-page::before {
   background: linear-gradient(180deg, rgba(88, 21, 35, 0.15) 0%, rgba(88, 21, 35, 0.3) 50%, rgba(88, 21, 35, 0.45) 100%);
 }
 
-.home-page .triad-mark.settled .triad-2::before {
+.home-page::after {
   background: linear-gradient(180deg, rgba(44, 27, 58, 0.18) 0%, rgba(44, 27, 58, 0.35) 50%, rgba(44, 27, 58, 0.5) 100%);
 }
 
-.home-page .triad-mark.settled .triad-3::before {
+.home > .triad-mark::after {
   background: linear-gradient(180deg, rgba(92, 142, 99, 0.15) 0%, rgba(92, 142, 99, 0.3) 50%, rgba(92, 142, 99, 0.45) 100%);
 }
 
-.home-page .triad-mark.settled .triad-word:hover::before {
+.home-page:has(.triad-mark.settled .triad-1:hover)::before {
+  opacity: 1;
+}
+
+.home-page:has(.triad-mark.settled .triad-2:hover)::after {
+  opacity: 1;
+}
+
+.home-page:has(.triad-mark.settled .triad-3:hover) .triad-mark::after {
   opacity: 1;
 }
 
