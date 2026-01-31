@@ -170,7 +170,8 @@ nav {
 .nav-links a:nth-child(2):hover { color: var(--thanatochromia); }
 .nav-links a:nth-child(3):hover { color: var(--aporia); }
 .nav-links a:nth-child(4):hover { color: var(--text-mid); }
-.nav-links a:nth-child(5):hover { color: var(--text); }
+.nav-links a:nth-child(5):hover { color: var(--natural); }
+.nav-links a:nth-child(6):hover { color: var(--text); }
 
 /* === MAIN === */
 main {
@@ -704,8 +705,10 @@ footer p {
   }
   
   .nav-links {
-    gap: var(--space-s);
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: var(--space-xs) var(--space-s);
+    justify-content: start;
   }
   
   .nav-links a,
