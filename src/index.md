@@ -29,17 +29,6 @@ bodyClass: home-page
           word.style.opacity = '1';
           word.style.position = 'static';
           word.style.animation = 'none';
-          
-          // Add hover effects for background
-          word.addEventListener('mouseenter', function() {
-            document.body.classList.remove('bg-aima', 'bg-thanatochromia', 'bg-aporia');
-            if (word.classList.contains('triad-1')) document.body.classList.add('bg-aima');
-            if (word.classList.contains('triad-2')) document.body.classList.add('bg-thanatochromia');
-            if (word.classList.contains('triad-3')) document.body.classList.add('bg-aporia');
-          });
-          word.addEventListener('mouseleave', function() {
-            document.body.classList.remove('bg-aima', 'bg-thanatochromia', 'bg-aporia');
-          });
         });
         
         dots.forEach(function(dot) {
