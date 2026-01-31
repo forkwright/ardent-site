@@ -954,6 +954,23 @@ footer p {
 .triad-2 { color: var(--thanatochromia); }
 .triad-3 { color: var(--aporia); }
 
+/* Background color shift on hover (pure CSS, only when settled) */
+body {
+  transition: background 0.5s ease;
+}
+
+.home-page:has(.triad-mark.settled .triad-1:hover) {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(88, 21, 35, 0.08) 100%);
+}
+
+.home-page:has(.triad-mark.settled .triad-2:hover) {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(44, 27, 58, 0.1) 100%);
+}
+
+.home-page:has(.triad-mark.settled .triad-3:hover) {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(92, 142, 99, 0.08) 100%);
+}
+
 /* === FOOTER IMPROVEMENTS === */
 .footer-brand {
   margin-bottom: var(--space-xs);
@@ -1072,4 +1089,32 @@ footer p {
 
 .buttondown-form button:hover {
   opacity: 0.8;
+}
+
+/* === TRIAD HOVER BACKGROUND EFFECTS === */
+/* Only apply when triad is settled - this is the key to avoiding conflicts */
+.home-page {
+  transition: background 0.6s ease;
+}
+
+/* Individual word hover effects - only when settled */
+.home-page:has(.triad-mark.settled .triad-1:hover) {
+  background: linear-gradient(135deg, 
+    rgba(88, 21, 35, 0.08) 0%, 
+    rgba(88, 21, 35, 0.04) 50%, 
+    rgba(248, 243, 232, 1) 100%);
+}
+
+.home-page:has(.triad-mark.settled .triad-2:hover) {
+  background: linear-gradient(135deg, 
+    rgba(44, 27, 58, 0.1) 0%, 
+    rgba(44, 27, 58, 0.05) 50%, 
+    rgba(248, 243, 232, 1) 100%);
+}
+
+.home-page:has(.triad-mark.settled .triad-3:hover) {
+  background: linear-gradient(135deg, 
+    rgba(92, 142, 99, 0.08) 0%, 
+    rgba(92, 142, 99, 0.04) 50%, 
+    rgba(248, 243, 232, 1) 100%);
 }
