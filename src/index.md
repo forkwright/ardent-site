@@ -5,8 +5,7 @@ bodyClass: home-page
 ---
 
 <div class="home">
-  <p class="home-tagline" data-greek="Ἡ χείρ μιμνήσκεται
-ἃ ἡ διάνοια ἐπιλαθέσθαι βούλεται"><span>The Hand Remembers<br>What The Mind Aims To Forget</span></p>
+  <p class="home-tagline" data-greek="Ἡ χείρ μιμνήσκεται ἃ ἡ διάνοια ἐπιλαθέσθαι βούλεται"><span>The Hand Remembers<br>What The Mind Aims To Forget</span></p>
   <p class="home-truth">Attention is a moral act.</p>
   <a href="/philosophy/" class="triad-mark cycling" id="triad">
     <span class="triad-word triad-1"><span class="greek">χείρ</span><span class="english">hand</span></span>

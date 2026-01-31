@@ -754,7 +754,7 @@ footer p {
   opacity: 0;
   transition: opacity 0.4s ease;
   pointer-events: none;
-  white-space: pre-wrap;
+  white-space: nowrap;
 }
 
 .home-tagline:hover::after {
