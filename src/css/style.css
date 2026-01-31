@@ -860,19 +860,26 @@ footer p {
 
 /* Greek/English toggle */
 .triad-word .english {
-  display: none;
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.4s ease;
 }
 
 .triad-word .greek {
-  display: inline;
+  opacity: 1;
+  transition: opacity 0.4s ease;
+}
+
+.triad-word {
+  position: relative;
 }
 
 .triad-mark.settled .triad-word:hover .english {
-  display: inline;
+  opacity: 1;
 }
 
 .triad-mark.settled .triad-word:hover .greek {
-  display: none;
+  opacity: 0;
 }
 
 /* Cycling state (initial) */
@@ -938,6 +945,23 @@ footer p {
 .triad-1 { color: var(--aima); }
 .triad-2 { color: var(--thanatochromia); }
 .triad-3 { color: var(--aporia); }
+
+/* Background hover effects */
+body {
+  transition: background 0.5s ease;
+}
+
+body.bg-aima {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(88, 21, 35, 0.08) 100%);
+}
+
+body.bg-thanatochromia {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(44, 27, 58, 0.1) 100%);
+}
+
+body.bg-aporia {
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(92, 142, 99, 0.08) 100%);
+}
 
 /* === FOOTER IMPROVEMENTS === */
 .footer-brand {
