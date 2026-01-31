@@ -48,7 +48,7 @@
   --font-mono: 'IBM Plex Mono', monospace;                  /* craft precision */
   
   /* Layout */
-  --max-width: 720px;
+  --max-width: 780px;
 }
 
 *, *::before, *::after {

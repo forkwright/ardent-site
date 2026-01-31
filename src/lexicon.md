@@ -87,4 +87,20 @@ This is itself a meta-abstraction: using the framework to describe the limits of
 
 ---
 
+<h2 id="influences">Influences</h2>
+
+What shapes how attention is given.
+
+**[Proofs and Refutations](https://en.wikipedia.org/wiki/Proofs_and_Refutations)** — Imre Lakatos. Mathematics isn't discovered, it's constructed through conjecture and criticism. The process of proving is the proof. Directly informs why *process as proof* matters: the work carries evidence of its making.
+
+**[Stoner](https://en.wikipedia.org/wiki/Stoner_(novel))** — John Williams. A quiet life fully lived. Every detail inevitable because it was attended to. Not performing depth — being deep. The kind of presence where the work simply becomes right because someone was fully there for it.
+
+**[Wabi-sabi](https://en.wikipedia.org/wiki/Wabi-sabi)** — The Japanese aesthetic of impermanence and imperfection. Beauty in what ages, wears, shows use. Not despite the marks of time, but because of them. Why patina is a feature, not a flaw.
+
+**[Shibumi](https://en.wikipedia.org/wiki/Shibui)** — Understated elegance. Complexity that presents as simplicity. The work that looks effortless because the effort was spent getting it right, not looking impressive. Direct restraint.
+
+**[Negative Capability](https://en.wikipedia.org/wiki/Negative_capability)** — Keats' term for remaining in uncertainty without grasping after fact and reason. The ability to sit with not-knowing. Why *Aporia* is a dye color: the conundrum itself has beauty.
+
+---
+
 <p class="specs">You found this by following the path. That's how it's meant to work.</p>
