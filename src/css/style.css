@@ -805,36 +805,64 @@ footer p {
   display: block;
   position: relative;
   height: 1.5em;
+  text-align: center;
 }
 
-.triad-word {
+/* Cycling state (initial) */
+.triad-mark.cycling .triad-word {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
   opacity: 0;
-  animation: triadFade 9s infinite;
 }
 
-.triad-1 {
-  color: var(--aima);
+.triad-mark.cycling .triad-1 {
+  animation: triadCycle 1s ease-in-out forwards;
   animation-delay: 0s;
 }
 
-.triad-2 {
-  color: var(--thanatochromia);
-  animation-delay: 3s;
+.triad-mark.cycling .triad-2 {
+  animation: triadCycle 1s ease-in-out forwards;
+  animation-delay: 1s;
 }
 
-.triad-3 {
-  color: var(--aporia);
-  animation-delay: 6s;
+.triad-mark.cycling .triad-3 {
+  animation: triadCycle 1s ease-in-out forwards;
+  animation-delay: 2s;
 }
 
-@keyframes triadFade {
-  0%, 5% { opacity: 0; }
-  10%, 28% { opacity: 1; }
-  33%, 100% { opacity: 0; }
+@keyframes triadCycle {
+  0% { opacity: 0; }
+  20%, 80% { opacity: 1; }
+  100% { opacity: 0; }
 }
+
+/* Settled state (after cycling) */
+.triad-mark.settled {
+  height: auto;
+}
+
+.triad-mark.settled .triad-word {
+  position: static;
+  display: inline;
+  opacity: 1;
+  transform: none;
+}
+
+.triad-mark.settled .triad-dot {
+  display: inline;
+  margin: 0 0.5em;
+  color: var(--text-light);
+}
+
+.triad-mark:not(.settled) .triad-dot {
+  display: none;
+}
+
+/* Colors */
+.triad-1 { color: var(--aima); }
+.triad-2 { color: var(--thanatochromia); }
+.triad-3 { color: var(--aporia); }
 
 /* === FOOTER IMPROVEMENTS === */
 .footer-brand {

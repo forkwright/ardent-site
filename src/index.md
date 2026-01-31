@@ -7,11 +7,22 @@ bodyClass: home-page
 <div class="home">
   <p class="home-tagline" data-greek="Ἡ χείρ μιμνήσκεται ἃ ἡ διάνοια ἐπιλαθέσθαι βούλεται"><span>The Hand Remembers What The Mind Aims To Forget</span></p>
   <p class="home-truth">Attention is a moral act.</p>
-  <a href="/philosophy/" class="triad-mark">
+  <a href="/philosophy/" class="triad-mark cycling" id="triad">
     <span class="triad-word triad-1">χείρ</span>
+    <span class="triad-dot">·</span>
     <span class="triad-word triad-2">μνήμη</span>
+    <span class="triad-dot">·</span>
     <span class="triad-word triad-3">προσοχή</span>
   </a>
+  <script>
+    setTimeout(function() {
+      var triad = document.getElementById('triad');
+      if (triad) {
+        triad.classList.remove('cycling');
+        triad.classList.add('settled');
+      }
+    }, 3500);
+  </script>
   <nav class="home-nav">
     <a href="/products/" data-greek="ἔργα"><span>products</span></a>
     <a href="/materials/" data-greek="ὕλη"><span>materials</span></a>
