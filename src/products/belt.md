@@ -2,7 +2,7 @@
 layout: base.njk
 title: Belt
 permalink: /products/belt/
-seoTitle: Hermann Oak Leather Belt — Handmade in Texas | Ardent
+seoTitle: Hermann Oak Leather Belt | Ardent Leatherworks
 description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-stitched. The belt will darken as you wear it, recording your years. $150, shipping included.
 ---
 

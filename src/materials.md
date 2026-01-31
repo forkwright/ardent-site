@@ -36,7 +36,7 @@ Hand saddle-stitching creates two independent thread paths. If one side wears th
 
 ## Finish
 
-Ardent wax: beeswax, Fiebing's neatsfoot oil, lanolin. Optional jojoba oil for flexibility.
+Beeswax, neatsfoot oil, lanolin. Optional jojoba oil for flexibility.
 
 This protects without sealing. The leather can still breathe, still absorb and release moisture, still age naturally.
 

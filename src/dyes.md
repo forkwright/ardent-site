@@ -6,7 +6,7 @@ permalink: /dyes/
 
 # Dyes
 
-The act of dyeing is not decoration—it's an alteration of the skin itself.
+The act of dyeing is not decoration. It is an alteration of the skin itself.
 
 Leather absorbs what you give it. These recipes use historical ingredients: plant matter, mineral mordants, time. The color becomes part of the hide, not a coating on it.
 
