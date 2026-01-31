@@ -910,9 +910,17 @@ footer p {
 .triad-mark.settled .triad-word {
   position: static;
   opacity: 1 !important;
-  animation: none;
+  animation: none !important;
   cursor: pointer;
   transition: transform 0.2s ease, opacity 0.5s ease;
+}
+
+/* Override cycling animations when settled */
+.triad-mark.settled .triad-1,
+.triad-mark.settled .triad-2,
+.triad-mark.settled .triad-3 {
+  animation: none !important;
+  opacity: 1 !important;
 }
 
 .triad-mark.settled .triad-word:hover {
@@ -920,6 +928,7 @@ footer p {
 }
 
 .triad-mark.settled .triad-dot {
+  display: inline;
   margin: 0 0.5em;
   color: var(--text-light);
   opacity: 1;

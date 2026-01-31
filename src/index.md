@@ -20,22 +20,8 @@ bodyClass: home-page
       if (triad) {
         triad.classList.remove('cycling');
         triad.classList.add('settled');
-        
-        // Force visibility on all words and dots
-        var words = triad.querySelectorAll('.triad-word');
-        var dots = triad.querySelectorAll('.triad-dot');
-        
-        words.forEach(function(word) {
-          word.style.opacity = '1';
-          word.style.position = 'static';
-          word.style.animation = 'none';
-        });
-        
-        dots.forEach(function(dot) {
-          dot.style.opacity = '1';
-        });
       }
-    }, 5800);
+    }, 6000);
   </script>
   <nav class="home-nav">
     <a href="/products/" data-greek="ἔργα"><span>products</span></a>
