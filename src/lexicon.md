@@ -129,6 +129,8 @@ Books that shape how attention is given.
 
 **[Selected Writings and Designs](https://en.wikipedia.org/wiki/William_Morris)** — William Morris. The Arts and Crafts movement's founding voice. "Have nothing in your houses that you do not know to be useful, or believe to be beautiful."
 
+**[LessWrong](https://www.lesswrong.com/)** — Community blog on rationality, epistemics, and AI alignment. Eliezer Yudkowsky, Scott Alexander, and others. Rigorous thinking about thinking. The sequences as extended meditation on how minds actually work and how they fail.
+
 ---
 
 <p class="specs">You found this by following the path. That's how it's meant to work.</p>
