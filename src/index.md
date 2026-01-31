@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Home
+title: Ardent Leatherworks
 bodyClass: home-page
 ---
 
