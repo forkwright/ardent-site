@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Philosophy
+description: "The hand remembers. Materials carry memory. Attention is a moral act. The philosophy behind Ardent Leatherworks' approach to craft."
 permalink: /philosophy/
 ---
 

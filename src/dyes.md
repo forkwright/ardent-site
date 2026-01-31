@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Dyes
+description: "Botanical leather dyes: Aima (blood red), Thanatochromia (death's purple), Aporia (philosophical green). Historical recipes, modern craft."
 permalink: /dyes/
 ---
 

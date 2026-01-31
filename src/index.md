@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Ardent Leatherworks
+description: "Heirloom leather goods. Hermann Oak vegetable-tanned leather, solid brass, hand saddle-stitched. The hand remembers what the mind forgets."
 bodyClass: home-page
 ---
 

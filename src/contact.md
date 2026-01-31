@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Contact
+description: "Contact Ardent Leatherworks for custom work, repairs, or questions. Austin, Texas. Workmanship guaranteed. Email replies within one day."
 permalink: /contact/
 ---
 

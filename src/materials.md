@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Materials
+description: "Hermann Oak vegetable-tanned leather since 1881. Solid brass hardware. French linen thread. Materials chosen for decades, not seasons."
 permalink: /materials/
 ---
 
