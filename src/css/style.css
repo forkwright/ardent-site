@@ -414,16 +414,19 @@ a:hover {
   color: var(--bg);
 }
 
-/* === PRODUCTS LIST === */
-.products-list {
+/* === PRODUCTS & JOURNAL LIST === */
+.products-list,
+.journal-list {
   list-style: none;
 }
 
-.products-list li {
+.products-list li,
+.journal-list li {
   border-bottom: 1px solid var(--rule);
 }
 
-.products-list a {
+.products-list a,
+.journal-list a {
   display: flex;
   align-items: baseline;
   padding: var(--space-m) 0;
@@ -431,23 +434,27 @@ a:hover {
   gap: var(--space-s);
 }
 
-.products-list a:hover {
+.products-list a:hover,
+.journal-list a:hover {
   color: var(--aima);
 }
 
-.product-name {
+.product-name,
+.entry-name {
   font-family: var(--font-body);
   font-size: var(--step-1);
 }
 
-.product-materials {
+.product-materials,
+.entry-components {
   font-family: var(--font-body);
   font-size: var(--step--1);
   color: var(--text-light);
   flex: 1;
 }
 
-.product-price {
+.product-price,
+.entry-words {
   font-family: var(--font-mono);
   font-size: var(--step--1);
   color: var(--text-light);
@@ -879,63 +886,23 @@ footer p {
   margin-bottom: var(--space-xs);
 }
 
-.entry-components {
+.entry-header .entry-components {
   font-family: var(--font-mono);
   font-size: var(--step--2);
   color: var(--text-light);
   letter-spacing: 0.05em;
   margin: 0;
+  flex: none;
 }
 
-.entry-components a {
+.entry-header .entry-components a {
   color: var(--text-light);
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
-.entry-components a:hover {
+.entry-header .entry-components a:hover {
   color: var(--aima);
-}
-
-/* Journal list (mirrors products-list) */
-.journal-list {
-  list-style: none;
-  margin-top: var(--space-l);
-}
-
-.journal-list li {
-  border-bottom: 1px solid var(--rule);
-}
-
-.journal-list a {
-  display: flex;
-  align-items: baseline;
-  padding: var(--space-m) 0;
-  text-decoration: none;
-  gap: var(--space-s);
-}
-
-.journal-list a:hover {
-  color: var(--aima);
-}
-
-.entry-name {
-  font-family: var(--font-body);
-  font-size: var(--step-1);
-}
-
-.entry-components {
-  font-family: var(--font-body);
-  font-size: var(--step--1);
-  color: var(--text-light);
-  flex: 1;
-}
-
-.entry-words {
-  font-family: var(--font-mono);
-  font-size: var(--step--1);
-  color: var(--text-light);
-  margin-left: auto;
 }
 
 /* === LEXICON === */
