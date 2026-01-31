@@ -7,130 +7,134 @@ permalink: /lexicon/
 
 <h1 data-greek="Λεξικόν"><span>Lexicon</span></h1>
 
-The substrate beneath the work. External frames that shape how attention is given.
+The ideas behind the work. Why we make what we make, how we think about craft, and the thinkers who've shaped the approach.
 
 ---
 
-<h2 id="proofs">[Proofs and Refutations](https://en.wikipedia.org/wiki/Proofs_and_Refutations)</h2>
+## Craft Philosophy
 
-*Imre Lakatos, 1976*
+### Proofs and Refutations
+*Process as proof — knowledge forged through dialogue*
 
-Mathematics isn't discovered, it's constructed through conjecture and criticism. The process of proving is the proof. Theorems aren't found but forged through dialogue — conjecture, counterexample, revision. Knowledge emerges from the struggle, not despite it.
+[Imre Lakatos](https://en.wikipedia.org/wiki/Proofs_and_Refutations), 1976. Mathematics isn't discovered, it's constructed through conjecture and criticism. Theorems aren't found but forged through dialogue — conjecture, counterexample, revision. Knowledge emerges from the struggle, not despite it.
 
 Directly informs *process as proof*: the work carries evidence of its making. The stitches are the argument.
 
----
+### The Craftsman
+*Craft as the pursuit of quality for its own sake*
 
-<h2 id="stoner">[Stoner](https://en.wikipedia.org/wiki/Stoner_(novel))</h2>
+[Richard Sennett](https://en.wikipedia.org/wiki/The_Craftsman_(book)), 2008. The craftsman represents a basic human impulse: the desire to do a job well for its own sake. Skill develops through practice, repetition, and the hand-mind dialogue. The 10,000 hours aren't punishment — they're the path.
 
-*John Williams, 1965*
+### Shop Class as Soulcraft
+*Manual competence as philosophical inquiry*
 
-A quiet life fully lived. William Stoner teaches literature at a provincial university, suffers a difficult marriage, experiences small triumphs and failures. The prose is plain; the attention is total. Every detail inevitable because it was attended to.
+[Matthew Crawford](https://en.wikipedia.org/wiki/Shop_Class_as_Soulcraft), 2009. Working with your hands isn't retreat from thinking — it's a different kind of thinking. The motorcycle doesn't flatter you. It responds to what you actually did, not what you meant to do.
 
-Not performing depth — being deep. The kind of presence where the work simply becomes right because someone was fully there for it.
+### The Thinking Hand
+*Knowledge in the hands, not just the head*
 
----
+[Juhani Pallasmaa](https://en.wikipedia.org/wiki/Juhani_Pallasmaa), 2009. The hand has its own intelligence. Skilled making involves a fusion of hand, eye, and mind that can't be fully articulated. The hand knows what the mind hasn't yet understood.
 
-<h2 id="wabi-sabi">[Wabi-sabi](https://en.wikipedia.org/wiki/Wabi-sabi)</h2>
+### Tools for Conviviality
+*Tools that enhance autonomy, not replace it*
 
-*Japanese aesthetic tradition, rooted in Zen Buddhism*
+[Ivan Illich](https://en.wikipedia.org/wiki/Tools_for_Conviviality), 1973. Tools should serve human autonomy, not disable it. Industrial tools create dependence; convivial tools enable self-directed action. The hand tool as political statement.
 
-The beauty of impermanence, imperfection, and incompleteness. Derived from the Buddhist teaching of the three marks of existence. *Wabi* originally meant the loneliness of living in nature; *sabi* meant "cold" or "withered."
+### Ladder of Abstraction
+*Language operates at levels from concrete to abstract*
 
-What ages, wears, shows use is beautiful not despite the marks of time but because of them. Patina is a feature. Scars tell stories. The perfectly imperfect is more honest than the flawless.
+[S.I. Hayakawa](https://en.wikipedia.org/wiki/Ladder_of_abstraction), 1939. "Bessie the cow" is concrete; "livestock" is abstract; "wealth" more abstract still. Clear thinking requires moving deliberately between levels. A belt is leather (concrete), an heirloom (abstract), attention made material (more abstract). Each layer true, none contradicting.
 
----
+### Negative Capability
+*The ability to sit with not-knowing*
 
-<h2 id="shibumi">[Shibumi](https://en.wikipedia.org/wiki/Shibui)</h2>
-
-*Japanese aesthetic tradition*
-
-Understated elegance, quiet complexity. *Shibui* objects appear simple but reward sustained attention — the more you look, the more you find. Related to but distinct from wabi-sabi; where wabi-sabi embraces decay, shibumi embraces restraint.
-
-Complexity that presents as simplicity. The work that looks effortless because the effort was spent getting it right, not looking impressive. Direct restraint over ornamentation.
-
----
-
-<h2 id="negative-capability">[Negative Capability](https://en.wikipedia.org/wiki/Negative_capability)</h2>
-
-*John Keats, letter to his brothers, December 1817*
-
-"When a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason." Keats coined the term to describe Shakespeare's genius — the ability to inhabit contradiction without forcing resolution.
-
-The ability to sit with not-knowing. To hold opposites without collapsing them. Why *Aporia* is a dye color: the conundrum itself has beauty. Some questions are meant to be lived, not answered.
+[John Keats](https://en.wikipedia.org/wiki/Negative_capability), 1817. "When a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason." The ability to hold opposites without collapsing them. Why *Aporia* is a dye color: some questions are meant to be lived, not answered.
 
 ---
 
-<h2 id="the-greek">[Attic Greek](https://en.wikipedia.org/wiki/Attic_Greek)</h2>
+## Aesthetic Traditions
 
-*The dialect of Classical Athens, 5th–4th century BCE*
+### Wabi-sabi
+*Beauty in impermanence and imperfection*
 
-The language of Plato, Aristotle, the tragedians. Not decoration — precision. Greek was built for philosophical exactness in ways English flattens. Compound words carry their etymology visibly; meaning assembles from parts.
+[Japanese aesthetic tradition](https://en.wikipedia.org/wiki/Wabi-sabi), rooted in Zen Buddhism. What ages, wears, shows use is beautiful not despite the marks of time but because of them. Patina is a feature. Scars tell stories.
 
-χείρ (cheir) — *the hand that makes*. Root of χειρουργός (cheirourgos), hand-worker, surgeon.
+### Shibumi
+*Understated elegance, quiet complexity*
 
-μνήμη (mneme) — memory as monument. What remains. Root of mnemonic.
-
-προσοχή (prosoche) — attention as *toward-holding*. πρός (toward) + ἔχω (to hold).
-
-The structure invites precision that translation loses. θανατοχρωμία — death-color. ἡμερολόγιον — day-account. Each word a small philosophy.
+[Japanese aesthetic tradition](https://en.wikipedia.org/wiki/Shibui). *Shibui* objects appear simple but reward sustained attention — the more you look, the more you find. Complexity that presents as simplicity. Restraint over ornamentation.
 
 ---
 
-<h2 id="ladder">[Ladder of Abstraction](https://en.wikipedia.org/wiki/Ladder_of_abstraction)</h2>
+## Language & Etymology
 
-*S.I. Hayakawa, Language in Action, 1939*
+### Attic Greek
+*Precision that English flattens*
 
-Language operates at levels from concrete to abstract. "Bessie the cow" is concrete; "livestock" is abstract; "wealth" more abstract still. Each level loses detail but gains generality. Clear thinking requires moving deliberately between levels — knowing when to zoom in and when to zoom out. Muddy thinking happens when levels are confused.
+The dialect of [Classical Athens](https://en.wikipedia.org/wiki/Attic_Greek), 5th–4th century BCE. Greek was built for philosophical exactness. Compound words carry their etymology visibly; meaning assembles from parts.
 
-Directly informs how work should function at multiple layers simultaneously. A belt is leather (concrete), an heirloom (abstract), attention made material (more abstract). Each layer true, none contradicting.
+χείρ (cheir) — *the hand that makes*. Root of surgeon.
+μνήμη (mneme) — memory as monument. What remains.
+προσοχή (prosoche) — attention as *toward-holding*.
 
----
+### Ardere
+*To burn — what survives testing*
 
-<h2 id="ardere">[Ardere](https://en.wiktionary.org/wiki/ardere)</h2>
-
-*Latin*
-
-To burn. Not passion as emotion — passion as what survives testing. The name compresses: what remains after fire has tested it.
-
-Root of ardent, ardor, arson. To burn is to transform irreversibly. What comes through the fire is changed but proved.
+[Latin](https://en.wiktionary.org/wiki/ardere). Not passion as emotion — passion as what remains after fire has tested it. Root of ardent, ardor, arson. The name compresses the philosophy: transformation through fire, proof through survival.
 
 ---
 
 ## Resonant Readings
 
-Books that shape how attention is given.
+### Philosophical
 
-**[Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)** — James Carse, 1986. Finite games are played to win; infinite games are played to keep playing. Craft as infinite game: the point is continuation, not victory.
+**[Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)** — James Carse, 1986
+*Craft as infinite game: continuation over victory*
 
-**[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)** — Thomas Kuhn, 1962. Paradigms don't shift through gradual accumulation but through crisis and replacement. How frameworks become invisible until they break.
+**[Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)** — Robert Pirsig, 1974
+*Quality precedes the subject-object split*
 
-**[Metaphors We Live By](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)** — George Lakoff & Mark Johnson, 1980. Metaphor isn't ornament — it's how thought works. "Argument is war" shapes how we argue. The metaphors we choose shape what we can think.
+**[Gravity and Grace](https://en.wikipedia.org/wiki/Gravity_and_Grace)** — Simone Weil, 1947
+*Attention as the rarest form of generosity*
 
-**[Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)** — Robert Pirsig, 1974. Quality precedes the subject-object split. You know it before you can define it. The motorcycle doesn't care about your theories.
+**[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)** — Thomas Kuhn, 1962
+*Paradigms don't shift gradually — they break*
 
-**[Gravity and Grace](https://en.wikipedia.org/wiki/Gravity_and_Grace)** — Simone Weil, 1947. Attention is the rarest form of generosity. Decreation as spiritual practice. The weight of the world and the lightness that comes from accepting it.
+**[Metaphors We Live By](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)** — Lakoff & Johnson, 1980
+*The metaphors we choose shape what we can think*
 
-**[The Poetics of Space](https://en.wikipedia.org/wiki/The_Poetics_of_Space)** — Gaston Bachelard, 1958. Intimate spaces — drawers, chests, wardrobes — hold more than objects. They hold dreams. Material space as psychological architecture.
+**[LessWrong](https://www.lesswrong.com/)** — Yudkowsky, Alexander, et al.
+*Rigorous thinking about thinking*
 
-**[Tools for Conviviality](https://en.wikipedia.org/wiki/Tools_for_Conviviality)** — Ivan Illich, 1973. Tools should serve human autonomy, not replace it. Industrial tools disable; convivial tools enable. The hand tool as political statement.
+### Aesthetic
 
-**[The Rings of Saturn](https://en.wikipedia.org/wiki/The_Rings_of_Saturn_(novel))** — W.G. Sebald, 1995. A walking tour that becomes meditation on decay, memory, and extinction. Prose that moves like thought itself — digressive, accumulative, melancholic.
+**[The Poetics of Space](https://en.wikipedia.org/wiki/The_Poetics_of_Space)** — Gaston Bachelard, 1958
+*Intimate spaces hold more than objects*
 
-**[The Book of Disquiet](https://en.wikipedia.org/wiki/The_Book_of_Disquiet)** — Fernando Pessoa, 1982. Fragments from a life that preferred observation to participation. The aesthetics of incompleteness. Writing as the only authentic action.
+**[The Rings of Saturn](https://en.wikipedia.org/wiki/The_Rings_of_Saturn_(novel))** — W.G. Sebald, 1995
+*Prose that moves like thought itself*
 
-**[So Long, See You Tomorrow](https://en.wikipedia.org/wiki/So_Long,_See_You_Tomorrow)** — William Maxwell, 1980. Memory, guilt, and the inadequacy of words to capture what happened. Slim, devastating, precise.
+**[The Book of Disquiet](https://en.wikipedia.org/wiki/The_Book_of_Disquiet)** — Fernando Pessoa, 1982
+*The aesthetics of incompleteness*
 
-**[Letters to a Young Poet](https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet)** — Rainer Maria Rilke, 1929. Solitude as prerequisite. The slow ripening of questions into answers. Why you must live the questions now.
+**[Pilgrim at Tinker Creek](https://en.wikipedia.org/wiki/Pilgrim_at_Tinker_Creek)** — Annie Dillard, 1974
+*Attention as spiritual discipline*
 
-**[Pilgrim at Tinker Creek](https://en.wikipedia.org/wiki/Pilgrim_at_Tinker_Creek)** — Annie Dillard, 1974. Attention as spiritual discipline. A year of watching — insects, light, water — until seeing becomes revelation.
+### Literary
 
-**[Arctic Dreams](https://en.wikipedia.org/wiki/Arctic_Dreams)** — Barry Lopez, 1986. Landscape as teacher. The ethics of attention in places that don't care whether you survive. Imagination and the natural world.
+**[Stoner](https://en.wikipedia.org/wiki/Stoner_(novel))** — John Williams, 1965
+*A quiet life fully lived*
 
-**[Selected Writings and Designs](https://en.wikipedia.org/wiki/William_Morris)** — William Morris. The Arts and Crafts movement's founding voice. "Have nothing in your houses that you do not know to be useful, or believe to be beautiful."
+**[So Long, See You Tomorrow](https://en.wikipedia.org/wiki/So_Long,_See_You_Tomorrow)** — William Maxwell, 1980
+*The inadequacy of words to capture what happened*
 
-**[LessWrong](https://www.lesswrong.com/)** — Community blog on rationality, epistemics, and AI alignment. Eliezer Yudkowsky, Scott Alexander, and others. Rigorous thinking about thinking. The sequences as extended meditation on how minds actually work and how they fail.
+**[Letters to a Young Poet](https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet)** — Rilke, 1929
+*Solitude as prerequisite*
 
----
+**[Arctic Dreams](https://en.wikipedia.org/wiki/Arctic_Dreams)** — Barry Lopez, 1986
+*The ethics of attention in places that don't care*
 
-<p class="specs">You found this by following the path. That's how it's meant to work.</p>
+### Craft Practice
+
+**[Selected Writings](https://en.wikipedia.org/wiki/William_Morris)** — William Morris
+*"Have nothing you do not know to be useful or believe to be beautiful"*
