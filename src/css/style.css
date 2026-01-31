@@ -954,12 +954,12 @@ footer p {
 .triad-2 { color: var(--thanatochromia); }
 .triad-3 { color: var(--aporia); }
 
-/* Background color shift on hover (using pseudo-elements for smooth opacity transition) */
-.home-page {
-  position: relative;
+/* Background color shift on hover (three independent overlays) */
+.home-page .triad-mark {
+  position: static;
 }
 
-.home-page::before {
+.home-page .triad-word::before {
   content: '';
   position: fixed;
   top: 0;
@@ -972,18 +972,19 @@ footer p {
   z-index: -1;
 }
 
-.home-page:has(.triad-mark.settled .triad-1:hover)::before {
+.home-page .triad-mark.settled .triad-1::before {
   background: linear-gradient(180deg, rgba(88, 21, 35, 0.15) 0%, rgba(88, 21, 35, 0.3) 50%, rgba(88, 21, 35, 0.45) 100%);
-  opacity: 1;
 }
 
-.home-page:has(.triad-mark.settled .triad-2:hover)::before {
+.home-page .triad-mark.settled .triad-2::before {
   background: linear-gradient(180deg, rgba(44, 27, 58, 0.18) 0%, rgba(44, 27, 58, 0.35) 50%, rgba(44, 27, 58, 0.5) 100%);
-  opacity: 1;
 }
 
-.home-page:has(.triad-mark.settled .triad-3:hover)::before {
+.home-page .triad-mark.settled .triad-3::before {
   background: linear-gradient(180deg, rgba(92, 142, 99, 0.15) 0%, rgba(92, 142, 99, 0.3) 50%, rgba(92, 142, 99, 0.45) 100%);
+}
+
+.home-page .triad-mark.settled .triad-word:hover::before {
   opacity: 1;
 }
 
