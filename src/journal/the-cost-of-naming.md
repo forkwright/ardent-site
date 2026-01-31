@@ -27,7 +27,7 @@ A word that only means one thing is a label. A word that resonates is true at ev
 
 Aima is not red. It is the cost of continuity. If that phrase works, it's because both readings are true simultaneously. The literal and the layered occupy the same space without contradiction. That's what I'm reaching for with every name, every sentence, every choice of what to include and what to leave out.
 
-The red itself isn't blood. It's madder root simmered for an hour, iron mordant added grain by grain, the color shifting as it oxidizes. It's the Roman boots and British saddlery that used the same chemistry centuries ago. It's the hide absorbing what the plant gave up. Calling it Αἷμα compresses all of that into four letters. Most of it won't transmit. But if the word was chosen well, that is — if it resonates, then someone pausing on it, wondering why it's Greek, looking it up, sitting with it, can recover some of what was lost.
+The red itself isn't blood. It's madder root simmered for an hour, iron mordant added grain by grain, the color shifting as it oxidizes. It's the Roman boots and British saddlery that used the same chemistry centuries ago. It's the hide absorbing what the plant gave up. Calling it Αἷμα compresses all of that into four letters. Most of it won't transmit. But if the word was chosen well, that is - if it resonates, then someone pausing on it, wondering why it's Greek, looking it up, sitting with it, can recover some of what was lost.
 
 Attention is the only thing that reverses the compression.
 
@@ -35,6 +35,6 @@ This is why I make things by hand instead of just writing about making things. T
 
 So the cost is paid. Aima. Thanatochromia. Aporia. Knowing each word is a wound to what it names.
 
-The attention you give, reading this, holding the leather, noticing the stitch angle, pausing on a word you don't recognize — that's what heals it. That's what makes Aporia worth experiencing.
+The attention you give, reading this, holding the leather, noticing the stitch angle, pausing on a word you don't recognize - that's what heals it. That's what makes Aporia worth experiencing.
 
 <p class="specs">~620 words</p>

@@ -65,9 +65,11 @@ The words that appear here, in the navigation, in the dye names, in the motto be
 
 <h2 data-greek="Ὁ Δημιουργός"><span>The Maker</span></h2>
 
-Cody builds systems and seeks resonance. Marine Corps officer, then data scientist and AI systems architect. Leather is the same work applied to different material. The hand cannot lie. The system either holds or it doesn't.
+Cody builds systems and seeks truth. This is the canvas where thought doesn't need to be compressed for translation. Most of life requires editing yourself down, making ideas portable, meeting people where they are. Here, the only constraint is language itself. Whether it resonates is discovered, not negotiated.
 
-All hand tools. French knives, American edgers, brass and oak and thread. No machines between the hand and the work.
+Marine Corps, data science, AI systems. Different materials, same work. Pattern recognition, iteration, the slow accumulation of understanding through contact with things that push back.
+
+All hand tools. No machines between hand and work. The feedback loop stays direct.
 
 <div class="workshop-images">
   <p class="image-placeholder">Workshop images forthcoming:</p>

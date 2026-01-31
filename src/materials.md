@@ -17,7 +17,7 @@ The difference shows over time. Chrome-tanned leather stays the same until it fa
 
 Ardent uses their Old World Harness in russett at 11-13oz weight. Heavy enough to hold structure, supple enough to bend without cracking. The surface shows the grain of the original hide. No coating, no correction. Tallow-stuffed during tanning. Animal fat, not petroleum.
 
-The russett color is natural — the result of oak bark and tallow, not dye. This is what vegetable-tanned leather looks like before anything is added.
+The russett color is natural - the result of oak bark and tallow, not dye. This is what vegetable-tanned leather looks like before anything is added.
 
 [Botanical dyes](/dyes/) available in limited batches.
 

@@ -30,13 +30,13 @@ description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-
 
 ## Construction
 
-Hermann Oak Old World Harness, 11-13oz. The same tannery supplying saddlemakers since 1881. One piece, no layers, no glue. Layered belts can delaminate over years of flexing. A single layer of harness leather doesn't have that failure mode — it just gets stronger as the fibers compress with use.
+Hermann Oak Old World Harness, 11-13oz. The same tannery supplying saddlemakers since 1881. One piece, no layers, no glue. Layered belts can delaminate over years of flexing. A single layer of harness leather doesn't have that failure mode - it just gets stronger as the fibers compress with use.
 
 Abbey England Flat Whole Harness solid brass buckle from their 1832 Walsall foundry. Sand-cast using traditional methods. The buckle is hand saddle-stitched to the belt using Fil au Chinois 332 Sans linen thread. The keeper is hand-sewn from Wickett & Craig harness leather with the same thread.
 
-Saddle stitching uses two needles working the same thread from opposite sides. Each stitch locks into the next. If one breaks, the rest hold — unlike machine stitching, which runs a single thread and unravels when cut. It takes longer. That's the point.
+Saddle stitching uses two needles working the same thread from opposite sides. Each stitch locks into the next. If one breaks, the rest hold - unlike machine stitching, which runs a single thread and unravels when cut. It takes longer. That's the point.
 
-Edges are burnished, not painted. Edge paint is faster and hides imperfections, but it's a coating that can crack and peel. Burnishing transforms the leather itself — friction and pressure consolidate the fibers into a smooth, permanent surface. Then a hot crease defines the edge line. It's a traditional finishing technique that makes the edge read as intentional, not incidental.
+Edges are burnished, not painted. Edge paint is faster and hides imperfections, but it's a coating that can crack and peel. Burnishing transforms the leather itself - friction and pressure consolidate the fibers into a smooth, permanent surface. Then a hot crease defines the edge line. It's a traditional finishing technique that makes the edge read as intentional, not incidental.
 
 Finished with beeswax, neatsfoot oil, lanolin. The leather is tallow-stuffed during tanning. Nothing synthetic.
 

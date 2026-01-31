@@ -21,7 +21,7 @@ Orders ship within one week unless otherwise noted. You will receive tracking in
 
 **Wrong size:** Contact us within 14 days of delivery. Return shipping is your responsibility. We will exchange for correct size.
 
-**Change of mind:** These are made to your specifications. If something doesn't meet expectations, reach out — we'd rather understand what went wrong than leave you with something you won't use.
+**Change of mind:** These are made to your specifications. If something doesn't meet expectations, reach out - we'd rather understand what went wrong than leave you with something you won't use.
 
 ## Warranty
 

@@ -31,7 +31,7 @@ description: Single-piece Hermann Oak leather, folded and hand saddle-stitched a
 
 One piece of Hermann Oak Old World Harness, folded at the corners and saddle-stitched with Fil au Chinois 332 Sans linen thread. No rivets. No snaps. No glue.
 
-Starting from a single piece means fewer seams and fewer places for the work to fail. The corners are where the load concentrates — when you pick up the tray, the corners carry the weight. That's where the stitching goes. Saddle stitching locks each stitch into the next, so even if thread wears through in one spot, the rest hold.
+Starting from a single piece means fewer seams and fewer places for the work to fail. The corners are where the load concentrates - when you pick up the tray, the corners carry the weight. That's where the stitching goes. Saddle stitching locks each stitch into the next, so even if thread wears through in one spot, the rest hold.
 
 The fold lines are worked gradually with a bone folder, coaxing the leather into shape rather than forcing it. Heavy harness leather doesn't want to bend, but it will hold a shape once it's trained. The walls stay upright on their own.
 
@@ -41,7 +41,7 @@ Date stamped on the underside.
 
 ## The Leather
 
-Hermann Oak Old World Harness from their St. Louis tannery. 11-13oz, vegetable-tanned, tallow-stuffed. Fold lines worked with care — the weight lets it hold its shape. Finished with beeswax and neatsfoot oil.
+Hermann Oak Old World Harness from their St. Louis tannery. 11-13oz, vegetable-tanned, tallow-stuffed. Fold lines worked with care - the weight lets it hold its shape. Finished with beeswax and neatsfoot oil.
 
 Starts stiff. Softens where you touch it.
 
