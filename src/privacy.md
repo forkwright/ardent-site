@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy
 
-Ardent Leatherworks collects only what is necessary to fulfill orders and communicate with customers.
+Ardent Leatherworks LLC collects only what is necessary to fulfill orders and communicate with customers.
 
 ## What We Collect
 

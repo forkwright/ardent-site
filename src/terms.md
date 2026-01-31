@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms
 
-By placing an order with Ardent Leatherworks, you agree to these terms.
+By placing an order with Ardent Leatherworks LLC, you agree to these terms.
 
 ## Orders and Pricing
 
