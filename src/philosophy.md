@@ -9,7 +9,7 @@ permalink: /philosophy/
 
 Meaning is not given.
 
-Meaning is made through attention, care, and the deliberate act of staying present inside work that resists.
+Meaning is made through attention, care, and staying present inside work that resists.
 
 <h2 data-greek="Ἡ Χείρ"><span>The Hand</span></h2>
 
@@ -53,19 +53,19 @@ Work that matters shows its seams, holds its flaws, and remembers the hands that
 
 Not to prove worth.
 
-To discover what kind of person emerges when care is given deeply to something fragile and difficult.
+To find out who you become when you give real care to something fragile and difficult.
 
 <h2 data-greek="Ἡ Γλῶσσα"><span>The Language</span></h2>
 
 Ancient Greek was built for philosophical precision. Its roots combine systematically, its terms carry millennia of contemplated meaning. Where English requires sentences, Greek compresses into syllables.
 
-The words that appear here, in the navigation, in the dye names, in the motto below, are not decoration. They create a deliberate unfamiliarity. A pause. You hover, you see something you don't immediately recognize, you wonder. That wondering is the point.
+The words that appear here, in the navigation, in the dye names, in the motto below, are not decoration. They are unfamiliar on purpose. You hover, you see something you don't immediately recognize, you pause. That pause is the point.
 
 ---
 
 <h2 data-greek="Ὁ Δημιουργός"><span>The Maker</span></h2>
 
-Cody builds systems and seeks resonance. Marine Corps officer, then data scientist and AI systems architect. Leather is the same work applied to different material — the hand cannot lie, the system either holds or it doesn't.
+Cody builds systems and seeks resonance. Marine Corps officer, then data scientist and AI systems architect. Leather is the same work applied to different material. The hand cannot lie. The system either holds or it doesn't.
 
 All hand tools. French knives, American edgers, brass and oak and thread. No machines between the hand and the work.
 

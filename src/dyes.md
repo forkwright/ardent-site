@@ -22,7 +22,7 @@ Each name names a condition, not just a color.
 
 <span class="dye-swatch swatch-aima"></span><span class="dye-hex">#581523</span>
 
-The Greek word for blood. In ancient texts, αἷμα appears wherever sacrifice matters — tied to lineage, to what was given so something else could continue. Blood is the cost of continuity.
+The Greek word for blood. In ancient texts, αἷμα appears wherever sacrifice matters. Tied to lineage, to what was given so something else could continue. Blood is the cost of continuity.
 
 Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly fixed. This one holds.
 
@@ -37,9 +37,9 @@ Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly 
 
 <span class="dye-swatch swatch-thanatochromia"></span><span class="dye-hex">#2C1B3A</span>
 
-A coined word. θάνατος (death) + χρώμα (color). Neo-Greek — invented, but grammatically correct. The concept needed a name.
+A coined word. θάνατος (death) + χρώμα (color). Neo-Greek, invented but grammatically correct. The concept needed a name.
 
-Tyrian purple was made from crushed murex snails. The dye came from their death. Imperial purple earned through transformation. This version uses logwood and iron — the same chemistry, different source. The color death leaves behind.
+Tyrian purple was made from crushed murex snails. The dye came from their death. Imperial purple earned through transformation. This version uses logwood and iron. Same chemistry, different source. The color death leaves behind.
 
 </div>
 
@@ -52,9 +52,9 @@ Tyrian purple was made from crushed murex snails. The dye came from their death.
 
 <span class="dye-swatch swatch-aporia"></span><span class="dye-hex">#5C8E63</span>
 
-A real philosophical term — Plato and Aristotle used it. ἀπορία names the impasse when two truths contradict and neither yields. The condition a mind passes through before it can grow. Of the three, this word is closest to Ardent's core — sitting with uncertainty rather than forcing resolution.
+A philosophical term from Plato and Aristotle. ἀπορία names the impasse when two truths contradict and neither yields. The only way through is abstraction. Recurse. Hold both as true while accepting that coherence requires moving up a level. Of the three, this word is closest to Ardent's core.
 
-Green on leather was historically elusive. Most greens faded fast or turned brown — caught between color and decay. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
+Green on leather was historically elusive. Most greens faded fast or turned brown. Caught between color and decay. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
 
 </div>
 
