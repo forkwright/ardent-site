@@ -423,10 +423,10 @@ a:hover {
 
 .products-list a {
   display: flex;
-  justify-content: space-between;
   align-items: baseline;
   padding: var(--space-m) 0;
   text-decoration: none;
+  gap: var(--space-s);
 }
 
 .products-list a:hover {
@@ -438,10 +438,18 @@ a:hover {
   font-size: var(--step-1);
 }
 
+.product-materials {
+  font-family: var(--font-body);
+  font-size: var(--step--1);
+  color: var(--text-light);
+  flex: 1;
+}
+
 .product-price {
   font-family: var(--font-mono);
   font-size: var(--step--1);
   color: var(--text-light);
+  margin-left: auto;
 }
 
 /* === PRODUCT PAGE === */
