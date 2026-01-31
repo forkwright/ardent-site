@@ -41,7 +41,7 @@ Hand saddle-stitching creates two independent thread paths. If one side wears th
 
 <h2 data-greek="Τέλος"><span>Finish</span></h2>
 
-Beeswax, neatsfoot oil, lanolin. Optional jojoba oil for flexibility.
+Beeswax, neatsfoot oil, lanolin.
 
 This protects without sealing. The leather can still breathe, still absorb and release moisture, still age naturally.
 
