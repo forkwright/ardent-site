@@ -29,7 +29,7 @@ description: Single-piece Hermann Oak leather, folded and hand saddle-stitched a
 
 ## Construction
 
-One piece of Hermann Oak, folded at the corners and saddle-stitched with Fil au Chinois 332 Sans. No rivets. No snaps. No glue.
+One piece of Hermann Oak Old World Harness, folded at the corners and saddle-stitched with Fil au Chinois 332 Sans. No rivets. No snaps. No glue.
 
 Fold lines worked with a bone folder. Edges burnished with canvas. 46 stitches total, four corners.
 
@@ -37,7 +37,7 @@ Date stamped on the underside.
 
 ## The Leather
 
-Hermann Oak from their St. Louis tannery. Same harness leather we use for belts, skived thinner at the fold lines so it bends clean. Vegetable-tanned, tallow-stuffed. Finished with beeswax and neatsfoot oil.
+Hermann Oak Old World Harness from their St. Louis tannery. 11-13oz, vegetable-tanned, tallow-stuffed. Fold lines worked with care — the weight lets it hold its shape. Finished with beeswax and neatsfoot oil.
 
 Starts stiff. Softens where you touch it.
 
@@ -51,13 +51,17 @@ Starts stiff. Softens where you touch it.
 
 ## Warranty
 
-If it fails, we fix it.
+Workmanship guaranteed. If it fails, we fix it.
 
 ## Care
 
 Use it. The hide is already saturated.
 
-<p class="specs">Interior: 8" × 6" · Walls: 1.75" · Leather: 6-7oz</p>
+<p class="specs">Interior: 8" × 6" · Walls: 1.75" · Leather: 11-13oz</p>
+
+## Custom Sizing
+
+Different dimensions available on request. Cost varies by size.
 
 ## Cost Breakdown
 
