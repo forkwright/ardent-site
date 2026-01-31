@@ -740,31 +740,6 @@ footer p {
   }
 }
 
-/* === HOME TAGLINE GREEK HOVER === */
-.home-tagline {
-  position: relative;
-}
-
-.home-tagline::after {
-  content: attr(data-greek);
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: 0;
-  opacity: 0;
-  transition: opacity 0.4s ease;
-  pointer-events: none;
-  white-space: nowrap;
-}
-
-.home-tagline:hover::after {
-  opacity: 1;
-}
-
-.home-tagline:hover span {
-  opacity: 0;
-}
-
 /* === 404 PAGE === */
 .error-page {
   text-align: center;
