@@ -13,6 +13,7 @@ Notes from the bench. What worked, what didn't, what I'm thinking about.
   <li>
     <a href="/journal/the-cost-of-naming/">
       <span class="entry-name">The Cost of Naming</span>
+      <span class="entry-date-inline">2026-01-31</span>
       <span class="entry-components">compression · the Greek · attention</span>
       <span class="entry-words">~620 words</span>
     </a>

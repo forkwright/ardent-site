@@ -445,6 +445,12 @@ a:hover {
   font-size: var(--step-1);
 }
 
+.entry-date-inline {
+  font-family: var(--font-mono);
+  font-size: var(--step--2);
+  color: var(--text-light);
+}
+
 .product-materials,
 .entry-components {
   font-family: var(--font-body);
