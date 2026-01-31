@@ -21,7 +21,7 @@ Orders ship within one week unless otherwise noted. You will receive tracking in
 
 **Wrong size:** Contact us within 14 days of delivery. Return shipping is your responsibility. We will exchange for correct size.
 
-**Change of mind:** Not accepted. Each piece is made to order. Please measure carefully.
+**Change of mind:** These are made to your specifications. If something doesn't meet expectations, reach out — we'd rather understand what went wrong than leave you with something you won't use.
 
 ## Warranty
 
@@ -33,13 +33,12 @@ Ardent Leatherworks is not liable for indirect, incidental, or consequential dam
 
 ## Governing Law
 
-These terms are governed by the laws of the State of Texas. Disputes shall be resolved in Travis County, Texas.
+These terms are governed by the laws of the State of Texas.
 
 ## Contact
 
 Questions: contact@ardentleatherworks.com
 
 Ardent Leatherworks
-Austin, Texas
 
 <p class="specs">Last updated: January 2026</p>
