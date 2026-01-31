@@ -62,4 +62,6 @@ Green on leather was historically elusive. Most greens faded fast or turned brow
 
 Botanical matter simmered for an hour. Strained. Iron mordant added gradually, watching the color shift as it oxidizes. Applied in thin coats by sponge or wool dauber, dried and buffed between layers. Thin coats over thick. Patience over speed.
 
+No two batches are exactly alike. Each will age differently. The names are states, not specifications. Aima, Thanatochromia, Aporia: concepts the mind holds, not colors a machine matches.
+
 <p class="specs">Hand-dyed pieces are released in limited batches.</p>
