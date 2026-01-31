@@ -64,9 +64,7 @@ The words that appear here, in the navigation, in the dye names, in the motto be
 
 <h2 data-greek="Ὁ Δημιουργός"><span>The Maker</span></h2>
 
-Cody spent five years as a Marine Corps officer, where attention to detail wasn't optional. Equipment had to work, every time. Now he architects data and AI systems by trade, with the same focus on eliminating failure points.
-
-Leather is a different kind of system. One where truth is visible in the finished object, where shortcuts show, where attention leaves physical evidence. The same obsession applies: source the right materials, use tools that don't compromise, remove everything that could fail.
+Cody builds systems and seeks truth. Marine Corps officer, then data scientist and AI systems architect. Leather is the same work applied to different material — the hand cannot lie, the system either holds or it doesn't.
 
 All hand tools. French knives, American edgers, brass and oak and thread. No machines between the hand and the work.
 

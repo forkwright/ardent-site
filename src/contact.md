@@ -10,11 +10,9 @@ permalink: /contact/
 
 Replies within one business day.
 
-## Launch Notification
+## Updates
 
-<p class="launch-note">Ardent is pre-launch. To be notified when we open:</p>
-
-<a href="mailto:contact@ardentleatherworks.com?subject=Notify%20me%20at%20launch" class="notify-link">notify me</a>
+<a href="mailto:contact@ardentleatherworks.com?subject=Keep%20me%20updated" class="notify-link">Get notified</a> about new products and limited dye batches.
 
 ## Custom Work
 

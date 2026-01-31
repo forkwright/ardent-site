@@ -6,17 +6,11 @@ permalink: /dyes/
 
 # Dyes
 
-The act of dyeing is not decoration. It is an alteration of the skin itself.
+Dye soaks into leather. It doesn't coat it. The color becomes part of the hide.
 
-Leather absorbs what you give it. These recipes use historical ingredients: plant matter, mineral mordants, time. The color becomes part of the hide, not a coating on it.
+These recipes use historical ingredients: plant matter, mineral mordants, time. Logwood, madder root, nettle, verdigris. The same materials that colored Roman boots and medieval manuscripts.
 
 Each name names a condition, not just a color.
-
-## Ingredients as History
-
-<p class="ingredient-note">Logwood: colonial exploitation, funeral blacks, ink of bureaucratic death records. Madder: ancient root-blood, the earliest reds for both bridal and burial cloth. Indigo: extraction labor, bruises of the sky, sacred blue that stains fingertips. Nettle: sting and cure, humble wildness, fabric for the poor and the dead. Verdigris: copper decay, the poison of artists, the green of old bronze tomb markers. Iron mordant: blood-rust, weapon and wound, earth's bite in the fibers.</p>
-
-Leather (once skin) absorbs logwood (once tree), madder (once root), and verdigris (once copper). A chain of mortal matter converging in a single surface. The mordant fixes these ghosts into the leather's pores, making memory permanent. This process mirrors mummification, except here death is worn openly.
 
 <div class="dye-entry dye-entry-aima">
 
@@ -42,9 +36,9 @@ Madder root, logwood, iron mordant. The same pigments that colored Roman boots a
 
 <span class="dye-swatch swatch-thanatochromia"></span><span class="dye-hex">#2C1B3A</span>
 
-Thanatochromia: What death leaves behind
+A coined word. Greek grammar, new meaning. Imperial purple earned through transformation.
 
-A coined word. Greek grammar, new meaning.
+Logwood and iron mordant, layered until the depth holds. The same base chemistry that made Tyrian purple precious — though that required murex snails and imperial budgets. This version uses what the forest provides.
 
 </div>
 
@@ -56,8 +50,6 @@ A coined word. Greek grammar, new meaning.
 <span class="dye-pronunciation">ah-po-REE-ah</span>
 
 <span class="dye-swatch swatch-aporia"></span><span class="dye-hex">#5C8E63</span>
-
-Aporia: The philosophical condition of being stuck between unresolvable truths
 
 Green on leather was historically elusive. Most faded fast or turned brown. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
 
