@@ -20,17 +20,17 @@ Wickett & Craig was founded in Toronto in 1867 and relocated to Curwensville, Pe
 
 Their Traditional Harness leather is hot-stuffed with waxes, oils, and tallows while still receptive, saturating the hide rather than coating the surface. Then jack-glazed: a glass cylinder compresses the grain and pulls the waxes to the surface, creating a glossy finish that still shows full natural grain. Scars, fat wrinkles, and other natural markings remain visible.
 
-The result is firm, structured leather with high water resistance and a patina that develops quickly as the waxes shift and the surface picks up small scuffs. Ardent uses it for keepers, the small loop that holds the belt tail in place.
+The result is firm, structured leather with high water resistance and a patina that develops quickly as the waxes shift and the surface picks up small scuffs. Ardent uses it for accents and secondary components.
 
 ## Solid Brass Hardware
 
 Brass is copper and zinc. It oxidizes slowly to a darker patina that can be polished back or left to age. The same material used in nautical fittings, musical instruments, and ammunition casings. Chosen for durability in all of them.
 
-All Ardent hardware is solid brass from Abbey England, a Walsall foundry operating since 1832 and holder of a Royal Warrant. Their sand-cast brass Flat Whole Harness buckles are stitched to the belt using traditional leatherworking methods.
+All Ardent hardware is solid brass from Abbey England, a Walsall foundry operating since 1832 and holder of a Royal Warrant. Sand-cast using traditional methods, hand-stitched to the leather.
 
 ## Thread
 
-Fil au Chinois Lin Câblé, size 332 Sans for belts. French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
+Fil au Chinois Lin Câblé, size 332 Sans. French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
 
 Hand saddle-stitching creates two independent thread paths. If one side wears through, the other holds. Machine stitching uses a single interlocked thread. One break and the whole seam unravels.
 

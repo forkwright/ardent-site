@@ -22,9 +22,9 @@ Non-standard sizes or other requests. Reach out. Lead time depends on the work.
 
 ## Repairs
 
-If our workmanship fails, we make it right. Keeper stitching fails, we send a replacement keeper at no charge. Hardware fails, replacement at cost plus shipping.
+If our workmanship fails, we make it right. Stitching fails, we repair or replace at no charge. Hardware fails, replacement at cost plus shipping.
 
-The strap itself is single-layer Hermann Oak. It's not going to fail for decades. Natural wear isn't a defect. It's the work remembering you.
+The leather itself is Hermann Oak. It's not going to fail for decades. Natural wear isn't a defect.
 
 ## Returns
 
