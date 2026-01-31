@@ -48,7 +48,11 @@ The hide carries the story of the animal that lived. Its scars, its shade. Minim
 
 ## Sizing
 
-Measure your current belt from the fold at the buckle to the hole you use most. Custom sizes available on request.
+Measure your current belt from the fold at the buckle to the hole you use most.
+
+No belt? Measure around your body where you'd wear it. That's your belt size.
+
+Custom sizes available on request.
 
 <div class="purchase-box">
   <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-812721277" itemtype="http://schema.org/Product" data-single-product-id="812721277"><div class="ecsp-title" itemprop="name" style="display:none;" content="Ardent Belt"></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
