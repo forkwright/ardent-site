@@ -836,17 +836,47 @@ footer p {
 }
 
 /* === JOURNAL === */
-.journal-intro {
-  color: var(--text-mid);
-  margin-bottom: var(--space-l);
+.journal-entries {
+  margin-top: var(--space-l);
 }
 
-.journal-placeholder {
-  padding: var(--space-xl) var(--space-m);
-  background: var(--bg-accent);
-  border: 1px solid var(--rule);
-  text-align: center;
+.journal-entry {
+  padding-bottom: var(--space-l);
   margin-bottom: var(--space-l);
+  border-bottom: 1px solid var(--rule);
+}
+
+.journal-entry:last-of-type {
+  border-bottom: none;
+}
+
+.entry-title {
+  font-family: var(--font-body);
+  font-size: var(--step-1);
+  font-weight: 400;
+  margin-bottom: var(--space-xs);
+}
+
+.entry-date {
+  font-family: var(--font-mono);
+  font-size: var(--step--2);
+  color: var(--text-light);
+  margin-bottom: var(--space-m);
+}
+
+.entry-image {
+  margin: var(--space-m) 0;
+}
+
+.entry-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.entry-image figcaption {
+  font-size: var(--step--1);
+  color: var(--text-light);
+  margin-top: var(--space-xs);
 }
 
 /* === INGREDIENT NOTE === */
