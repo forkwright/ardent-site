@@ -97,4 +97,38 @@ Root of ardent, ardor, arson. To burn is to transform irreversibly. What comes t
 
 ---
 
+## Resonant Readings
+
+Books that shape how attention is given.
+
+**[Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)** — James Carse, 1986. Finite games are played to win; infinite games are played to keep playing. Craft as infinite game: the point is continuation, not victory.
+
+**[The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)** — Thomas Kuhn, 1962. Paradigms don't shift through gradual accumulation but through crisis and replacement. How frameworks become invisible until they break.
+
+**[Metaphors We Live By](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)** — George Lakoff & Mark Johnson, 1980. Metaphor isn't ornament — it's how thought works. "Argument is war" shapes how we argue. The metaphors we choose shape what we can think.
+
+**[Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)** — Robert Pirsig, 1974. Quality precedes the subject-object split. You know it before you can define it. The motorcycle doesn't care about your theories.
+
+**[Gravity and Grace](https://en.wikipedia.org/wiki/Gravity_and_Grace)** — Simone Weil, 1947. Attention is the rarest form of generosity. Decreation as spiritual practice. The weight of the world and the lightness that comes from accepting it.
+
+**[The Poetics of Space](https://en.wikipedia.org/wiki/The_Poetics_of_Space)** — Gaston Bachelard, 1958. Intimate spaces — drawers, chests, wardrobes — hold more than objects. They hold dreams. Material space as psychological architecture.
+
+**[Tools for Conviviality](https://en.wikipedia.org/wiki/Tools_for_Conviviality)** — Ivan Illich, 1973. Tools should serve human autonomy, not replace it. Industrial tools disable; convivial tools enable. The hand tool as political statement.
+
+**[The Rings of Saturn](https://en.wikipedia.org/wiki/The_Rings_of_Saturn_(novel))** — W.G. Sebald, 1995. A walking tour that becomes meditation on decay, memory, and extinction. Prose that moves like thought itself — digressive, accumulative, melancholic.
+
+**[The Book of Disquiet](https://en.wikipedia.org/wiki/The_Book_of_Disquiet)** — Fernando Pessoa, 1982. Fragments from a life that preferred observation to participation. The aesthetics of incompleteness. Writing as the only authentic action.
+
+**[So Long, See You Tomorrow](https://en.wikipedia.org/wiki/So_Long,_See_You_Tomorrow)** — William Maxwell, 1980. Memory, guilt, and the inadequacy of words to capture what happened. Slim, devastating, precise.
+
+**[Letters to a Young Poet](https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet)** — Rainer Maria Rilke, 1929. Solitude as prerequisite. The slow ripening of questions into answers. Why you must live the questions now.
+
+**[Pilgrim at Tinker Creek](https://en.wikipedia.org/wiki/Pilgrim_at_Tinker_Creek)** — Annie Dillard, 1974. Attention as spiritual discipline. A year of watching — insects, light, water — until seeing becomes revelation.
+
+**[Arctic Dreams](https://en.wikipedia.org/wiki/Arctic_Dreams)** — Barry Lopez, 1986. Landscape as teacher. The ethics of attention in places that don't care whether you survive. Imagination and the natural world.
+
+**[Selected Writings and Designs](https://en.wikipedia.org/wiki/William_Morris)** — William Morris. The Arts and Crafts movement's founding voice. "Have nothing in your houses that you do not know to be useful, or believe to be beautiful."
+
+---
+
 <p class="specs">You found this by following the path. That's how it's meant to work.</p>
