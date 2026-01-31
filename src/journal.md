@@ -9,16 +9,14 @@ permalink: /journal/
 
 Notes from the bench. What worked, what didn't, what I'm thinking about.
 
-<div class="journal-index">
-
-<article class="journal-entry-link">
-<a href="/journal/the-cost-of-naming/">
-<h2>The Cost of Naming</h2>
-<p class="entry-meta">2026-01-31 · compression · the Greek · attention</p>
-<p class="entry-excerpt">Every act of naming is a choice to lose something in exchange for being understood.</p>
-</a>
-</article>
-
-</div>
+<ul class="journal-list">
+  <li>
+    <a href="/journal/the-cost-of-naming/">
+      <span class="entry-name">The Cost of Naming</span>
+      <span class="entry-components">compression · the Greek · attention</span>
+      <span class="entry-words">~620 words</span>
+    </a>
+  </li>
+</ul>
 
 <p class="specs">Newest at top.</p>

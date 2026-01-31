@@ -897,53 +897,45 @@ footer p {
   color: var(--aima);
 }
 
-/* Journal index (list of entries) */
-.journal-index {
+/* Journal list (mirrors products-list) */
+.journal-list {
+  list-style: none;
   margin-top: var(--space-l);
 }
 
-.journal-entry-link {
-  padding: var(--space-m) 0;
+.journal-list li {
   border-bottom: 1px solid var(--rule);
 }
 
-.journal-entry-link:last-of-type {
-  border-bottom: none;
-}
-
-.journal-entry-link a {
+.journal-list a {
+  display: flex;
+  align-items: baseline;
+  padding: var(--space-m) 0;
   text-decoration: none;
-  display: block;
-  transition: color 0.2s ease;
+  gap: var(--space-s);
 }
 
-.journal-entry-link a:hover {
+.journal-list a:hover {
   color: var(--aima);
 }
 
-.journal-entry-link h2 {
+.entry-name {
   font-family: var(--font-body);
   font-size: var(--step-1);
-  font-weight: 400;
-  margin: 0 0 var(--space-xs) 0;
-  padding: 0;
-  border: none;
-  text-transform: none;
-  letter-spacing: 0;
 }
 
-.entry-meta {
-  font-family: var(--font-mono);
-  font-size: var(--step--2);
-  color: var(--text-light);
-  letter-spacing: 0.03em;
-  margin-bottom: var(--space-xs);
-}
-
-.entry-excerpt {
+.entry-components {
+  font-family: var(--font-body);
   font-size: var(--step--1);
-  color: var(--text-mid);
-  margin: 0;
+  color: var(--text-light);
+  flex: 1;
+}
+
+.entry-words {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--text-light);
+  margin-left: auto;
 }
 
 /* === LEXICON === */
