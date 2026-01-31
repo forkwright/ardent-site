@@ -75,7 +75,9 @@ Vegetable tannins darken with light and handling. The oils from your hands accel
 
 ## Process
 
-Botanical matter simmered for an hour. Strained. Iron mordant added gradually, watching the color shift as it oxidizes. Applied in thin coats by sponge or wool dauber, dried and buffed between layers. Thin coats over thick. Patience over speed.
+Botanical matter simmered for an hour, extracting pigment into water. Strained. Iron mordant added gradually. The mordant fixes color into the leather's structure and prevents fading. Watch the color shift as it oxidizes.
+
+Applied in thin coats by sponge or wool dauber. Thin coats penetrate. Thick coats crack. Each layer dried and buffed before the next. The dye soaks into the hide's grain. This is not surface treatment.
 
 No two batches are exactly alike. Each will age differently. The names are states, not specifications. Concepts the mind holds, not colors a machine matches.
 
