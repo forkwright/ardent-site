@@ -36,6 +36,7 @@
   --aima: #581523;
   --thanatochromia: #2C1B3A;
   --aporia: #5C8E63;
+  --natural: #C4A574;
   
   /* Fonts */
   --font-display: 'Cormorant Garamond', Garamond, serif;   /* 16th c. philosophical text */
@@ -647,6 +648,7 @@ th {
 .swatch-aima { background: var(--aima); }
 .swatch-thanatochromia { background: var(--thanatochromia); }
 .swatch-aporia { background: var(--aporia); }
+.swatch-natural { background: var(--natural); }
 
 /* === FOOTER === */
 footer {

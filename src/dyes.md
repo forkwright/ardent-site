@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Dyes
-description: "Botanical leather dyes: Aima (blood red), Thanatochromia (death's purple), Aporia (philosophical green). Historical recipes, modern craft."
+description: "Botanical leather dyes and natural undyed. Aima, Thanatochromia, Aporia, Natural. States of being applied to Hermann Oak leather."
 permalink: /dyes/
 ---
 
@@ -20,11 +20,11 @@ Each name names a condition, not just a color.
 <span class="dye-greek">Αἷμα · blood</span>
 <span class="dye-pronunciation">HAI-mah</span>
 
-<span class="dye-swatch swatch-aima"></span><span class="dye-hex">#581523</span>
+<span class="dye-swatch swatch-aima"></span>
 
 The Greek word for blood. In ancient texts, αἷμα appears wherever sacrifice matters. Tied to lineage, to what was given so something else could continue. Blood is the cost of continuity.
 
-Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly fixed. This one holds.
+Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly fixed. This one holds. Over years it deepens, warming toward brown-burgundy as the iron continues its slow oxidation.
 
 </div>
 
@@ -35,11 +35,11 @@ Madder root, logwood, iron mordant. True oxbloods fade to rust unless correctly 
 <span class="dye-greek">Θανατοχρωμία · the color death leaves behind</span>
 <span class="dye-pronunciation">tha-na-to-khro-MEE-ah</span>
 
-<span class="dye-swatch swatch-thanatochromia"></span><span class="dye-hex">#2C1B3A</span>
+<span class="dye-swatch swatch-thanatochromia"></span>
 
 A coined word. θάνατος (death) + χρώμα (color). Neo-Greek, invented but grammatically correct. The concept needed a name.
 
-Tyrian purple was made from crushed murex snails. The dye came from their death. Imperial purple earned through transformation. This version uses logwood and iron. Same chemistry, different source. The color death leaves behind.
+Tyrian purple was made from crushed murex snails. The dye came from their death. Imperial purple earned through transformation. This version uses logwood and iron. Same chemistry, different source. The color death leaves behind. It shifts over time toward gray-purple or brown-purple depending on light, darkening where hands touch most.
 
 </div>
 
@@ -50,11 +50,26 @@ Tyrian purple was made from crushed murex snails. The dye came from their death.
 <span class="dye-greek">ἀπορία · the condition of being stuck between unresolvable truths</span>
 <span class="dye-pronunciation">ah-po-REE-ah</span>
 
-<span class="dye-swatch swatch-aporia"></span><span class="dye-hex">#5C8E63</span>
+<span class="dye-swatch swatch-aporia"></span>
 
 A philosophical term from Plato and Aristotle. ἀπορία names the impasse when two truths contradict and neither yields. The only way through is abstraction. Recurse. Hold both as true while climbing another rung of Hayakawa's ladder. Of the three, this word is closest to Ardent's core.
 
-Green on leather was historically elusive. Most greens faded fast or turned brown. Caught between color and decay. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
+Green on leather was historically elusive. Most greens faded fast or turned brown. Caught between color and decay. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood. The color itself is in aporia: copper pulls toward blue-green, logwood toward brown, nettle holds the middle. Which wins depends on time and use.
+
+</div>
+
+<div class="dye-entry dye-entry-natural">
+
+## Natural
+
+<span class="dye-greek">Φύσις · nature, the way things grow</span>
+<span class="dye-pronunciation">FOO-sis</span>
+
+<span class="dye-swatch swatch-natural"></span>
+
+Undyed [Hermann Oak](/materials/). The leather as it leaves the tannery, tallow-stuffed and full of potential.
+
+Vegetable tannins darken with light and handling. The oils from your hands accelerate the change. Honey becomes amber becomes deep brown over years. Every mark evidence of the life you've lived together.
 
 </div>
 
@@ -62,6 +77,6 @@ Green on leather was historically elusive. Most greens faded fast or turned brow
 
 Botanical matter simmered for an hour. Strained. Iron mordant added gradually, watching the color shift as it oxidizes. Applied in thin coats by sponge or wool dauber, dried and buffed between layers. Thin coats over thick. Patience over speed.
 
-No two batches are exactly alike. Each will age differently. The names are states, not specifications. Aima, Thanatochromia, Aporia: concepts the mind holds, not colors a machine matches.
+No two batches are exactly alike. Each will age differently. The names are states, not specifications. Concepts the mind holds, not colors a machine matches.
 
 <p class="specs">Hand-dyed pieces are released in limited batches.</p>
