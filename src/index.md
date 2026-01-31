@@ -1,12 +1,12 @@
 ---
 layout: base.njk
 title: Ardent Leatherworks
-description: "Heirloom leather goods. Hermann Oak vegetable-tanned leather, solid brass, hand saddle-stitched. The hand remembers what the mind forgets."
+description: "Heirloom leather goods. Hermann Oak vegetable-tanned leather, solid brass, hand saddle-stitched. The hand remembers what the mind tries to forget."
 bodyClass: home-page
 ---
 
 <div class="home">
-  <p class="home-tagline">The Hand Remembers<br>What The Mind Aims To Forget</p>
+  <p class="home-tagline">The Hand Remembers<br>What The Mind Tries To Forget</p>
   <p class="home-truth">Attention is a moral act.</p>
   <a href="/philosophy/" class="triad-mark cycling" id="triad">
     <span class="triad-word triad-1"><span class="greek">χείρ</span><span class="english">hand</span></span>
