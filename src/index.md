@@ -21,9 +21,16 @@ bodyClass: home-page
         triad.classList.remove('cycling');
         triad.classList.add('settled');
         
-        // Add hover effects for background
+        // Force visibility on all words and dots
         var words = triad.querySelectorAll('.triad-word');
+        var dots = triad.querySelectorAll('.triad-dot');
+        
         words.forEach(function(word) {
+          word.style.opacity = '1';
+          word.style.position = 'static';
+          word.style.animation = 'none';
+          
+          // Add hover effects for background
           word.addEventListener('mouseenter', function() {
             document.body.classList.remove('bg-aima', 'bg-thanatochromia', 'bg-aporia');
             if (word.classList.contains('triad-1')) document.body.classList.add('bg-aima');
@@ -33,6 +40,10 @@ bodyClass: home-page
           word.addEventListener('mouseleave', function() {
             document.body.classList.remove('bg-aima', 'bg-thanatochromia', 'bg-aporia');
           });
+        });
+        
+        dots.forEach(function(dot) {
+          dot.style.opacity = '1';
         });
       }
     }, 5800);
