@@ -280,11 +280,11 @@ a:hover {
   font-weight: 300;
   font-style: italic;
   line-height: 1.4;
-  max-width: 720px;
+  max-width: 800px;
   margin: 0;
   color: var(--text);
   position: relative;
-  min-height: 4.2em;
+  min-height: 2.8em;
 }
 
 .home-tagline span {
