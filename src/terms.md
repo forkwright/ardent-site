@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Terms
+description: "Terms of service for Ardent Leatherworks. Orders, returns, warranty, and liability."
 permalink: /terms/
 ---
 

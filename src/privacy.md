@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Privacy
+description: "Privacy policy for Ardent Leatherworks. What we collect, how we use it, who processes payments."
 permalink: /privacy/
 ---
 
