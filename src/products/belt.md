@@ -69,6 +69,6 @@ Wear it. The leather improves with use. No conditioning needed—the hide is alr
 | | |
 |---|---:|
 | Materials | $32 |
-| Labor & Workshop | $83 |
+| Labor & Workshop | $108 |
 | Shipping | $10 |
 | **Total** | **$150** |
