@@ -271,7 +271,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: var(--space-m);
+  gap: var(--space-s);
 }
 
 .home-tagline {
@@ -336,8 +336,8 @@ a:hover {
 .home-nav {
   display: flex;
   gap: var(--space-m);
-  margin-top: var(--space-l);
-  padding-top: var(--space-m);
+  margin-top: var(--space-s);
+  padding-top: var(--space-s);
   border-top: 1px solid var(--rule);
 }
 
@@ -801,7 +801,7 @@ footer p {
   font-family: var(--font-display);
   font-size: var(--step-2);
   text-decoration: none;
-  margin: var(--space-m) 0;
+  margin: var(--space-xs) 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -837,17 +837,17 @@ footer p {
 }
 
 .triad-mark.cycling .triad-1 {
-  animation: triadCycle 1.8s ease-in-out forwards;
+  animation: triadCycle 1.8s ease-in-out;
   animation-delay: 0s;
 }
 
 .triad-mark.cycling .triad-2 {
-  animation: triadCycle 1.8s ease-in-out forwards;
+  animation: triadCycle 1.8s ease-in-out;
   animation-delay: 1.8s;
 }
 
 .triad-mark.cycling .triad-3 {
-  animation: triadCycle 1.8s ease-in-out forwards;
+  animation: triadCycle 1.8s ease-in-out;
   animation-delay: 3.6s;
 }
 
@@ -860,31 +860,20 @@ footer p {
 /* Settled state (after cycling) */
 .triad-mark.settled .triad-word {
   position: static;
-  opacity: 0;
-  animation: triadSettle 0.8s ease-out forwards;
+  opacity: 1 !important;
+  animation: none;
   cursor: pointer;
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, opacity 0.5s ease;
 }
 
 .triad-mark.settled .triad-word:hover {
   transform: scale(1.05);
 }
 
-.triad-mark.settled .triad-1 { animation-delay: 0s; }
-.triad-mark.settled .triad-2 { animation-delay: 0.15s; }
-.triad-mark.settled .triad-3 { animation-delay: 0.3s; }
-
-@keyframes triadSettle {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
 .triad-mark.settled .triad-dot {
   margin: 0 0.5em;
   color: var(--text-light);
-  opacity: 0;
-  animation: triadSettle 0.8s ease-out forwards;
-  animation-delay: 0.4s;
+  opacity: 1;
 }
 
 /* Colors */
