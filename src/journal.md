@@ -35,7 +35,7 @@ This is why I make things by hand instead of just writing about making things. T
 
 So the cost is paid. Aima. Thanatochromia. Aporia. Knowing each word is a wound to what it names.
 
-The attention you give, reading this, holding the leather, noticing the stitch angle, pausing on a word you don't recognize — that's what heals it. That's what makes Aporia worth experiencing.
+The attention you give, reading this, holding the leather, noticing the stitch angle, pausing on a word you don't recognize - that's what heals it. That's what makes Aporia worth experiencing.
 
 </article>
 
