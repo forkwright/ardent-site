@@ -740,6 +740,38 @@ footer p {
   }
 }
 
+/* === HOME TAGLINE HOVER === */
+.home-tagline {
+  position: relative;
+  cursor: default;
+}
+
+.home-tagline span {
+  transition: opacity 0.4s ease;
+}
+
+.home-tagline::after {
+  content: attr(data-alt);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50%;
+  margin-top: -0.6em;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+  white-space: nowrap;
+  font-style: italic;
+}
+
+.home-tagline:hover::after {
+  opacity: 1;
+}
+
+.home-tagline:hover span {
+  opacity: 0;
+}
+
 /* === 404 PAGE === */
 .error-page {
   text-align: center;
