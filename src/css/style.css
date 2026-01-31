@@ -865,7 +865,92 @@ footer p {
   font-family: var(--font-mono);
   font-size: var(--step--2);
   color: var(--text-light);
-  margin-bottom: var(--space-m);
+  margin-bottom: var(--space-s);
+}
+
+/* Journal entry header (individual entry pages) */
+.entry-header {
+  margin-bottom: var(--space-l);
+  padding-bottom: var(--space-m);
+  border-bottom: 1px solid var(--rule);
+}
+
+.entry-header h1 {
+  margin-bottom: var(--space-xs);
+}
+
+.entry-components {
+  font-family: var(--font-mono);
+  font-size: var(--step--2);
+  color: var(--text-light);
+  letter-spacing: 0.05em;
+  margin: 0;
+}
+
+.entry-components a {
+  color: var(--text-light);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.entry-components a:hover {
+  color: var(--aima);
+}
+
+/* Journal index (list of entries) */
+.journal-index {
+  margin-top: var(--space-l);
+}
+
+.journal-entry-link {
+  padding: var(--space-m) 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.journal-entry-link:last-of-type {
+  border-bottom: none;
+}
+
+.journal-entry-link a {
+  text-decoration: none;
+  display: block;
+  transition: color 0.2s ease;
+}
+
+.journal-entry-link a:hover {
+  color: var(--aima);
+}
+
+.journal-entry-link h2 {
+  font-family: var(--font-body);
+  font-size: var(--step-1);
+  font-weight: 400;
+  margin: 0 0 var(--space-xs) 0;
+  padding: 0;
+  border: none;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.entry-meta {
+  font-family: var(--font-mono);
+  font-size: var(--step--2);
+  color: var(--text-light);
+  letter-spacing: 0.03em;
+  margin-bottom: var(--space-xs);
+}
+
+.entry-excerpt {
+  font-size: var(--step--1);
+  color: var(--text-mid);
+  margin: 0;
+}
+
+/* === LEXICON === */
+main hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: var(--space-l) 0;
 }
 
 .entry-image {
