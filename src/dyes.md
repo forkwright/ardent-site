@@ -52,7 +52,7 @@ Tyrian purple was made from crushed murex snails. The dye came from their death.
 
 <span class="dye-swatch swatch-aporia"></span><span class="dye-hex">#5C8E63</span>
 
-A real philosophical term — Plato and Aristotle used it. ἀπορία names the impasse when two truths contradict and neither yields. The condition a mind passes through before it can grow.
+A real philosophical term — Plato and Aristotle used it. ἀπορία names the impasse when two truths contradict and neither yields. The condition a mind passes through before it can grow. Of the three, this word is closest to Ardent's core — sitting with uncertainty rather than forcing resolution.
 
 Green on leather was historically elusive. Most greens faded fast or turned brown — caught between color and decay. This version borrows stability from copper (verdigris, micro-dosed) and depth from nettle and logwood.
 
