@@ -15,7 +15,7 @@ description: Single-layer Hermann Oak harness leather. Solid brass. Hand saddle-
 
 </div>
 
-<p class="product-intro">Single layer. Hermann Oak harness. Solid brass.</p>
+<p class="product-intro">Single layer. Hermann Oak harness. Wickett & Craig keeper. Solid brass.</p>
 
 <div class="product-images">
   <p class="image-placeholder">Images forthcoming:</p>
