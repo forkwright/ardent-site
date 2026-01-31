@@ -863,12 +863,17 @@ footer p {
 }
 
 /* Greek/English toggle with fade */
+.triad-word .english {
+  display: none;
+}
+
 .triad-mark.settled .triad-word {
   position: relative;
   display: inline-block;
 }
 
-.triad-word .english {
+.triad-mark.settled .triad-word .english {
+  display: block;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -877,7 +882,7 @@ footer p {
   white-space: nowrap;
 }
 
-.triad-word .greek {
+.triad-mark.settled .triad-word .greek {
   opacity: 1;
   transition: opacity 0.4s ease;
 }
