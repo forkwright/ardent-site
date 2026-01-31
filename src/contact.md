@@ -32,7 +32,7 @@ Non-standard sizes or other requests. Reach out. Lead time depends on the work.
 
 If our workmanship fails, we make it right. Stitching fails, we repair or replace at no charge. Hardware fails, replacement at cost plus shipping.
 
-The leather itself is Hermann Oak. It's not going to fail for decades. Natural wear isn't a defect.
+The leather itself is harness leather. Vegetable-tanned, tallow-stuffed, built for decades of daily stress on working saddles and draft equipment. It doesn't fail. It ages. Natural wear isn't a defect.
 
 ## Returns
 
