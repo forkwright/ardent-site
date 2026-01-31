@@ -7,7 +7,7 @@ permalink: /journal/
 
 <h1 data-greek="Ἡμερολόγιον"><span>Journal</span></h1>
 
-Notes from the bench. What worked, what didn't, what I'm thinking about.
+Notes from the bench. What worked, what didn't, what I'm thinking about. <a href="/lexicon/">Lexicon</a>.
 
 <ul class="journal-list">
   <li>
@@ -20,4 +20,4 @@ Notes from the bench. What worked, what didn't, what I'm thinking about.
   </li>
 </ul>
 
-<p class="specs">Newest at top. · <a href="/lexicon/">Lexicon</a></p>
+<p class="specs">Newest at top.</p>

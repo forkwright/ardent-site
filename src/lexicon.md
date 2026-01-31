@@ -50,6 +50,54 @@ Directly informs *process as proof*: the work carries evidence of its making. Th
 
 [John Keats](https://en.wikipedia.org/wiki/Negative_capability), 1817. "When a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason." The ability to hold opposites without collapsing them. Why *Aporia* is a dye color: some questions are meant to be lived, not answered.
 
+### The Nature and Art of Workmanship
+*Workmanship of risk vs. workmanship of certainty*
+
+[David Pye](https://en.wikipedia.org/wiki/David_Pye_(woodworker)), 1968. The outcome of the workmanship of risk depends on the skill of the maker at the moment of making — it can go wrong. The workmanship of certainty (jigs, molds, machines) predetermines the result. Hand work is risk. That's the point.
+
+### Tacit Dimension
+*We know more than we can tell*
+
+[Michael Polanyi](https://en.wikipedia.org/wiki/Tacit_knowledge), 1966. Explicit knowledge is the tip of the iceberg. Most of what the skilled practitioner knows can't be articulated — it lives in the body, in the hand, in the practiced eye. The craft reveals without containing.
+
+### Small is Beautiful
+*Economics as if people mattered*
+
+[E.F. Schumacher](https://en.wikipedia.org/wiki/Small_Is_Beautiful), 1973. Buddhist economics. Appropriate technology. Human-scale organization. The critique of "bigger is better" applied to tools, work, and meaning. What's lost when efficiency becomes the only metric.
+
+---
+
+## Systems & Recursion
+
+### Gödel, Escher, Bach
+*Strange loops and tangled hierarchies*
+
+[Douglas Hofstadter](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach), 1979. Self-reference, recursion, and the emergence of meaning from meaningless parts. How consciousness might arise from loops that point back at themselves. The book is itself an example of what it describes.
+
+### Steps to an Ecology of Mind
+*Patterns that connect*
+
+[Gregory Bateson](https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind), 1972. Logical types. Meta-learning. The pattern which connects the crab to the lobster and the orchid to the primrose. Systems thinking as a way of seeing relationships rather than things.
+
+### A Pattern Language
+*Design at multiple scales simultaneously*
+
+[Christopher Alexander](https://en.wikipedia.org/wiki/A_Pattern_Language), 1977. 253 patterns from regions to room corners. Each pattern solves a problem while creating context for smaller patterns. Design as nested solutions. The method applies to code, craft, and cities.
+
+---
+
+## Attention & Perception
+
+### Phenomenology of Perception
+*The body knows*
+
+[Maurice Merleau-Ponty](https://en.wikipedia.org/wiki/Phenomenology_of_Perception), 1945. Perception isn't passive reception — it's active, embodied, skilled. "The hand remembers" is Merleau-Ponty. The body is not an instrument the mind uses; the body thinks.
+
+### The Sovereignty of Good
+*Attention as moral vision*
+
+[Iris Murdoch](https://en.wikipedia.org/wiki/The_Sovereignty_of_Good), 1970. Moral progress is learning to see clearly. Attention, properly directed, is a form of love. "The direction of attention is, contrary to nature, outward, away from self." Attention is a moral act.
+
 ---
 
 ## Aesthetic Traditions
@@ -125,6 +173,12 @@ The dialect of [Classical Athens](https://en.wikipedia.org/wiki/Attic_Greek), 5t
 **[Stoner](https://en.wikipedia.org/wiki/Stoner_(novel))** — John Williams, 1965
 *A quiet life fully lived*
 
+**[The Brothers Karamazov](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)** — Fyodor Dostoyevsky, 1880
+*Moral psychology, redemption through suffering*
+
+**[The Loser](https://en.wikipedia.org/wiki/The_Loser_(novel))** — Thomas Bernhard, 1983
+*Obsession, perfection, the artist's impossible standards*
+
 **[So Long, See You Tomorrow](https://en.wikipedia.org/wiki/So_Long,_See_You_Tomorrow)** — William Maxwell, 1980
 *The inadequacy of words to capture what happened*
 
@@ -134,7 +188,15 @@ The dialect of [Classical Athens](https://en.wikipedia.org/wiki/Attic_Greek), 5t
 **[Arctic Dreams](https://en.wikipedia.org/wiki/Arctic_Dreams)** — Barry Lopez, 1986
 *The ethics of attention in places that don't care*
 
+### Psychology & Development
+
+**[Theory of Positive Disintegration](https://en.wikipedia.org/wiki/Positive_disintegration)** — Kazimierz Dabrowski, 1964
+*Psychological distress as developmental, not pathological*
+
 ### Craft Practice
 
 **[Selected Writings](https://en.wikipedia.org/wiki/William_Morris)** — William Morris
 *"Have nothing you do not know to be useful or believe to be beautiful"*
+
+**[The Stones of Venice](https://en.wikipedia.org/wiki/The_Stones_of_Venice)** — John Ruskin, 1851–53
+*Material detail as moral philosophy*
