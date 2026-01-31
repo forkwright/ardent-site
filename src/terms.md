@@ -17,7 +17,7 @@ Orders ship within one week unless otherwise noted. You will receive tracking in
 
 ## Returns and Exchanges
 
-**Defects in workmanship:** Contact us. We will repair or replace at no cost.
+**Defects in workmanship:** Contact us. We will repair at no cost.
 
 **Wrong size:** Contact us within 14 days of delivery. Return shipping is your responsibility. We will exchange for correct size.
 
