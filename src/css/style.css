@@ -34,9 +34,13 @@
   
   /* Brand — iron-mordanted botanical dyes */
   --aima: #581523;
+  --aima-aged: #4A1A1A;
   --thanatochromia: #2C1B3A;
+  --thanatochromia-aged: #382838;
   --aporia: #5C8E63;
-  --natural: #C4A574;
+  --aporia-aged: #4A7A5A;
+  --natural: #8B5A2B;
+  --natural-aged: #5C3A1F;
   
   /* Fonts */
   --font-display: 'Cormorant Garamond', Garamond, serif;   /* 16th c. philosophical text */
@@ -630,25 +634,18 @@ th {
 }
 
 .dye-swatch {
-  display: inline-block;
-  width: 2.5rem;
-  height: 2.5rem;
-  vertical-align: middle;
-  margin-right: var(--space-s);
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  height: 0.75rem;
+  margin: var(--space-s) 0;
   border: 1px solid var(--rule);
 }
 
-.dye-hex {
-  font-family: var(--font-mono);
-  font-size: var(--step--2);
-  color: var(--text-light);
-  vertical-align: middle;
-}
-
-.swatch-aima { background: var(--aima); }
-.swatch-thanatochromia { background: var(--thanatochromia); }
-.swatch-aporia { background: var(--aporia); }
-.swatch-natural { background: var(--natural); }
+.swatch-aima { background: linear-gradient(to right, var(--aima), var(--aima-aged)); }
+.swatch-thanatochromia { background: linear-gradient(to right, var(--thanatochromia), var(--thanatochromia-aged)); }
+.swatch-aporia { background: linear-gradient(to right, var(--aporia), var(--aporia-aged)); }
+.swatch-natural { background: linear-gradient(to right, var(--natural), var(--natural-aged)); }
 
 /* === FOOTER === */
 footer {
