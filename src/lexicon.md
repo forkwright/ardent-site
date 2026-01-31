@@ -1,105 +1,89 @@
 ---
 layout: base.njk
 title: Lexicon
-description: "The conceptual infrastructure beneath Ardent. Language, abstraction, and the structure of attention."
+description: "The conceptual infrastructure beneath Ardent. Influences, frameworks, and the sources of attention."
 permalink: /lexicon/
 ---
 
 <h1 data-greek="Λεξικόν"><span>Lexicon</span></h1>
 
-The substrate beneath the work. Not definitions — explorations.
+The substrate beneath the work. External frames that shape how attention is given.
 
 ---
 
-<h2 id="attention">Attention</h2>
+<h2 id="proofs">Proofs and Refutations</h2>
 
-Attention is a moral act. Not a philosophy held, but something true the way gravity is true.
+*Imre Lakatos, 1976*
 
-The work remembers whether you were present. Leather absorbs and holds — the animal's life, the maker's attention, the wearer's years. Attention given cannot be faked, and attention withheld cannot be hidden.
+Mathematics isn't discovered, it's constructed through conjecture and criticism. The process of proving is the proof. Directly informs *process as proof*: the work carries evidence of its making.
 
-This is why handcraft matters. Not as aesthetic preference, but as evidence. The stitches carry information about how they were made. The object testifies.
+[Wikipedia](https://en.wikipedia.org/wiki/Proofs_and_Refutations)
 
 ---
 
-<h2 id="compression">Compression</h2>
+<h2 id="stoner">Stoner</h2>
 
-Language flattens to allow communicability. Every word compresses meaning into fewer dimensions than the thought contained. Every act of naming is a choice to lose something in exchange for being understood.
+*John Williams, 1965*
 
-A word that only means one thing is a label. A word that resonates is true at every level you read it — no loss between surface and foundation. The compression doesn't cost you anything because the word was chosen to hold what it holds.
+A quiet life fully lived. Every detail inevitable because it was attended to. Not performing depth — being deep. The kind of presence where the work simply becomes right because someone was fully there for it.
 
-Attention is the only thing that reverses the compression.
+[Wikipedia](https://en.wikipedia.org/wiki/Stoner_(novel))
+
+---
+
+<h2 id="wabi-sabi">Wabi-sabi</h2>
+
+*Japanese aesthetic tradition*
+
+The beauty of impermanence and imperfection. What ages, wears, shows use. Not despite the marks of time, but because of them. Why patina is a feature, not a flaw.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wabi-sabi)
+
+---
+
+<h2 id="shibumi">Shibumi</h2>
+
+*Japanese aesthetic tradition*
+
+Understated elegance. Complexity that presents as simplicity. The work that looks effortless because the effort was spent getting it right, not looking impressive. Direct restraint.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shibui)
+
+---
+
+<h2 id="negative-capability">Negative Capability</h2>
+
+*John Keats, 1817*
+
+"When a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason." The ability to sit with not-knowing. Why *Aporia* is a dye color: the conundrum itself has beauty.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Negative_capability)
 
 ---
 
 <h2 id="the-greek">The Greek</h2>
 
-Ancient Greek isn't here for decoration. It's here because the language was built for precision.
+*Attic Greek, 5th century BCE*
 
-χείρ (cheir) — not "hand" but *the hand that makes*. The root connects to χειρουργός (cheirourgos), the hand-worker, from which we get surgeon. The word carries its history.
+Not decoration. Precision. Greek was built for philosophical exactness in ways English flattens.
 
-μνήμη (mneme) — memory, but also monument, memorial. What remains. The root gives us mnemonic. Memory as act, not storage.
+χείρ (cheir) — *the hand that makes*. Root of χειρουργός (cheirourgos), hand-worker, surgeon.
 
-προσοχή (prosoche) — attention as *toward-holding*. πρός (toward) + ἔχω (to hold). Attention is directional. It requires an object. You don't just attend — you attend *to*.
+μνήμη (mneme) — memory as monument. What remains. Root of mnemonic.
 
-Greek compounds systematically. ἡμερολόγιον (hemerologion) — day-account, journal. θανατοχρωμία — death-color, the purple that comes from transformation. The structure invites precision that English flattens.
+προσοχή (prosoche) — attention as *toward-holding*. πρός (toward) + ἔχω (to hold).
 
-Latin encodes law. Greek encodes philosophy. Both leave residue in the words we inherit.
+Greek compounds systematically. θανατοχρωμία — death-color. ἡμερολόγιον — day-account. The structure invites precision that translation loses.
 
 ---
 
 <h2 id="ardere">Ardere</h2>
 
-Latin: *to burn*.
+*Latin*
 
-Not passion as emotion. Passion as what survives testing. The name compresses: what remains after fire has tested it.
+To burn. Not passion as emotion — passion as what survives testing. The name compresses: what remains after fire has tested it.
 
-The word gives us ardent, ardor, arson. To burn is to transform irreversibly. What comes through the fire is changed but proved.
-
-*Ardent* isn't intensity. It's the thing itself, tested.
-
----
-
-<h2 id="ladder">Ladder of Abstraction</h2>
-
-A belt functions (L1). It's heirloom construction (L2). It embodies craft philosophy (L3). It's attention preserving attention (L4). It's what remains after fire tests it (L5).
-
-Each layer is true. None contradict. Thinking at one level is practical. Thinking at all levels simultaneously changes what you make.
-
-The ladder doesn't rank importance — L5 isn't "better" than L1. But work that only operates at L1 differs from work that resonates through all layers. The surface still functions. The depth still opens.
-
-Most people stay at L1-L2. Nothing wrong with that. But some look further, and what they find should be there.
-
----
-
-<h2 id="mesh">Systems × Abstraction</h2>
-
-Take two dimensions: concrete ↔ abstract. Functional ↔ philosophical.
-
-Now overlay: material ↔ process ↔ meaning. Make a grid.
-
-Now overlay: past ↔ present ↔ future. The grid becomes a mesh.
-
-Each intersection is a resonance or a contradiction. A belt at the intersection of "material × abstract × past" is the animal that lived. At "process × concrete × present" it's the needle pulling thread. At "meaning × philosophical × future" it's the heir who receives it.
-
-The mesh is more accurate than any single frame. But it's too much to hold at once. That's not a flaw — that's the recognition that understanding is always partial. The map gets more detailed, but it never becomes the territory.
-
-This is itself a meta-abstraction: using the framework to describe the limits of frameworks. The ladder looking at itself.
-
----
-
-<h2 id="influences">Influences</h2>
-
-What shapes how attention is given.
-
-**[Proofs and Refutations](https://en.wikipedia.org/wiki/Proofs_and_Refutations)** — Imre Lakatos. Mathematics isn't discovered, it's constructed through conjecture and criticism. The process of proving is the proof. Directly informs why *process as proof* matters: the work carries evidence of its making.
-
-**[Stoner](https://en.wikipedia.org/wiki/Stoner_(novel))** — John Williams. A quiet life fully lived. Every detail inevitable because it was attended to. Not performing depth — being deep. The kind of presence where the work simply becomes right because someone was fully there for it.
-
-**[Wabi-sabi](https://en.wikipedia.org/wiki/Wabi-sabi)** — The Japanese aesthetic of impermanence and imperfection. Beauty in what ages, wears, shows use. Not despite the marks of time, but because of them. Why patina is a feature, not a flaw.
-
-**[Shibumi](https://en.wikipedia.org/wiki/Shibui)** — Understated elegance. Complexity that presents as simplicity. The work that looks effortless because the effort was spent getting it right, not looking impressive. Direct restraint.
-
-**[Negative Capability](https://en.wikipedia.org/wiki/Negative_capability)** — Keats' term for remaining in uncertainty without grasping after fact and reason. The ability to sit with not-knowing. Why *Aporia* is a dye color: the conundrum itself has beauty.
+Root of ardent, ardor, arson. To burn is to transform irreversibly. What comes through the fire is changed but proved.
 
 ---
 

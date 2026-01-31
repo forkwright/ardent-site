@@ -11,7 +11,7 @@ description: "On compression, language, and what naming costs. Every word is a c
 
 <p class="entry-date">2026-01-31</p>
 
-<p class="entry-components"><a href="/lexicon/#compression">compression</a> · <a href="/lexicon/#the-greek">the Greek</a> · <a href="/lexicon/#attention">attention</a></p>
+<p class="entry-components"><a href="/lexicon/#the-greek">the Greek</a> · <a href="/lexicon/#negative-capability">negative capability</a> · <a href="/lexicon/#proofs">Lakatos</a></p>
 
 </div>
 
