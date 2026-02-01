@@ -17,7 +17,7 @@ Each name names a condition, not just a color.
 
 ## Aima
 
-<span class="dye-greek">Αἷμα · blood</span>
+<span class="dye-greek" lang="el" translate="no">Αἷμα · blood</span>
 <span class="dye-pronunciation">HAI-mah</span>
 
 <span class="dye-swatch swatch-aima"></span>
@@ -32,7 +32,7 @@ Madder root, alum mordant, minimal iron afterbath. The traditional oxblood formu
 
 ## Thanatochromia
 
-<span class="dye-greek">Θανατοχρωμία · the color death leaves behind</span>
+<span class="dye-greek" lang="el" translate="no">Θανατοχρωμία · the color death leaves behind</span>
 <span class="dye-pronunciation">tha-na-to-khro-MEE-ah</span>
 
 <span class="dye-swatch swatch-thanatochromia"></span>
@@ -47,7 +47,7 @@ Madder root with iron mordant. Iron transforms madder from red toward purple, a 
 
 ## Aporia
 
-<span class="dye-greek">ἀπορία · the condition of being stuck between unresolvable truths</span>
+<span class="dye-greek" lang="el" translate="no">ἀπορία · the condition of being stuck between unresolvable truths</span>
 <span class="dye-pronunciation">ah-po-REE-ah</span>
 
 <span class="dye-swatch swatch-aporia"></span>
@@ -62,7 +62,7 @@ Logwood base with iron, overdyed with indigo. The tension between iron (earth, p
 
 ## Natural
 
-<span class="dye-greek">Φύσις · nature, the way things grow</span>
+<span class="dye-greek" lang="el" translate="no">Φύσις · nature, the way things grow</span>
 <span class="dye-pronunciation">FOO-sis</span>
 
 <span class="dye-swatch swatch-natural"></span>
