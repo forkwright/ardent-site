@@ -57,7 +57,7 @@ No belt? Measure around your body where you'd wear it. That's your belt size.
 Custom sizes available on request.
 
 <div class="purchase-box">
-  <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-812721277" itemtype="http://schema.org/Product" data-single-product-id="812721277"><div class="ecsp-title" itemprop="name" style="display:none;" content="Ardent Belt"></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
+  <a href="https://zohosecurepay.com/checkout/1iw92ra-021ak9prq7zg6v/Heritage-Belt" class="buy-btn" target="_blank" rel="noopener">Purchase - $150</a>
 </div>
 
 ## Warranty
