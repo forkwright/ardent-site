@@ -50,13 +50,15 @@ The hide carries the story of the animal that lived. Its scars, its shade. Minim
 
 ## Sizing
 
-Measure your current belt from the fold at the buckle to the hole you use most.
+Belt size is not pants size. Belt size is the actual measurement in inches.
 
-No belt? Measure around your body where you'd wear it. That's your belt size.
+Measure your current belt from the fold at the buckle to the hole you use most. Or measure around your body where you'd wear it.
+
+Most people wear a belt 2" larger than their pants. Size 34 pants typically needs a size 36 belt.
 
 Concealed carry? Add 1" to your measurement.
 
-Custom sizes available on request.
+Available: 30" to 44" in 1" increments. Custom sizes on request.
 
 <div class="purchase-box">
   <a href="https://buy.stripe.com/cNi9AT1ZHfFDeNRdsh6Ri02" class="buy-btn" target="_blank" rel="noopener">Purchase - $150</a>
