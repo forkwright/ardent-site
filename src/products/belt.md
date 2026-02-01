@@ -54,6 +54,8 @@ Measure your current belt from the fold at the buckle to the hole you use most.
 
 No belt? Measure around your body where you'd wear it. That's your belt size.
 
+Concealed carry? Add 1" to your measurement.
+
 Custom sizes available on request.
 
 <div class="purchase-box">
