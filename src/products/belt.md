@@ -57,7 +57,7 @@ No belt? Measure around your body where you'd wear it. That's your belt size.
 Custom sizes available on request.
 
 <div class="purchase-box">
-  <a href="https://buy.stripe.com/28E28r1ZH797eNRbk96Ri00" class="buy-btn" target="_blank" rel="noopener">Purchase - $150</a>
+  <a href="https://buy.stripe.com/cNi9AT1ZHfFDeNRdsh6Ri02" class="buy-btn" target="_blank" rel="noopener">Purchase - $150</a>
 </div>
 
 ## Warranty
