@@ -72,6 +72,6 @@ Different dimensions available on request. Cost varies by size.
 | | |
 |---|---:|
 | Materials | $10 |
-| Labor & Workshop | $65 |
+| Labor & Workshop (~1.5 hrs) | $65 |
 | Shipping | $10 |
 | **Total** | **$85** |
