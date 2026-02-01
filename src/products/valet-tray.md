@@ -50,7 +50,7 @@ Starts stiff. Softens where you touch it.
 8" × 6" interior. 1.75" walls. Phone, wallet, watch, keys.
 
 <div class="purchase-box">
-  <div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-812937367" itemtype="http://schema.org/Product" data-single-product-id="812937367"><div class="ecsp-title" itemprop="name" style="display:none;" content="Ardent Valet Tray"></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?130265752&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
+  <a href="https://zohosecurepay.com/checkout/zsiyrup-o6bf753xygmuww/Valet-Tray" class="buy-btn" target="_blank" rel="noopener">Purchase - $85</a>
 </div>
 
 ## Warranty
