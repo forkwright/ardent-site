@@ -57,7 +57,7 @@ No belt? Measure around your body where you'd wear it. That's your belt size.
 Custom sizes available on request.
 
 <div class="purchase-box">
-  <a href="https://zohosecurepay.com/checkout/1iw92ra-021ak9prq7zg6v/Heritage-Belt" class="buy-btn" target="_blank" rel="noopener">Purchase - $150</a>
+  <a href="https://buy.stripe.com/28E28r1ZH797eNRbk96Ri00" class="buy-btn" target="_blank" rel="noopener">Purchase - $150</a>
 </div>
 
 ## Warranty

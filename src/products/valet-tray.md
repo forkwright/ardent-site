@@ -50,7 +50,7 @@ Starts stiff. Softens where you touch it.
 8" × 6" interior. 1.75" walls. Phone, wallet, watch, keys.
 
 <div class="purchase-box">
-  <a href="https://zohosecurepay.com/checkout/zsiyrup-o6bf753xygmuww/Valet-Tray" class="buy-btn" target="_blank" rel="noopener">Purchase - $85</a>
+  <a href="https://buy.stripe.com/aFafZhawdgJHbBF1Jz6Ri01" class="buy-btn" target="_blank" rel="noopener">Purchase - $85</a>
 </div>
 
 ## Warranty
