@@ -61,6 +61,8 @@ Ancient Greek was built for philosophical precision. Its roots combine systemati
 
 The words that appear here, in the navigation, in the dye names, in the motto below, are not decoration. They are unfamiliar on purpose. You hover, you see something you don't immediately recognize, you pause. That pause is the point.
 
+<p class="specs" style="margin-top: var(--space-m);"><a href="/lexicon/">See the lexicon →</a></p>
+
 ---
 
 <h2 data-greek="Ὁ Δημιουργός"><span>The Maker</span></h2>
@@ -70,6 +72,8 @@ Cody builds systems and seeks resonance. This is the canvas where thought doesn'
 Marine Corps, data science, AI systems. Different materials, same work. Pattern recognition, iteration, the slow accumulation of understanding through contact with things that push back.
 
 All hand tools. No machines between hand and work. The feedback loop stays direct.
+
+Occasional writing on craft and philosophy in the [journal](/journal/).
 
 <div class="workshop-images">
   <p class="image-placeholder">Workshop images forthcoming:</p>
