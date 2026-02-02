@@ -2,7 +2,7 @@
  * Ardent Leatherworks
  * Dark academia × Japanese workwear
  * 
- * Fonts: Fraunces (display), Source Serif 4 (body), Space Mono (specs)
+ * Fonts: Cormorant Garamond (display), Spectral (body), IBM Plex Mono (specs)
  * Scale: 1.2 ratio, 16px base, 1.625 line-height
  */
 
@@ -1258,4 +1258,17 @@ main hr {
     rgba(92, 142, 99, 0.08) 0%, 
     rgba(92, 142, 99, 0.04) 50%, 
     rgba(248, 243, 232, 1) 100%);
+}
+
+/* Accessibility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }

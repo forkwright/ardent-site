@@ -7,6 +7,8 @@ permalink: /philosophy/
 
 # Philosophy
 
+<p class="specs" style="margin-bottom: var(--space-l);"><a href="/lexicon/">Lexicon of terms →</a></p>
+
 Meaning is not given.
 
 Meaning is made through attention, care, and staying present inside work that resists.
@@ -60,8 +62,6 @@ To find out who you become when you give real care to something fragile and diff
 Ancient Greek was built for philosophical precision. Its roots combine systematically, its terms carry millennia of contemplated meaning. Where English requires sentences, Greek compresses into syllables.
 
 The words that appear here, in the navigation, in the dye names, in the motto below, are not decoration. They are unfamiliar on purpose. You hover, you see something you don't immediately recognize, you pause. That pause is the point.
-
-<p class="specs" style="margin-top: var(--space-m);"><a href="/lexicon/">See the lexicon →</a></p>
 
 ---
 
