@@ -7,7 +7,7 @@ permalink: /journal/
 
 <h1 data-greek="Ἡμερολόγιον"><span>Journal</span></h1>
 
-Notes from the bench. What worked, what didn't, what I'm thinking about. <a href="/lexicon/">Lexicon</a>.
+Notes from the bench. What worked, what didn't, what I'm thinking about. The [Lexicon](/lexicon/) holds what I'm reading and drawing from.
 
 <ul class="journal-list">
   <li>
