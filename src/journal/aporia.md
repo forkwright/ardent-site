@@ -1,13 +1,13 @@
 ---
 layout: base.njk
-title: Aporia
+title: ἀπορία
 permalink: /journal/aporia/
 description: "On living between unresolvable truths. Why the green is the most honest of the three."
 ---
 
 <div class="entry-header">
 
-# Aporia
+# ἀπορία
 
 <p class="entry-date">2026-01-20</p>
 

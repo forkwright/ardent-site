@@ -36,7 +36,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
   </li>
   <li>
     <a href="/journal/aporia/">
-      <span class="entry-name">Aporia</span>
+      <span class="entry-name">ἀπορία</span>
       <span class="entry-date-inline">2026-01-20</span>
       <span class="entry-components">ἀπορία · productive uncertainty · the green</span>
       <span class="entry-words">~1050 words</span>
