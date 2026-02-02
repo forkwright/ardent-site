@@ -16,7 +16,7 @@ The ideas behind the work. Why we make what we make, how we think about craft, a
 ### Proofs and Refutations
 *Process as proof - knowledge forged through dialogue*
 
-[Imre Lakatos](https://en.wikipedia.org/wiki/Proofs_and_Refutations), 1976. Mathematics isn't discovered, it's constructed through conjecture and criticism. Theorems aren't found but forged through dialogue - conjecture, counterexample, revision. Knowledge emerges from the struggle, not despite it.
+[Imre Lakatos](https://en.wikipedia.org/wiki/Proofs_and_Refutations), 1976. Mathematics isn't discovered, it's constructed through conjecture and criticism. Theorems aren't found but forged through dialogue - counterexample, revision, refinement. Knowledge emerges from the struggle, not despite it.
 
 Directly informs *process as proof*: the work carries evidence of its making. The stitches are the argument.
 
