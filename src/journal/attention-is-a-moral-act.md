@@ -109,6 +109,6 @@ Ten months. A lifetime of moments ahead. I'm not ready, but readiness isn't the 
 
 Presence is the point. Showing up is the point.
 
-I'll keep showing up.
+I'll keep showing up. And this. This is something I won't allow my mind to forget.
 
 <p class="specs">~1000 words</p>
