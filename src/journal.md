@@ -35,6 +35,14 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
     </a>
   </li>
   <li>
+    <a href="/journal/aporia/">
+      <span class="entry-name">Aporia</span>
+      <span class="entry-date-inline">2026-01-20</span>
+      <span class="entry-components">ἀπορία · productive uncertainty · the green</span>
+      <span class="entry-words">~1050 words</span>
+    </a>
+  </li>
+  <li>
     <a href="/journal/what-remains/">
       <span class="entry-name">What Remains</span>
       <span class="entry-date-inline">2026-01-17</span>
