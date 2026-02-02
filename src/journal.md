@@ -26,6 +26,14 @@ Notes from the bench. What worked, what didn't, what I'm thinking about. The [Le
       <span class="entry-words">~620 words</span>
     </a>
   </li>
+  <li>
+    <a href="/journal/what-remains/">
+      <span class="entry-name">What Remains</span>
+      <span class="entry-date-inline">2026-01-17</span>
+      <span class="entry-components">ardere · presence · the question</span>
+      <span class="entry-words">~1100 words</span>
+    </a>
+  </li>
 </ul>
 
 <p class="specs">Newest at top.</p>
