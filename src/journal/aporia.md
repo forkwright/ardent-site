@@ -105,4 +105,4 @@ Not whether I resolved it. Whether I stayed.
 
 This entry, like everything, is never what I intended. It's what I have.
 
-<p class="specs">~1050 words</p>
+<p class="specs">~900 words</p>
