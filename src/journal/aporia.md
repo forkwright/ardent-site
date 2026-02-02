@@ -25,11 +25,9 @@ I live there. Not occasionally - constantly. The condition isn't a problem to so
 
 ---
 
-My mind runs three operating systems at once. Pattern recognition that sees layers others don't. Attention that scatters when the interest fades. A need for systematic precision that wars with the chaos of an embodied life. Each system is real. Each makes demands the others can't accommodate.
+My mind doesn't compress cleanly. Multiple systems running at once, each making demands the others can't accommodate. To function in the world, I translate constantly - converting how I actually think into something that fits. The overhead is real. By evening I'm often empty from it.
 
-To function, I run a translation layer - converting how I actually think into something that fits conversation, commerce, ordinary life. The overhead is constant. By evening I'm often empty, not from work but from the tax of existing in systems built for different minds.
-
-This is the first Aporia: I think in ways that don't compress cleanly, but the world requires compression. Neither truth yields. I live between them.
+This is the first Aporia: the world requires compression, but compression loses what matters. Neither truth yields. I live between them.
 
 I wish to be understood - not reduced, just seen. But every attempt at directness passes through a uniquely blurry window. Full conveyance with little gain, or resignation to language's constraints? The choice itself is Aporia. I choose both. I choose neither. I keep trying anyway.
 
@@ -37,17 +35,11 @@ I wish to be understood - not reduced, just seen. But every attempt at directnes
 
 Every parent knows fear. Mine has a specific shape.
 
-I learned lies as a child. That worth comes from performance. That love is conditional on usefulness. I know they're lies now, but knowing doesn't erase the patterns. They're in my hands, my reflexes, the way I respond before thinking.
+I cannot fail him. And I cannot fail him. Same words - one about stakes, one about pressure. Both true. Neither yields.
 
-What if I pass them on? Not through words - I know better than to say them. Through behavior. Through the thousand moments where my son sees what I actually value, not what I claim to value.
+The lies I learned as a child live in my reflexes, not my beliefs. I know better; my hands don't. What if he learns what I do rather than what I say?
 
-The paradox: I cannot fail him. And I cannot fail him.
-
-First meaning: the stakes. Refusing any outcome where my limitations become his wounds.
-
-Second meaning: the pressure. The impossibility of carrying that weight without being crushed.
-
-Same words. Both true. Neither yields. This is the deepest Aporia I know.
+This is the deepest Aporia I know. I wrote about it [elsewhere](/journal/attention-is-a-moral-act/) because it needed its own space.
 
 ---
 

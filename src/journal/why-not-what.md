@@ -69,11 +69,7 @@ The alternative is "premium positioning" - charge what the market will bear, jus
 
 None of these choices are the only right choices. You could make an excellent belt with chrome-tanned leather, a stamped buckle, machine stitching, painted edges. It would be a different object encoding different values.
 
-This belt encodes what I actually believe: that materials carry history, that construction should be honest, that attention is a moral act, that objects can hold meaning beyond their function.
-
-The work remembers whether I was present. I want the answer to be yes.
-
----
+This belt encodes what I actually believe: that materials carry history, that construction should be honest, that objects can hold meaning beyond their function.
 
 The product page is [here](/products/belt/). It tells you what. This is why.
 
