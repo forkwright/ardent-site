@@ -87,7 +87,7 @@ nav {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
   padding-bottom: var(--space-s);
   border-bottom: 1px solid var(--text);
 }
@@ -101,26 +101,42 @@ nav {
   color: var(--text);
   position: relative;
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 0.5em;
 }
 
 .logo-mark {
-  height: 2em;
+  height: 2.2em;
   width: auto;
+  align-self: flex-end;
+  margin-bottom: -0.2em;
 }
 
 .logo span {
   transition: opacity 0.3s ease;
 }
 
-/* Hide Greek hover when logo-mark is present */
-.logo:has(.logo-mark)::after {
-  display: none;
+.logo::after {
+  content: attr(data-greek);
+  position: absolute;
+  left: 3em;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  text-transform: none;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  font-size: var(--step--2);
+}
+
+.logo:hover::after {
+  opacity: 1;
 }
 
 .logo:hover span {
-  color: var(--text-light);
+  opacity: 0;
 }
 
 .nav-links {
