@@ -101,6 +101,14 @@ nav {
   color: var(--text);
   position: relative;
   min-width: 16em;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.logo-mark {
+  height: 2.5em;
+  width: auto;
 }
 
 .logo span {
@@ -279,6 +287,12 @@ a:hover {
   justify-content: center;
   text-align: center;
   gap: var(--space-s);
+}
+
+.home-logo {
+  width: 180px;
+  height: auto;
+  margin-bottom: var(--space-m);
 }
 
 .home-tagline {

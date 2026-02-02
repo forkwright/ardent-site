@@ -6,6 +6,7 @@ bodyClass: home-page
 ---
 
 <div class="home">
+  <img src="/img/logo-flame.png" alt="Ardent flame mark" class="home-logo">
   <p class="home-tagline" data-alt="Attention is a moral act."><span>The Hand Remembers<br>What The Mind Tries To Forget</span></p>
   <a href="/philosophy/" class="triad-mark cycling" id="triad">
     <span class="triad-word triad-1"><span class="greek">χείρ</span><span class="english">hand</span></span>
