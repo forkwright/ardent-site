@@ -27,6 +27,14 @@ Notes from the bench. What worked, what didn't, what I'm thinking about. The [Le
     </a>
   </li>
   <li>
+    <a href="/journal/what-i-cannot-fail/">
+      <span class="entry-name">What I Cannot Fail</span>
+      <span class="entry-date-inline">2026-01-24</span>
+      <span class="entry-components">inheritance · presence · the paradox</span>
+      <span class="entry-words">~1000 words</span>
+    </a>
+  </li>
+  <li>
     <a href="/journal/what-remains/">
       <span class="entry-name">What Remains</span>
       <span class="entry-date-inline">2026-01-17</span>
