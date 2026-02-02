@@ -82,3 +82,5 @@ Wear it. The leather improves with use. No conditioning needed. The hide is alre
 | Labor & Workshop (~2.5 hrs) | $108 |
 | Shipping | $10 |
 | **Total** | **$150** |
+
+[Why these choices →](/journal/why-not-what/)
