@@ -7,7 +7,7 @@ permalink: /philosophy/
 
 # Philosophy
 
-<p class="specs" style="margin-bottom: var(--space-l);"><a href="/lexicon/">Lexicon of terms →</a></p>
+<p class="specs" style="margin-bottom: var(--space-l);"><a href="/lexicon/">The sources behind these ideas →</a></p>
 
 Meaning is not given.
 
