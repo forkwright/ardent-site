@@ -290,9 +290,9 @@ a:hover {
 }
 
 .home-logo {
-  width: 180px;
+  width: 120px;
   height: auto;
-  margin-bottom: var(--space-m);
+  margin-bottom: var(--space-xs);
 }
 
 .home-tagline {
