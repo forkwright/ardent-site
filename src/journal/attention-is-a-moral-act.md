@@ -41,7 +41,7 @@ The question isn't rhetorical. I don't have an answer. I have the question, and 
 
 ---
 
-I <strong style="color: #581523;">despise</strong> feeling frustrated when I'm with him.
+I <strong style="color: #581523; font-style: italic;">despise</strong> feeling frustrated when I'm with him.
 
 It happens when I'm trying to do something else - something I "need" to do, something with a deadline or a consequence. He needs attention and I'm calculating how to give him enough while preserving enough for the other thing. Dividing presence. Rationing attention.
 
