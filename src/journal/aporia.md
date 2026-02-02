@@ -27,7 +27,7 @@ I live there. Not occasionally - constantly. The condition isn't a problem to so
 
 My mind doesn't compress cleanly. Multiple systems running at once, each making demands the others can't accommodate. To function in the world, I translate constantly - converting how I actually think into something that fits. The overhead is real. By evening I'm often empty from it.
 
-This is the first Aporia: the world requires compression, but compression loses what matters. Neither truth yields. I live between them.
+This is the first Aporia. The world requires compression, but compression loses what matters. Neither truth yields. I live between them.
 
 I wish to be understood - not reduced, just seen. But every attempt at directness passes through a uniquely blurry window. Full conveyance with little gain, or resignation to language's constraints? The choice itself is Aporia. I choose both. I choose neither. I keep trying anyway.
 
@@ -45,13 +45,13 @@ This is the deepest Aporia I know. I wrote about it [elsewhere](/journal/attenti
 
 I chose Aporia for the green dye because green is the color of sitting with what won't resolve.
 
-The chemistry: iron and indigo and logwood, balanced so the color shifts. Blue in bright light, purple in shadow, green that breathes depending on how you look at it. The dye can't decide because the ingredients won't let it. The tension is the color.
+Iron and indigo and logwood, balanced so the color shifts. Blue in bright light, purple in shadow, green that breathes depending on how you look at it. The dye can't decide because the ingredients won't let it. The tension is the color.
 
 That's not metaphor. That's what I see when I look at most things.
 
 ---
 
-Craft offers something unusual: presence within the Aporia rather than escape from it.
+Craft offers something unusual. Presence within the Aporia rather than escape from it.
 
 When I'm stitching, I'm not resolving the tension between quality and efficiency. I've already chosen quality - the decision is behind me. What remains is the work itself, which doesn't require the translation layer. The leather pushes back. The stitch holds or it doesn't. For a few hours, the overhead collapses.
 
@@ -63,15 +63,15 @@ I can be present within the tensions. I cannot escape them.
 
 Keats called it negative capability - being capable of uncertainties, mysteries, doubts, without irritable reaching after fact and reason.
 
-I think he understood something I'm still learning: the reaching is the problem. Resolution isn't the goal. The goal is presence within the unresolved.
+I think he understood something I'm still learning. The reaching is the problem. Resolution isn't the goal. The goal is presence within the unresolved.
 
-My extension is this: I use precise language to *name* the tensions, not to collapse them. Aporia isn't a word I chose for its obscurity. It's a word that does exactly what I need - names the condition without pretending to cure it.
+My extension is to use precise language to *name* the tensions, not to collapse them. Aporia isn't a word I chose for its obscurity. It's a word that does exactly what I need - names the condition without pretending to cure it.
 
 ---
 
 When someone asks what Ardent is about, I struggle to answer. It's leather goods, yes. It's craft philosophy. It's attention preserved in material form.
 
-But underneath, it's this: a practice for being present within contradictions that won't resolve.
+But underneath, it's a practice for being present within contradictions that won't resolve.
 
 The business must be viable, but I refuse to optimize for extraction. The work must communicate, but I refuse lossy compression. The objects must sell, but I refuse to claim quality I can only demonstrate.
 
@@ -91,7 +91,7 @@ I don't know how to explain this to someone who experiences the world as resolva
 
 That's not complaint - it's recognition that translation loss goes both ways.
 
-What I can say: the green shifts depending on how you look at it, and that shifting is the most honest thing about it. The color doesn't pretend to be one thing. It holds the tension in the dye itself.
+What I can say is that the green shifts depending on how you look at it, and that shifting is the most honest thing about it. The color doesn't pretend to be one thing. It holds the tension in the dye itself.
 
 That's what I'm trying to make. Objects that hold tension. Work that doesn't pretend the contradictions are resolved. Presence within the Aporia, not escape from it.
 
