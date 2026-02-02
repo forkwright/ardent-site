@@ -1,13 +1,13 @@
 ---
 layout: base.njk
-title: What I Cannot Fail
-permalink: /journal/what-i-cannot-fail/
+title: Attention Is a Moral Act
+permalink: /journal/attention-is-a-moral-act/
 description: "On fatherhood, inheritance, and the weight of building someone."
 ---
 
 <div class="entry-header">
 
-# What I Cannot Fail
+# Attention Is a Moral Act
 
 <p class="entry-date">2026-01-24</p>
 
