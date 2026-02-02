@@ -73,4 +73,4 @@ This belt encodes what I actually believe: that materials carry history, that co
 
 The product page is [here](/products/belt/). It tells you what. This is why.
 
-<p class="specs">~750 words</p>
+<p class="specs">~700 words</p>

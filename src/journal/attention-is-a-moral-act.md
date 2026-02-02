@@ -113,4 +113,4 @@ I'll keep showing up.
 
 And this. This is something I won't allow my mind to forget.
 
-<p class="specs">~1000 words</p>
+<p class="specs">~950 words</p>

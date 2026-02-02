@@ -109,4 +109,4 @@ The work remembers whether I was present.
 
 I'm going to make sure the answer is yes.
 
-<p class="specs">~1100 words</p>
+<p class="specs">~1050 words</p>

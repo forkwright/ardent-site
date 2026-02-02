@@ -15,7 +15,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
       <span class="entry-name">Why, Not What</span>
       <span class="entry-date-inline">2026-02-01</span>
       <span class="entry-components">single-layer · saddle stitch · slow knowledge</span>
-      <span class="entry-words">~750 words</span>
+      <span class="entry-words">~700 words</span>
     </a>
   </li>
   <li>
@@ -23,7 +23,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
       <span class="entry-name">The Cost of Naming</span>
       <span class="entry-date-inline">2026-01-31</span>
       <span class="entry-components">the Greek · negative capability · Lakatos</span>
-      <span class="entry-words">~620 words</span>
+      <span class="entry-words">~570 words</span>
     </a>
   </li>
   <li>
@@ -31,7 +31,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
       <span class="entry-name">Attention Is a Moral Act</span>
       <span class="entry-date-inline">2026-01-24</span>
       <span class="entry-components">inheritance · presence · the paradox</span>
-      <span class="entry-words">~1000 words</span>
+      <span class="entry-words">~950 words</span>
     </a>
   </li>
   <li>
@@ -39,7 +39,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
       <span class="entry-name">ἀπορία</span>
       <span class="entry-date-inline">2026-01-20</span>
       <span class="entry-components">ἀπορία · productive uncertainty · the green</span>
-      <span class="entry-words">~1050 words</span>
+      <span class="entry-words">~850 words</span>
     </a>
   </li>
   <li>
@@ -47,7 +47,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
       <span class="entry-name">What Remains</span>
       <span class="entry-date-inline">2026-01-17</span>
       <span class="entry-components">ardere · presence · the question</span>
-      <span class="entry-words">~1100 words</span>
+      <span class="entry-words">~1050 words</span>
     </a>
   </li>
 </ul>
