@@ -11,6 +11,14 @@ Notes from the bench. What worked, what didn't, what I'm thinking about. The [Le
 
 <ul class="journal-list">
   <li>
+    <a href="/journal/why-not-what/">
+      <span class="entry-name">Why, Not What</span>
+      <span class="entry-date-inline">2026-02-01</span>
+      <span class="entry-components">single-layer · saddle stitch · slow knowledge</span>
+      <span class="entry-words">~750 words</span>
+    </a>
+  </li>
+  <li>
     <a href="/journal/the-cost-of-naming/">
       <span class="entry-name">The Cost of Naming</span>
       <span class="entry-date-inline">2026-01-31</span>
