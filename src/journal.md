@@ -1,13 +1,13 @@
 ---
 layout: base.njk
 title: Journal
-description: "Notes from the bench. Process, materials, the work of making. Observations from Ardent Leatherworks."
+description: "Why the work exists. Why attention matters. What I'm trying not to fail."
 permalink: /journal/
 ---
 
 <h1 data-greek="Ἡμερολόγιον"><span>Journal</span></h1>
 
-Notes from the bench. What worked, what didn't, what I'm thinking about. The [Lexicon](/lexicon/) holds what I'm reading and drawing from.
+Why the work exists. Why attention matters. What I'm trying not to fail. The [Lexicon](/lexicon/) holds what I'm reading and drawing from.
 
 <ul class="journal-list">
   <li>
