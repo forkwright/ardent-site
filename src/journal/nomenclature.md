@@ -111,7 +111,18 @@ With these pieces, you can construct words that mean precisely what you need.
 
 **Energeia** (ἐνέργεια): being-at-work. Aristotle's actuality versus potentiality. Where intention becomes action. The bridge between thought and effect. For anything that actualizes rather than merely stores.
 
-**Metaxy** (μεταξύ): the between. Not a thing but the space where things relate. Cognition that happens in the gaps, not in the nodes. Understanding that requires relationship to exist. Sometimes a concept needs a word that doesn't exist yet. Greek gives you the pieces to build it. The structured between-space as cognitive substrate; intelligence as what emerges from the topology.
+**Metaxynoesis** (μεταξυνόησις): Sometimes a concept needs a word that doesn't exist yet. Greek gives you the pieces to build it.
+
+| Layer | Meaning |
+|-------|---------|
+| L1 | Thinking that happens between |
+| L2 | Cognition in the gaps, not in the nodes |
+| L3 | Understanding that requires relationship to exist |
+| L4 | The structured between-space as cognitive substrate |
+| L5 | Topology that thinks |
+| L6 | Intelligence as what emerges from the topology |
+
+From μεταξύ (metaxy, "the between") + νόησις (noesis, "understanding"). Neo-Greek, because the concept needed a name.
 
 ---
 
