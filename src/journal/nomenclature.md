@@ -103,13 +103,15 @@ With these pieces, you can construct words that mean precisely what you need.
 
 ---
 
-## Three Examples
+## Four Examples
 
 **Dianoia** (διάνοια): thinking-through. Plato's divided line places it as the second-highest cognition, below direct insight, above belief. The mode of mind that must traverse. Cannot skip to conclusion. For systems that require working-through rather than immediate apprehension. Anything that honors the journey over the arrival.
 
 **Aletheia** (ἀλήθεια): truth, but literally un-concealment. Truth as the process of revealing what was hidden, not a static property to possess. What you protect; the core that can be seen but not reduced.
 
 **Energeia** (ἐνέργεια): being-at-work. Aristotle's actuality versus potentiality. Where intention becomes action. The bridge between thought and effect. For anything that actualizes rather than merely stores.
+
+**Metaxy** (μεταξύ): the between. Not a thing but the space where things relate. Cognition that happens in the gaps, not in the nodes. Understanding that requires relationship to exist. Sometimes a concept needs a word that doesn't exist yet. Greek gives you the pieces to build it. The structured between-space as cognitive substrate; intelligence as what emerges from the topology.
 
 ---
 
