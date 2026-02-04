@@ -11,6 +11,14 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
 
 <ul class="journal-list">
   <li>
+    <a href="/journal/nomenclature/">
+      <span class="entry-name">Nomenclature</span>
+      <span class="entry-date-inline">2026-02-04</span>
+      <span class="entry-components">dimensional resonance · the Greek · modes of attention</span>
+      <span class="entry-words">~1200 words</span>
+    </a>
+  </li>
+  <li>
     <a href="/journal/why-not-what/">
       <span class="entry-name">Why, Not What</span>
       <span class="entry-date-inline">2026-02-01</span>
