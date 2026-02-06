@@ -49,4 +49,4 @@ Nothing synthetic. Nothing that would need to be stripped and reapplied.
 
 ---
 
-*These materials cost more. They should.*
+*These materials cost more than the alternatives. The difference is in what they become over years, not what they look like on day one.*
