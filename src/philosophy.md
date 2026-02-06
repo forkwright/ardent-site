@@ -7,59 +7,53 @@ permalink: /philosophy/
 
 # Philosophy
 
-I build systems and I seek truth. Data architecture, military logistics, AI systems, leather construction. Different materials. Same work. The through-line is pattern recognition, iteration, and the slow accumulation of understanding through contact with things that push back.
+I spent five years as a Marine Corps officer. Equipment had to work, every time. Failure wasn't abstract - you could see it, measure it, hold it in your hands.
 
-Leather is the canvas where that contact is most honest.
+Most of my working life since has been in data and AI. Building systems where the structure matters more than the surface. Where shortcuts don't just look bad, they propagate. Where the work either holds under load or it doesn't, and you find out which one in production.
 
-## How I got here
+Leather is a different kind of system. But I keep coming back to the same discipline - find the right materials, use tools that don't lie to you, and take away everything that could fail. What's left tends to be honest.
 
-I spent five years as a Marine Corps officer. Attention to detail wasn't optional. Equipment had to work, every time. Failure wasn't abstract. You could see it, measure it, hold it accountable.
+---
 
-Most of my working life since has been in data and AI. Building systems where the structure matters more than the surface. Where shortcuts propagate into failure points. Where the work either holds under load or it doesn't.
-
-Leather is a different kind of system. But the discipline is the same. Source the right materials. Use tools that don't compromise. Remove everything that could fail. What's left is what you actually believe.
-
-## Why hands
-
-I can think in circles forever. Build frameworks that explain everything and change nothing. My mind is good at starting and bad at holding.
+I can think in circles forever. I can build frameworks that explain everything and change nothing. My mind is good at starting and bad at holding.
 
 But when I pick up an awl and push it through leather, something different happens. The material pushes back. The stitch either holds or it doesn't. The edge is either burnished or it isn't. There's no layer where I can hide from whether I was actually present.
 
 The hand remembers what the mind tries to forget.
 
-That's not a tagline. It's the most true thing I know about making. Physical skill accumulates in the body independent of conscious attention. The thousandth stitch teaches what the first stitch couldn't. The hands develop knowledge that the mind never fully accesses.
+That's not a tagline. It's the most true thing I know about making. Physical skill accumulates in the body independent of what the conscious mind is doing. The thousandth stitch teaches something the first stitch couldn't. The hands develop knowledge that I never fully access through thinking. When I'm stitching, the overhead collapses. For a few hours, my mind works the way it's supposed to.
 
-When I'm stitching, the overhead collapses. For a few hours, my mind works the way it's supposed to.
+---
 
-## What the materials carry
-
-Leather was skin. It carried an animal's life. Scars, stretch marks, the particular texture of that creature's existence. When I work it, those marks are still there. I'm not erasing history. I'm continuing it.
+Leather was skin. It carried an animal's life - scars, stretch marks, the particular texture of that creature's existence. When I work it, those marks are still there. I'm not erasing history. I'm continuing it.
 
 The dyes are absorbed into the hide, not painted on top. The chemistry is the same as centuries ago. When someone wears what I make, their oils, their movement, their life gets absorbed the same way. The object becomes a record of partnership. It ages. It gets better.
 
-Most things are designed to stay the same until they break. I wanted to make things that grow.
+Most things in the world are designed to stay the same until they break. I wanted to make things that grow.
 
-## Why it has to be honest
+---
 
-Perfection is sterile. Proof nothing real happened. I'd rather show seams than hide them. Edge paint is faster than burnishing, but it's a coating. Coatings crack. Burnishing transforms the leather itself. Nothing to peel because nothing was added.
+I'd rather show a seam than hide it.
 
-Single-layer construction rather than bonded layers. Stitched attachments rather than Chicago screws. Brass that ages rather than plating that flakes. Every choice is a decision about what kind of failure you're willing to accept. I'd rather build something that wears than something that breaks.
+Edge paint is faster than burnishing. But it's a coating, and coatings crack. Burnishing transforms the leather itself - friction and pressure consolidate the fibers into a smooth surface. There's nothing to peel because nothing was added.
+
+Single-layer construction rather than bonded layers, because layers delaminate. Stitched attachments rather than screws, because thread holds longer than hardware. Brass that ages rather than plating that flakes. Every choice is a decision about what kind of failure you're willing to accept, and I keep choosing the ones that wear rather than break.
 
 Process is the proof. The worth of the work is in the fact that someone showed up, paid attention, and left evidence of care in the object itself.
 
-## Attention
+---
 
 Attention is a moral act.
 
-To work with care. To refuse shortcuts. To sit with frustration rather than rush through it. To honor the limits of skill instead of performing past them. The object remembers whether attention was paid or competence was merely performed.
+I keep coming back to that. To work with care. To refuse shortcuts. To sit with frustration rather than rush through it. To honor the limits of skill instead of performing past them. The object remembers whether attention was paid or competence was merely performed.
 
-This applies to everything I do. But leather makes it visible. The evidence is in the stitch line, the edge, the grain. You can't fake it. You can't shortcut it. The work either holds or it doesn't.
+This applies to everything I do. But leather makes it visible. The evidence is in the stitch line, the edge, the grain. You can't fake presence. The work either holds or it doesn't.
 
-## Why this exists at all
+---
 
-Not to prove worth. Not to build a brand. Not to perform depth.
+I didn't start Ardent to prove worth, or to build a brand, or to perform depth.
 
-To discover what kind of person emerges when care is given deeply to something fragile and difficult. And to make objects that carry that care forward into someone else's life.
+I started it to find out what kind of person emerges when care is given deeply to something fragile and difficult. And to make objects that carry that care forward into someone else's life - things you can hold when words don't transmit.
 
 The work remembers whether I was present. I intend for the answer to be yes.
 
