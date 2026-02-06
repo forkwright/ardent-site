@@ -11,7 +11,7 @@ Dye soaks into leather. It doesn't coat it. The color becomes part of the hide.
 
 These recipes use historical ingredients: plant matter, mineral mordants, time. Madder root, logwood, indigo, iron. The same materials that colored Roman boots and medieval manuscripts.
 
-Each name names a condition, not just a color.
+The names aren't colors. They're conditions - states of being that the color carries.
 
 <div class="dye-entry dye-entry-aima">
 

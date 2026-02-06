@@ -7,7 +7,7 @@ permalink: /materials/
 
 # Materials
 
-What something is made of determines what it can become.
+Everything here was chosen because it lasts. Not because lasting is a selling point, but because these materials get better with use instead of worse.
 
 <h2 data-greek="Δέρμα"><span>Hermann Oak Leather</span></h2>
 
@@ -21,7 +21,7 @@ The russett color is natural - the result of oak bark and tallow, not dye. This 
 
 [Botanical dyes](/dyes/) available in limited batches.
 
-<h2 data-greek="Δέρμα"><span>Wickett & Craig Leather</span></h2>
+<h2 data-greek="Βυρσοδεψική"><span>Wickett & Craig Leather</span></h2>
 
 One of two specialty vegetable tanneries left in the United States. Their Traditional Harness leather is hot-stuffed with waxes, oils, and tallows while still receptive, then jack-glazed: a glass cylinder compresses the grain and pulls waxes to the surface.
 
