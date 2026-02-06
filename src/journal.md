@@ -1,23 +1,15 @@
 ---
 layout: base.njk
 title: Journal
-description: "Why the work exists. Why attention matters. What I'm trying not to fail."
+description: "Notes from the bench. Process, materials, the work of making."
 permalink: /journal/
 ---
 
 <h1 data-greek="Ἡμερολόγιον"><span>Journal</span></h1>
 
-Why the work exists. Why attention matters. What I'm trying not to fail. The [Lexicon](/lexicon/) holds what I'm reading and drawing from.
+Notes from the bench. Process, materials, the work of making. The [Lexicon](/lexicon/) holds what I'm reading and drawing from.
 
 <ul class="journal-list">
-  <li>
-    <a href="/journal/nomenclature/">
-      <span class="entry-name">Nomenclature</span>
-      <span class="entry-date-inline">2026-02-04</span>
-      <span class="entry-components">dimensional resonance · the Greek · modes of attention</span>
-      <span class="entry-words">~1300 words</span>
-    </a>
-  </li>
   <li>
     <a href="/journal/why-not-what/">
       <span class="entry-name">Why, Not What</span>
@@ -35,19 +27,11 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
     </a>
   </li>
   <li>
-    <a href="/journal/attention-is-a-moral-act/">
-      <span class="entry-name">Attention Is a Moral Act</span>
-      <span class="entry-date-inline">2026-01-24</span>
-      <span class="entry-components">inheritance · presence · the paradox</span>
-      <span class="entry-words">~950 words</span>
-    </a>
-  </li>
-  <li>
     <a href="/journal/aporia/">
       <span class="entry-name">ἀπορία</span>
       <span class="entry-date-inline">2026-01-20</span>
       <span class="entry-components">ἀπορία · productive uncertainty · the green</span>
-      <span class="entry-words">~850 words</span>
+      <span class="entry-words">~430 words</span>
     </a>
   </li>
   <li>
@@ -55,7 +39,7 @@ Why the work exists. Why attention matters. What I'm trying not to fail. The [Le
       <span class="entry-name">What Remains</span>
       <span class="entry-date-inline">2026-01-17</span>
       <span class="entry-components">ardere · presence · the question</span>
-      <span class="entry-words">~1050 words</span>
+      <span class="entry-words">~480 words</span>
     </a>
   </li>
 </ul>
