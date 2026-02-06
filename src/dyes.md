@@ -52,7 +52,7 @@ Madder root with iron mordant. Iron transforms madder from red toward purple, a 
 
 <span class="dye-swatch swatch-aporia"></span>
 
-A philosophical term from Plato and Aristotle. ἀπορία names the impasse when two truths contradict and neither yields. The only way through is abstraction. Recurse. Hold both as true while climbing another rung of Hayakawa's ladder. Of the three, this word is closest to Ardent's core.
+A philosophical term from Plato and Aristotle. The impasse when two truths contradict and neither yields. You can't resolve it. You can only be present inside it. Of the three, this word is closest to what Ardent is actually about.
 
 Logwood base with iron, overdyed with indigo. The tension between iron (earth, permanence) and indigo (sky, transcendence), mediated by logwood. The color shifts between blue in bright light and purple in shadow. Green that breathes.
 
