@@ -59,7 +59,7 @@ Wickett & Craig Traditional Harness. Hot-stuffed with waxes and oils while the l
 The same principle as the belt's Hermann Oak - leather that records your use rather than resisting it. The cover after a few months of daily carry doesn't look like the cover when it shipped, and that change is part of what makes it worth keeping.
 
 <div class="purchase-box">
-  <p class="coming-soon">Coming soon</p>
+  <a href="https://buy.stripe.com/6oUeVd7k19hfeNRewl6Ri03" class="buy-btn" target="_blank" rel="noopener">Purchase - $50</a>
 </div>
 
 ## Warranty
