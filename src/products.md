@@ -1,13 +1,13 @@
 ---
 layout: base.njk
 title: Products
-description: "Heirloom leather goods from Ardent Leatherworks. Belt, valet tray. Hermann Oak leather, solid brass, hand saddle-stitched. Made to order."
+description: "Heirloom leather goods from Ardent Leatherworks. Belt, valet tray, hand-bound notebook. Hermann Oak and Wickett & Craig leather, solid brass, hand saddle-stitched. Made to order."
 permalink: /products/
 ---
 
 <h1 data-greek="Ἔργα"><span>Products</span></h1>
 
-Two products. Each one mastered before adding another.
+Three products. Each one mastered before adding another.
 
 <ul class="products-list">
   <li>
@@ -22,6 +22,13 @@ Two products. Each one mastered before adding another.
       <span class="product-name">Valet Tray</span>
       <span class="product-materials">Hermann Oak · linen</span>
       <span class="product-price">$85</span>
+    </a>
+  </li>
+  <li>
+    <a href="/products/notebook/">
+      <span class="product-name">Notebook</span>
+      <span class="product-materials">Wickett & Craig · Midori MD Cotton · linen</span>
+      <span class="product-price">$50</span>
     </a>
   </li>
 </ul>

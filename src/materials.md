@@ -35,7 +35,9 @@ All Ardent hardware is solid brass from Abbey England, a Walsall foundry operati
 
 <h2 data-greek="Νῆμα"><span>Thread</span></h2>
 
-Fil au Chinois Lin Câblé, size 332 Sans. French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
+Fil au Chinois Lin Câblé, French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
+
+Size 332 for leather, 632 for paper. The same thread maker, scaled to the material. The gauge matches the substrate, not a brand standard.
 
 Hand saddle-stitching creates two independent thread paths. If one side wears through, the other holds. Machine stitching uses a single interlocked thread. One break and the whole seam unravels.
 
