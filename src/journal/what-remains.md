@@ -45,9 +45,7 @@ All hand tools. French knives, American edgers, brass and oak and thread. No mac
 
 ---
 
-The name comes from the Latin *ardere* - to burn.
-
-Not passion. Not enthusiasm. The fire that tests.
+The name comes from the Latin *ardere* - to burn. Not passion or enthusiasm, but the fire that tests.
 
 I've abandoned a lot of things that didn't hold up. The ones that survived had something in common - they were actually true. Not performed. Not positioned. Just true.
 

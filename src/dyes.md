@@ -52,9 +52,9 @@ Madder root with iron mordant. Iron transforms madder from red toward purple, a 
 
 <span class="dye-swatch swatch-aporia"></span>
 
-A philosophical term from Plato and Aristotle. The impasse when two truths contradict and neither yields. You can't resolve it. You can only be present inside it. Of the three, this word is closest to what Ardent is actually about.
+A philosophical term from Plato and Aristotle. The impasse when two truths contradict and neither yields. You can't resolve it. You can only be present inside it.
 
-Logwood base with iron, overdyed with indigo. The tension between iron (earth, permanence) and indigo (sky, transcendence), mediated by logwood. The color shifts between blue in bright light and purple in shadow. Green that breathes.
+Logwood base with iron, overdyed with indigo. The tension between iron (earth, permanence) and indigo (sky, transcendence), mediated by logwood. The color shifts between blue in bright light and purple in shadow.
 
 </div>
 
@@ -69,7 +69,7 @@ Logwood base with iron, overdyed with indigo. The tension between iron (earth, p
 
 Undyed [Hermann Oak](/materials/). The leather as it leaves the tannery, tallow-stuffed and full of potential.
 
-Vegetable tannins darken with light and handling. The oils from your hands accelerate the change. Russet becomes amber becomes deep brown over years. Every mark evidence of the life you've lived together.
+Vegetable tannins darken with light and handling. The oils from your hands accelerate the change. Russet becomes amber becomes deep brown over years.
 
 </div>
 
@@ -77,8 +77,8 @@ Vegetable tannins darken with light and handling. The oils from your hands accel
 
 Botanical matter simmered for an hour, extracting pigment into water. Strained. Mordant applied to fix color into the leather's structure and prevent fading. The mordant determines the final color as much as the dye itself.
 
-Applied in thin coats by sponge or wool dauber. Thin coats penetrate. Thick coats crack. Each layer dried and buffed before the next. The dye soaks into the hide's grain. This is not surface treatment.
+Applied in thin coats by sponge or wool dauber. Thin coats penetrate; thick coats crack. Each layer dried and buffed before the next.
 
-No two batches are exactly alike. Each will age differently. The names are states, not specifications. Concepts the mind holds, not colors a machine matches.
+No two batches are exactly alike. Each will age differently.
 
 <p class="specs">Hand-dyed pieces are released in limited batches.</p>

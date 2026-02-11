@@ -7,7 +7,7 @@ permalink: /lexicon/
 
 <h1 data-greek="Λεξικόν"><span>Lexicon</span></h1>
 
-The ideas behind the work. Why we make what we make, how we think about craft, and the thinkers who've shaped the approach.
+The ideas behind the work. The thinkers who've shaped it.
 
 ---
 
@@ -18,7 +18,7 @@ The ideas behind the work. Why we make what we make, how we think about craft, a
 
 [Imre Lakatos](https://en.wikipedia.org/wiki/Proofs_and_Refutations), 1976. Mathematics isn't discovered, it's constructed through conjecture and criticism. Theorems aren't found but forged through dialogue - counterexample, revision, refinement. Knowledge emerges from the struggle, not despite it.
 
-Directly informs *process as proof*: the work carries evidence of its making. The stitches are the argument.
+Directly informs *process as proof*: the work carries evidence of its making.
 
 ### The Craftsman
 *Craft as the pursuit of quality for its own sake*
@@ -38,7 +38,7 @@ Directly informs *process as proof*: the work carries evidence of its making. Th
 ### Tools for Conviviality
 *Tools that enhance autonomy, not replace it*
 
-[Ivan Illich](https://en.wikipedia.org/wiki/Tools_for_Conviviality), 1973. Tools should serve human autonomy, not disable it. Industrial tools create dependence; convivial tools enable self-directed action. The hand tool as political statement.
+[Ivan Illich](https://en.wikipedia.org/wiki/Tools_for_Conviviality), 1973. Tools should serve human autonomy, not disable it. Industrial tools create dependence; convivial tools enable self-directed action. The hand tool as an alternative to dependence.
 
 ### Ladder of Abstraction
 *Language operates at levels from concrete to abstract*
@@ -53,7 +53,7 @@ Directly informs *process as proof*: the work carries evidence of its making. Th
 ### The Nature and Art of Workmanship
 *Workmanship of risk vs. workmanship of certainty*
 
-[David Pye](https://en.wikipedia.org/wiki/David_Pye_(woodworker)), 1968. The outcome of the workmanship of risk depends on the skill of the maker at the moment of making - it can go wrong. The workmanship of certainty (jigs, molds, machines) predetermines the result. Hand work is risk. That's the point.
+[David Pye](https://en.wikipedia.org/wiki/David_Pye_(woodworker)), 1968. The outcome of the workmanship of risk depends on the skill of the maker at the moment of making - it can go wrong. The workmanship of certainty (jigs, molds, machines) predetermines the result. Hand work is risk.
 
 ### Tacit Dimension
 *We know more than we can tell*

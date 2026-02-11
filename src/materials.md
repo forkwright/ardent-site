@@ -7,7 +7,7 @@ permalink: /materials/
 
 # Materials
 
-Everything here was chosen because it lasts. Not because lasting is a selling point, but because these materials get better with use instead of worse.
+Everything here was chosen for how it ages.
 
 <h2 data-greek="Δέρμα"><span>Hermann Oak Leather</span></h2>
 
@@ -35,11 +35,9 @@ All Ardent hardware is solid brass from Abbey England, a Walsall foundry operati
 
 <h2 data-greek="Νῆμα"><span>Thread</span></h2>
 
-Fil au Chinois Lin Câblé, French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. It has been used in fine leatherwork and bookbinding for centuries.
+Fil au Chinois Lin Câblé, French linen thread, waxed. Linen is stronger than cotton and more forgiving than polyester. Size 332 for leather, 632 for paper.
 
-Size 332 for leather, 632 for paper. The same thread maker, scaled to the material. The gauge matches the substrate, not a brand standard.
-
-Hand saddle-stitching creates two independent thread paths. If one side wears through, the other holds. Machine stitching uses a single interlocked thread. One break and the whole seam unravels.
+Hand saddle-stitching uses two needles working the same thread from opposite sides. Each stitch locks into the next. If one breaks, the rest hold.
 
 <h2 data-greek="Τέλος"><span>Finish</span></h2>
 
@@ -51,4 +49,4 @@ Nothing synthetic. Nothing that would need to be stripped and reapplied.
 
 ---
 
-*These materials cost more than the alternatives. The difference is in what they become over years, not what they look like on day one.*
+*The difference is in what they become over years.*

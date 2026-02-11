@@ -2,7 +2,7 @@
 layout: base.njk
 title: ἀπορία
 permalink: /journal/aporia/
-description: "On the green dye and the tensions it holds. Why the color that can't decide is the most honest of the three."
+description: "On the green dye and the tensions it holds. Why the color that can't decide is the one I keep thinking about."
 ---
 
 <div class="entry-header">
@@ -33,7 +33,7 @@ Every choice in craft encodes tensions that don't fully resolve.
 
 Single-layer versus bonded. The single layer is more honest, but the bonded construction lets you use thinner cuts and hide imperfections. Both are valid. Both encode different values about what you're willing to show.
 
-Hand stitch versus machine. The hand stitch is stronger and more beautiful, but it takes ten times longer. At some point the time becomes a cost that the customer pays. Where's the line between integrity and indulgence?
+Hand stitch versus machine. The hand stitch is stronger, but it takes ten times longer. At some point the time becomes a cost that the customer pays. Where's the line between integrity and indulgence?
 
 Hermann Oak versus cheaper alternatives that look the same on day one. The difference only shows over years. You're asking someone to trust you about a future they can't verify. Every sale is an argument about time that you can't win with evidence.
 
