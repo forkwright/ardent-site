@@ -46,8 +46,6 @@ Thread is Fil au Chinois 632, French linen, waxed. At 0.51mm it's heavy enough t
 
 Midori MD Cotton. Eighty grams, cream, blank.
 
-No lines, no dots, no grid. The quality is in the surface, not in what's printed on it before you start.
-
 The cotton content matters over time. It gives the pages a feel that pure wood pulp doesn't quite reach - a little softer, a little warmer. The kind of difference you notice with a fountain pen or a pencil. The kind of paper worth keeping after the notebook is full.
 
 ## The Leather
