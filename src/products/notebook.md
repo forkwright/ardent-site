@@ -60,7 +60,7 @@ Workmanship guaranteed. If the binding fails, we repair it.
 
 ## Care
 
-Use it. When it's full, it goes on the shelf.
+The leather is already saturated. No conditioning needed.
 
 <p class="specs">Size: A5 (148 × 210mm) · Pages: 100 · Paper: 80gsm · Cover: ~5mm panels, ~3mm spine</p>
 
