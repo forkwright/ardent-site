@@ -30,33 +30,33 @@ description: Wickett & Craig harness leather, Midori MD Cotton paper, woven long
 
 ## Construction
 
-The cover is a single piece of Wickett & Craig harness leather, skived thinner at the spine so it folds without fighting. The panels stay structured. The spine flexes. That's the engineering - not a thinner leather chosen for convenience, but a heavier leather made right where it needs to give.
+The cover is a single piece of Wickett & Craig harness leather. At 4oz it has the structure to hold its shape as a panel, but harness leather at that weight doesn't want to fold. So the spine is skived thinner - down to about 2oz - feathering out on either side of the fold. The panels keep their weight. The spine gives where it needs to. A thinner leather throughout would have been simpler, but it would start soft and stay soft, and that isn't how Ardent works.
 
-Five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages. The paper is 20% cotton pulp, made by Designphil in Japan - they've been refining this stock since the 1960s. It takes ink without bleeding and pencil without smearing. A4 sheets folded to A5 with no waste.
+Inside are five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages. Designphil has been making this paper in Japan since the 1960s, refining the same line for over sixty years. The cotton content - 20% pulp - gives it a softer feel under a pen than pure wood pulp, a warmer cream tone, and fibers that age well. A4 sheets fold to A5 with nothing left over.
 
-The binding is woven long stitch. Thread passes along the outside of the spine between signatures, then a second pass weaves through the runs, interlocking everything. It takes twice as long as a standard long stitch. The weave means the signatures can't shift laterally, and if one run ever loosens, the others hold. You can see it on the spine - the woven texture is structural reinforcement that happens to be worth looking at.
+The binding is woven long stitch. Thread passes along the outside of the spine between signatures, entering each one at five sewing stations. After all five signatures are sewn, a second pass weaves through the exposed runs, interlocking them. It takes about twice as long as a standard long stitch. The signatures can't shift because the weave holds them laterally, and if one run ever loosens the interlocking keeps the rest in place. The woven texture on the spine is structural reinforcement - it just happens to be visible.
 
-Before the cover goes on, endbands are sewn at the head and tail. Linen cord wrapped with the same thread, anchored through each signature. These reinforce the two points where a notebook takes the most abuse - pulled from a bag, set on a shelf, carried in a hand. Commercial binderies skip this step and glue on a strip of colored fabric instead. The fabric does nothing. It's there to look like something was done.
+Before the cover goes on, endbands are sewn at the head and tail of the spine. Linen cord wrapped with the same thread, anchored through each signature's center fold. The head and tail are where a notebook takes the most wear - pulled from a bag, shelved, handled. Hand-sewn endbands have been reinforcing those points since at least the fifth century. Most commercial binderies glue on a strip of colored fabric instead, which is faster and does nothing structural.
 
-After binding, all three open edges are burnished with beeswax and agate. The same principle as burnishing leather edges - compression and friction transform a raw surface into a finished one. The pages release cleanly. Dust and moisture meet a sealed edge instead of open fibers.
+After binding, all three open edges - head, tail, fore-edge - are burnished with beeswax and agate stone. It's the same principle as burnishing leather edges: compression and friction transform a raw surface into a finished one. The pages release more cleanly. Dust and moisture meet a sealed edge instead of open fibers. Bookbinders have been doing this since the medieval period because it works.
 
-Thread is Fil au Chinois 632, French linen, waxed. The same maker as the belt's thread, scaled down for paper. 632 is correct for this weight the way 332 is correct for harness leather. The gauge matches the material, not a brand standard.
+Thread is Fil au Chinois 632, French linen, waxed. The same maker as the belt, different gauge. 632 is the weight that's right for paper the way 332 is right for harness leather. The thread scales to the material.
 
 Date stamped inside the back cover.
 
 ## The Paper
 
-Midori MD Cotton. 80 grams, cream, blank.
+Midori MD Cotton. Eighty grams, cream, blank.
 
-Blank because the notebook doesn't have an opinion about how you should use it. No lines, no dots, no grid. The paper quality speaks through what you put on it, not through what's printed on it before you start.
+Blank because the paper doesn't need to tell you how to use it. No lines, no dots, no grid. The quality is in the surface, not in what's printed on it before you start.
 
-The cotton content gives it a softer feel under a pen than pure wood pulp. Warmer tone. Better aging. The kind of paper that belongs in a notebook you keep after it's full.
+The cotton content matters over time. It gives the pages a feel that pure wood pulp doesn't quite reach - a little softer, a little warmer. The kind of difference you notice with a fountain pen or a pencil. The kind of paper worth keeping after the notebook is full.
 
 ## The Leather
 
-Wickett & Craig Traditional Harness. Hot-stuffed with waxes and oils while the leather is still receptive, then jack-glazed under a glass cylinder. It starts firm and structured, earns its softness through handling.
+Wickett & Craig Traditional Harness. Hot-stuffed with waxes and oils while the leather is still receptive, then jack-glazed under a glass cylinder. It starts structured and earns its softness through handling.
 
-The same philosophy as the belt's Hermann Oak - leather that records your use rather than resisting it. The cover on day one hundred doesn't look like the cover on day one, and that's the point.
+The same principle as the belt's Hermann Oak - leather that records your use rather than resisting it. The cover after a few months of daily carry doesn't look like the cover when it shipped, and that change is part of what makes it worth keeping.
 
 <div class="purchase-box">
   <p class="coming-soon">Coming soon</p>
