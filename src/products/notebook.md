@@ -30,9 +30,9 @@ description: Wickett & Craig harness leather, Midori MD Cotton paper, woven long
 
 ## Construction
 
-The cover is a single piece of Wickett & Craig harness leather. At 4oz it has the structure to hold its shape as a panel, but harness leather at that weight doesn't want to fold. So the spine is skived thinner - down to about 2oz - feathering out on either side of the fold. The panels keep their weight. The spine gives where it needs to. A thinner leather throughout would have been simpler, but it would start soft and stay soft, and that isn't how Ardent works.
+The cover is a single piece of Wickett & Craig harness leather. At 4oz it has the structure to hold its shape as a panel, but harness leather at that weight doesn't want to fold. So the spine is skived thinner - down to about 2oz - feathering out on either side of the fold. The panels keep their weight. The spine gives where it needs to. A thinner leather throughout would have been simpler, but it would start soft and stay soft.
 
-Inside are five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages. Designphil has been making this paper in Japan since the 1960s, refining the same line for over sixty years. The cotton content - 20% pulp - gives it a softer feel under a pen than pure wood pulp, a warmer cream tone, and fibers that age well. A4 sheets fold to A5 with nothing left over.
+Inside are five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages. Designphil has been making this paper in Japan since the 1960s, refining the same line for over sixty years. The cotton content - 20% pulp - gives it a softer feel under a pen than pure wood pulp, a warmer cream tone, and fibers that age well.
 
 The binding is woven long stitch. Thread passes along the outside of the spine between signatures, entering each one at five sewing stations. After all five signatures are sewn, a second pass weaves through the exposed runs, interlocking them. It takes about twice as long as a standard long stitch. The signatures can't shift because the weave holds them laterally, and if one run ever loosens the interlocking keeps the rest in place. The woven texture on the spine is structural reinforcement - it just happens to be visible.
 
@@ -40,15 +40,13 @@ Before the cover goes on, endbands are sewn at the head and tail of the spine. L
 
 After binding, all three open edges - head, tail, fore-edge - are burnished with beeswax and agate stone. It's the same principle as burnishing leather edges: compression and friction transform a raw surface into a finished one. The pages release more cleanly. Dust and moisture meet a sealed edge instead of open fibers. Bookbinders have been doing this since the medieval period because it works.
 
-Thread is Fil au Chinois 632, French linen, waxed. The same maker as the belt, different gauge. 632 is the weight that's right for paper the way 332 is right for harness leather. The thread scales to the material.
-
-Date stamped inside the back cover.
+Thread is Fil au Chinois 632, French linen, waxed. 632 is the weight that's right for paper the way 332 is right for harness leather.
 
 ## The Paper
 
 Midori MD Cotton. Eighty grams, cream, blank.
 
-Blank because the paper doesn't need to tell you how to use it. No lines, no dots, no grid. The quality is in the surface, not in what's printed on it before you start.
+No lines, no dots, no grid. The quality is in the surface, not in what's printed on it before you start.
 
 The cotton content matters over time. It gives the pages a feel that pure wood pulp doesn't quite reach - a little softer, a little warmer. The kind of difference you notice with a fountain pen or a pencil. The kind of paper worth keeping after the notebook is full.
 
