@@ -40,7 +40,7 @@ Before the cover goes on, endbands are sewn at the head and tail of the spine. L
 
 After binding, all three open edges - head, tail, fore-edge - are burnished with beeswax and agate stone. It's the same principle as burnishing leather edges: compression and friction transform a raw surface into a finished one. The pages release more cleanly. Dust and moisture meet a sealed edge instead of open fibers. Bookbinders have been doing this since the medieval period because it works.
 
-Thread is Fil au Chinois 632, French linen, waxed. 632 is the weight that's right for paper the way 332 is right for harness leather.
+Thread is Fil au Chinois 632, French linen, waxed. At 0.51mm it's heavy enough to hold the signatures without loosening, light enough not to tear the paper at the sewing stations.
 
 ## The Paper
 
