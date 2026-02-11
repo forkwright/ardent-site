@@ -34,7 +34,7 @@ The cover is a single piece of Wickett & Craig harness leather. At 4oz it has th
 
 Inside are five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages. Designphil has been making this paper in Japan since the 1960s, refining the same line for over sixty years. The cotton content - 20% pulp - gives it a softer feel under a pen than pure wood pulp, a warmer cream tone, and fibers that age well.
 
-The binding is woven long stitch. Thread passes along the outside of the spine between signatures, entering each one at five sewing stations. After all five signatures are sewn, a second pass weaves through the exposed runs, interlocking them. It takes about twice as long as a standard long stitch. The signatures can't shift because the weave holds them laterally, and if one run ever loosens the interlocking keeps the rest in place. The woven texture on the spine is structural reinforcement - it just happens to be visible.
+The binding is woven long stitch. Thread passes along the outside of the spine between signatures, entering each one at five sewing stations. After all five signatures are sewn, a second pass weaves through the exposed runs, interlocking them. It takes about twice as long as a standard long stitch. The signatures can't shift because the weave holds them laterally, and if one run ever loosens the interlocking keeps the rest in place. The woven texture on the spine is visible from the outside.
 
 Before the cover goes on, endbands are sewn at the head and tail of the spine. Linen cord wrapped with the same thread, anchored through each signature's center fold. The head and tail are where a notebook takes the most wear - pulled from a bag, shelved, handled. Hand-sewn endbands have been reinforcing those points since at least the fifth century. Most commercial binderies glue on a strip of colored fabric instead, which is faster and does nothing structural.
 
@@ -54,7 +54,7 @@ The cotton content matters over time. It gives the pages a feel that pure wood p
 
 Wickett & Craig Traditional Harness. Hot-stuffed with waxes and oils while the leather is still receptive, then jack-glazed under a glass cylinder. It starts structured and earns its softness through handling.
 
-The same principle as the belt's Hermann Oak - leather that records your use rather than resisting it. The cover after a few months of daily carry doesn't look like the cover when it shipped, and that change is part of what makes it worth keeping.
+The cover after a few months of daily carry doesn't look like the cover when it shipped. It darkens where you hold it, softens where it folds.
 
 <div class="purchase-box">
   <a href="https://buy.stripe.com/6oUeVd7k19hfeNRewl6Ri03" class="buy-btn" target="_blank" rel="noopener">Purchase - $50</a>
