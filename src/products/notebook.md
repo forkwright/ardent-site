@@ -40,7 +40,7 @@ Endbands are sewn at the head and tail before the cover goes on - linen cord wra
 
 After binding, all three open edges are burnished with beeswax and agate stone. Compression and friction seal the paper fibers into a smooth surface.
 
-Thread is Fil au Chinois 632, French linen, waxed, 0.51mm. Date stamped inside the back cover.
+Thread is Fil au Chinois 632, French linen, waxed, 0.51mm.
 
 ## The Paper
 
