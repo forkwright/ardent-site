@@ -30,29 +30,25 @@ description: Wickett & Craig harness leather, Midori MD Cotton paper, woven long
 
 ## Construction
 
-The cover is a single piece of Wickett & Craig harness leather. At 4oz it has the structure to hold its shape as a panel, but harness leather at that weight doesn't want to fold. So the spine is skived thinner - down to about 2oz - feathering out on either side of the fold. The panels keep their weight. The spine gives where it needs to. A thinner leather throughout would have been simpler, but it would start soft and stay soft.
+The cover is a single piece of Wickett & Craig harness leather, skived thinner at the spine. The panels stay at 4oz. The spine comes down to about 2oz, feathering out on either side of the fold.
 
-Inside are five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages. Designphil has been making this paper in Japan since the 1960s, refining the same line for over sixty years. The cotton content - 20% pulp - gives it a softer feel under a pen than pure wood pulp, a warmer cream tone, and fibers that age well.
+Five signatures of Midori MD Cotton paper, five folios each. A hundred blank pages.
 
-The binding is woven long stitch. Thread passes along the outside of the spine between signatures, entering each one at five sewing stations. After all five signatures are sewn, a second pass weaves through the exposed runs, interlocking them. It takes about twice as long as a standard long stitch. The signatures can't shift because the weave holds them laterally, and if one run ever loosens the interlocking keeps the rest in place. The woven texture on the spine is visible from the outside.
+The binding is woven long stitch. Thread passes along the outside of the spine between signatures, entering each one at five sewing stations. After all five are sewn, a second pass weaves through the exposed runs, interlocking them. The woven texture is visible on the spine.
 
-Before the cover goes on, endbands are sewn at the head and tail of the spine. Linen cord wrapped with the same thread, anchored through each signature's center fold. The head and tail are where a notebook takes the most wear - pulled from a bag, shelved, handled. Hand-sewn endbands have been reinforcing those points since at least the fifth century. Most commercial binderies glue on a strip of colored fabric instead, which is faster and does nothing structural.
+Endbands are sewn at the head and tail before the cover goes on - linen cord wrapped with thread, anchored through each signature's center fold.
 
-After binding, all three open edges - head, tail, fore-edge - are burnished with beeswax and agate stone. It's the same principle as burnishing leather edges: compression and friction transform a raw surface into a finished one. The pages release more cleanly. Dust and moisture meet a sealed edge instead of open fibers. Bookbinders have been doing this since the medieval period because it works.
+After binding, all three open edges are burnished with beeswax and agate stone. Compression and friction seal the paper fibers into a smooth surface.
 
-Thread is Fil au Chinois 632, French linen, waxed. At 0.51mm it's heavy enough to hold the signatures without loosening, light enough not to tear the paper at the sewing stations.
+Thread is Fil au Chinois 632, French linen, waxed, 0.51mm. Date stamped inside the back cover.
 
 ## The Paper
 
-Midori MD Cotton. Eighty grams, cream, blank.
-
-The cotton content matters over time. It gives the pages a feel that pure wood pulp doesn't quite reach - a little softer, a little warmer. The kind of difference you notice with a fountain pen or a pencil. The kind of paper worth keeping after the notebook is full.
+Midori MD Cotton. Eighty grams, cream, blank. Designphil has been refining this line in Japan since the 1960s. The cotton content gives the pages a softer feel under a pen than pure wood pulp, a warmer tone, and fibers that hold up over time.
 
 ## The Leather
 
-Wickett & Craig Traditional Harness. Hot-stuffed with waxes and oils while the leather is still receptive, then jack-glazed under a glass cylinder. It starts structured and earns its softness through handling.
-
-The cover after a few months of daily carry doesn't look like the cover when it shipped. It darkens where you hold it, softens where it folds.
+Wickett & Craig Traditional Harness. Hot-stuffed with waxes and oils while the leather is still receptive, then jack-glazed under a glass cylinder. The cover after a few months of daily carry doesn't look like the cover when it shipped. It darkens where you hold it, softens where it folds.
 
 <div class="purchase-box">
   <a href="https://buy.stripe.com/6oUeVd7k19hfeNRewl6Ri03" class="buy-btn" target="_blank" rel="noopener">Purchase - $50</a>
@@ -64,7 +60,7 @@ Workmanship guaranteed. If the binding fails, we repair it.
 
 ## Care
 
-Use it. When it's full, it goes on the shelf. The leather cover and burnished edges will hold for decades.
+Use it. When it's full, it goes on the shelf.
 
 <p class="specs">Size: A5 (148 × 210mm) · Pages: 100 · Paper: 80gsm · Cover: ~5mm panels, ~3mm spine</p>
 
