@@ -60,7 +60,7 @@ Workmanship guaranteed. If the binding fails, we repair it.
 
 ## Care
 
-The leather is already saturated. No conditioning needed.
+The hide is already saturated with the oils it needs from tanning. If it gets wet, let it dry slowly away from heat.
 
 <p class="specs">Size: A5 (148 × 210mm) · Pages: 100 · Paper: 80gsm · Cover: ~5mm panels, ~3mm spine</p>
 
